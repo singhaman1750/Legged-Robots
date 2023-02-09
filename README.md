@@ -10,7 +10,7 @@ This repository contains papers, videos and other references in the field of leg
 3. Feedback MPC: [Feedback MPC for Torque-Controlled Legged Robots](https://arxiv.org/abs/1905.06144)
 4. RF-MPC: [Representation-Free Model Predictive Control for Dynamic Motions in Quadrupeds](https://arxiv.org/abs/2012.10002)
       a. Github Code link: [YanranDing/RF-MPC](https://github.com/YanranDing/RF-MPC)
-5. Motion Imitation: [Learning Agile Robotic Locomotion Skills by Imitating Animals](https://arxiv.org/abs/2004.00784)
+7. Motion Imitation: [Learning Agile Robotic Locomotion Skills by Imitating Animals](https://arxiv.org/abs/2004.00784)
       a. Github Code link: [erwincoumans/motion_imitation](https://github.com/erwincoumans/motion_imitation)
 
 ## Videos: 
