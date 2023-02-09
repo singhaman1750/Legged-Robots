@@ -15,5 +15,14 @@ This repository contains papers, videos and other references in the field of leg
 
 ## Useful articles:
 
+### Software installations:
 1. [Installing Anaconda on Ubuntu 22.04](https://linuxhint.com/install-anaconda-ubuntu-22-04/)
 2. [Installing Anaconda on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart)
+
+### Algos:
+1. [DDP](http://www.imgeorgiev.com/2023-02-01-ddp/): A good read for DDP
+
+## Interesting Github Repositories
+
+1. [loco-3d/crocoddyl:](https://github.com/loco-3d/crocoddyl)
+Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
