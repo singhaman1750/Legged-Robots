@@ -12,6 +12,7 @@ This repository contains papers, videos and other references in the field of leg
       a. Github Code link: [YanranDing/RF-MPC](https://github.com/YanranDing/RF-MPC)
 5. **Motion Imitation**: [Learning Agile Robotic Locomotion Skills by Imitating Animals](https://arxiv.org/abs/2004.00784)\
       a. Github Code link: [erwincoumans/motion_imitation](https://github.com/erwincoumans/motion_imitation)
+6. **Non-Linear RF-MPC**:[Real-Time Constrained Nonlinear Model Predictive Control on SO(3) or Dynamic Legged Locomotion](http://ras.papercept.net/images/temp/IROS/files/2325.pdf)
 
 ## Video Lectures: 
 1. [Introduction to Trajectory Optimization: Matthew Kelly](https://www.youtube.com/watch?v=wlkRYMVUZTs)
