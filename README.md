@@ -21,6 +21,7 @@ This repository contains papers, videos and other references in the field of leg
 
 ## Video Lectures: 
 1. [Introduction to Trajectory Optimization: Matthew Kelly](https://www.youtube.com/watch?v=wlkRYMVUZTs)
+2. [Reinforcement Learning: David Silver](https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
 
 ## Useful articles:
 
