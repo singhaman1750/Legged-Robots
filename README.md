@@ -19,7 +19,7 @@ This repository contains papers, videos and other references in the field of leg
 1. **Contact-implicit DDP**: [Contact-Implicit Differential Dynamic Programming for Model Predictive Control with Relaxed Complementarity Constraints](https://ieeexplore.ieee.org/document/9981476)
 2. **RPC on MIT Cheetah-3**: [Implementing Regularized Predictive Control for Simultaneous Real-Time Footstep and Ground Reaction Force Optimization](https://ieeexplore.ieee.org/document/8968031)
 
-####Mechanical Design:
+#### Mechanical Design:
 1. **Actuator Design**: [DRPD, Dual Reduction Ratio Planetary Drive for Articulated Robot Actuators(https://ieeexplore.ieee.org/abstract/document/9981201)
 
 ## Video Lectures: 
