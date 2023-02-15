@@ -21,6 +21,7 @@ This repository contains papers, videos and other references in the field of leg
 
 #### Mechanical Design:
 1. **Actuator Design**: [DRPD, Dual Reduction Ratio Planetary Drive for Articulated Robot Actuators](https://ieeexplore.ieee.org/abstract/document/9981201)
+2. **KAIST, HOUND design**: [Design of KAIST HOUND, a Quadruped Robot Platform for Fast and Efficient Locomotion with Mixed-Integer Nonlinear Optimization of a Gear Train](https://ieeexplore.ieee.org/abstract/document/9811755)
 
 ## Video Lectures: 
 1. [Introduction to Trajectory Optimization: Matthew Kelly](https://www.youtube.com/watch?v=wlkRYMVUZTs)
@@ -39,3 +40,7 @@ This repository contains papers, videos and other references in the field of leg
 
 1. [loco-3d/crocoddyl:](https://github.com/loco-3d/crocoddyl)
 Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
+
+## Websites of Labs working in Legged robotics:
+
+1. [**DRDC Lab**: Hae-Won Park, KAIST, South Korea](https://www.dynamicrobot.kaist.ac.kr/)
