@@ -43,4 +43,5 @@ Crocoddyl is an optimal control library for robot control under contact sequence
 
 ## Websites of Labs working in Legged robotics:
 
-1. [**DRDC Lab**: Hae-Won Park, KAIST, South Korea](https://www.dynamicrobot.kaist.ac.kr/)
+1. [**Biomimetics Robotics Lab**: Sangbae Kim, MIT, USA](https://biomimetics.mit.edu/)
+2. [**DRDC Lab**: Hae-Won Park, KAIST, South Korea](https://www.dynamicrobot.kaist.ac.kr/)
