@@ -20,6 +20,7 @@ This repository contains papers, videos and other references in the field of leg
 2. **RPC on MIT Cheetah-3**: [Implementing Regularized Predictive Control for Simultaneous Real-Time Footstep and Ground Reaction Force Optimization](https://ieeexplore.ieee.org/document/8968031)
 
 #### Mechanical Design:
+1. **MIT, Design Principles**: [Design principles for highly efficient quadrupeds and implementation on the MIT Cheetah robot](https://ieeexplore.ieee.org/document/6631038)
 1. **KAIST, Actuator Design**: [DRPD, Dual Reduction Ratio Planetary Drive for Articulated Robot Actuators](https://ieeexplore.ieee.org/abstract/document/9981201)
 2. **KAIST, HOUND design**: [Design of KAIST HOUND, a Quadruped Robot Platform for Fast and Efficient Locomotion with Mixed-Integer Nonlinear Optimization of a Gear Train](https://ieeexplore.ieee.org/abstract/document/9811755)
 3. **UIUC, Tello Leg**: [Tello Leg: The Study of Design Principles and Metrics for Dynamic Humanoid Robots](https://ieeexplore.ieee.org/document/9813569)
@@ -40,8 +41,9 @@ This repository contains papers, videos and other references in the field of leg
 ### Algos:
 1. [DDP](http://www.imgeorgiev.com/2023-02-01-ddp/): A good read for DDP
 
-### Study Tips:
+### Study:
 1. [Paper Study Tips](https://github.com/IvLabs/ResearchPaperNotes/tree/master/literature_study_tips)
+2. [List of Science & Math courses with video lectures](https://github.com/Developer-Y/math-science-video-lectures)
 
 ## Interesting Github Repositories
 
