@@ -27,6 +27,7 @@ This repository contains papers, videos and other references in the field of leg
 3. **UIUC, Tello Leg**: [Tello Leg: The Study of Design Principles and Metrics for Dynamic Humanoid Robots](https://ieeexplore.ieee.org/document/9813569)
 4. **UIUC, Tello Leg**: [The dynamic effect of mechanical losses of transmissions on the equation of motion of legged robots](https://arxiv.org/abs/2106.01842)
 5. **AMI, IIT, Italy, egroCub Humanoid**: [Optimization of Humanoid Robot Designs for Human-Robot Ergonomic Payload Lifting](https://arxiv.org/abs/2211.13503)
+6. **ETH Zurich, ANYmal**: [Vitruvio: An Open-Source Leg Design Optimization Toolbox for Walking Robots](https://ieeexplore.ieee.org/document/9157985)
 
 
 ## Video Lectures: 
