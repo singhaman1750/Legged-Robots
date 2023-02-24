@@ -38,6 +38,9 @@ This repository contains papers, videos and other references in the field of leg
 ### Algos:
 1. [DDP](http://www.imgeorgiev.com/2023-02-01-ddp/): A good read for DDP
 
+### Study Tips:
+1. [Paper Study Tips](https://github.com/IvLabs/ResearchPaperNotes/tree/master/literature_study_tips)
+
 ## Interesting Github Repositories
 
 1. [loco-3d/crocoddyl:](https://github.com/loco-3d/crocoddyl)
