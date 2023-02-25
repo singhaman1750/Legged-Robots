@@ -19,6 +19,10 @@ This repository contains papers, videos and other references in the field of leg
 1. **Contact-implicit DDP**: [Contact-Implicit Differential Dynamic Programming for Model Predictive Control with Relaxed Complementarity Constraints](https://ieeexplore.ieee.org/document/9981476)
 2. **RPC on MIT Cheetah-3**: [Implementing Regularized Predictive Control for Simultaneous Real-Time Footstep and Ground Reaction Force Optimization](https://ieeexplore.ieee.org/document/8968031)
 
+#### Barrier Functions:
+1. **AMBER Lab, CalTech**: [Risk-Averse Control via CVaR Barrier Functions: Application to Bipedal Robot Locomotion](https://ieeexplore.ieee.org/document/9447796)
+2. **MIT Humanoid**: [Humanoid Self-Collision Avoidance Using Whole-Body Control with Control Barrier Functions](https://arxiv.org/abs/2207.00692)
+
 #### Mechanical Design:
 1. **MIT, Design Principles**: [Design principles for highly efficient quadrupeds and implementation on the MIT Cheetah robot](https://ieeexplore.ieee.org/document/6631038)
 1. **KAIST, Actuator Design**: [DRPD, Dual Reduction Ratio Planetary Drive for Articulated Robot Actuators](https://ieeexplore.ieee.org/abstract/document/9981201)
