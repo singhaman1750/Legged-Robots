@@ -18,6 +18,7 @@ This repository contains papers, videos and other references in the field of leg
 #### Optimization problem solving:
 1. **Contact-implicit DDP**: [Contact-Implicit Differential Dynamic Programming for Model Predictive Control with Relaxed Complementarity Constraints](https://ieeexplore.ieee.org/document/9981476)
 2. **RPC on MIT Cheetah-3**: [Implementing Regularized Predictive Control for Simultaneous Real-Time Footstep and Ground Reaction Force Optimization](https://ieeexplore.ieee.org/document/8968031)
+3. **CACTO**: [CACTO: Continuous Actor-Critic with Trajectory Optimization -- Towards global optimality](https://arxiv.org/abs/2211.06625#:~:text=CACTO%3A%20Continuous%20Actor%2DCritic%20with%20Trajectory%20Optimization%20%2D%2D%20Towards%20global%20optimality,-Gianluigi%20Grandesso%2C%20Gastone&text=Abstract%3A%20This%20paper%20presents%20a,RL)
 
 #### Barrier Functions:
 1. **AMBER Lab, CalTech**: [Risk-Averse Control via CVaR Barrier Functions: Application to Bipedal Robot Locomotion](https://ieeexplore.ieee.org/document/9447796)
@@ -32,6 +33,7 @@ This repository contains papers, videos and other references in the field of leg
 4. **UIUC, Tello Leg**: [The dynamic effect of mechanical losses of transmissions on the equation of motion of legged robots](https://arxiv.org/abs/2106.01842)
 5. **AMI, IIT, Italy, egroCub Humanoid**: [Optimization of Humanoid Robot Designs for Human-Robot Ergonomic Payload Lifting](https://arxiv.org/abs/2211.13503)
 6. **ETH Zurich, ANYmal**: [Vitruvio: An Open-Source Leg Design Optimization Toolbox for Walking Robots](https://ieeexplore.ieee.org/document/9157985)
+7. **Co-design(CACTO)**: [Exploring the Limits of a Redundant Actuation System Through Co-Design](https://ieeexplore.ieee.org/document/9400808)
 
 
 ## Video Lectures: 
@@ -60,3 +62,4 @@ Crocoddyl is an optimal control library for robot control under contact sequence
 
 1. [**Biomimetics Robotics Lab**: Sangbae Kim, MIT, USA](https://biomimetics.mit.edu/)
 2. [**DRDC Lab**: Hae-Won Park, KAIST, South Korea](https://www.dynamicrobot.kaist.ac.kr/)
+3. [**Robo Design Lab**: Joao Ramos, UIUC, USA](https://publish.illinois.edu/robodesign/)
