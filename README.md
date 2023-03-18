@@ -24,7 +24,7 @@ This repository contains papers, videos and other references in the field of leg
 1. **AMBER Lab, CalTech**: [Risk-Averse Control via CVaR Barrier Functions: Application to Bipedal Robot Locomotion](https://ieeexplore.ieee.org/document/9447796)
 2. **MIT Humanoid**: [Humanoid Self-Collision Avoidance Using Whole-Body Control with Control Barrier Functions](https://arxiv.org/abs/2207.00692)
 
-#### Mechanical Design:
+### Mechanical Design:
 1. **MIT, Design Principles**: [Design principles for highly efficient quadrupeds and implementation on the MIT Cheetah robot](https://ieeexplore.ieee.org/document/6631038)
 1. **KAIST, Actuator Design**: [DRPD, Dual Reduction Ratio Planetary Drive for Articulated Robot Actuators](https://ieeexplore.ieee.org/abstract/document/9981201)
 2. **KAIST, HOUND design**: [Design of KAIST HOUND, a Quadruped Robot Platform for Fast and Efficient Locomotion with Mixed-Integer Nonlinear Optimization of a Gear Train](https://ieeexplore.ieee.org/abstract/document/9811755)
@@ -35,6 +35,9 @@ This repository contains papers, videos and other references in the field of leg
 6. **ETH Zurich, ANYmal**: [Vitruvio: An Open-Source Leg Design Optimization Toolbox for Walking Robots](https://ieeexplore.ieee.org/document/9157985)
 7. **Co-design(CACTO)**: [Exploring the Limits of a Redundant Actuation System Through Co-Design](https://ieeexplore.ieee.org/document/9400808)
 
+## Patents: 
+1. **Boston Dynamics**: [List of Patents from Boston Dynamics](https://www.bostondynamics.com/patents)
+2. **Boston Dynamics**: [Screw Actuator for Legged Robots](https://patents.google.com/patent/US10253855B2/en)
 
 ## Video Lectures: 
 1. [Introduction to Trajectory Optimization: Matthew Kelly](https://www.youtube.com/watch?v=wlkRYMVUZTs)
