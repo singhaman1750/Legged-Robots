@@ -68,3 +68,4 @@ Crocoddyl is an optimal control library for robot control under contact sequence
 2. [**DRDC Lab**: Hae-Won Park, KAIST, South Korea](https://www.dynamicrobot.kaist.ac.kr/)
 3. [**Robo Design Lab**: Joao Ramos, UIUC, USA](https://publish.illinois.edu/robodesign/)
 4. [**Stochastic Robotics Lab**: Shishir N Y, IISc Bengaluru, India](https://www.stochlab.com/)
+5. [**Robotic Systems Lab**: Marco Hutter, ETH Zurich, Switzerland](https://rsl.ethz.ch/)
