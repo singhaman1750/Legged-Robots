@@ -57,6 +57,9 @@ This repository contains papers, videos and other references in the field of leg
 1. [Paper Study Tips](https://github.com/IvLabs/ResearchPaperNotes/tree/master/literature_study_tips)
 2. [List of Science & Math courses with video lectures](https://github.com/Developer-Y/math-science-video-lectures)
 
+### Know your scientist:
+1. [Steven LaValle](http://lavalle.pl/bio.html): [A motivating story of the man who gave the RRT algorithm for motion planning, in his own words]
+
 ## Interesting Github Repositories
 
 1. [loco-3d/crocoddyl:](https://github.com/loco-3d/crocoddyl)
