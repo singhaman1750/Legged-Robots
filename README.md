@@ -56,6 +56,7 @@ This repository contains papers, videos and other references in the field of leg
 ### Study:
 1. [Paper Study Tips](https://github.com/IvLabs/ResearchPaperNotes/tree/master/literature_study_tips)
 2. [List of Science & Math courses with video lectures](https://github.com/Developer-Y/math-science-video-lectures)
+3. [How to read a paper: Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7044621048364900352?utm_source=share&utm_medium=member_desktop)
 
 ### Know your scientist:
 1. [Steven LaValle](http://lavalle.pl/bio.html): A motivating story of the man who gave the RRT algorithm for motion planning, in his own words
