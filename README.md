@@ -50,8 +50,9 @@ This repository contains papers, videos and other references in the field of leg
 1. [Installing Anaconda on Ubuntu 22.04](https://linuxhint.com/install-anaconda-ubuntu-22-04/)
 2. [Installing Anaconda on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart)
 
-### Algos:
+### Technical topics:
 1. [DDP](http://www.imgeorgiev.com/2023-02-01-ddp/): A good read for DDP
+2. [Policy Gradient Algorithms](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/#what-is-policy-gradient): A good read for Policy Gradient Algos
 
 ### Study:
 1. [Paper Study Tips](https://github.com/IvLabs/ResearchPaperNotes/tree/master/literature_study_tips)
