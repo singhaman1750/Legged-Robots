@@ -32,6 +32,7 @@ This repository contains papers, videos and other references in the field of leg
 5. **AMI, IIT, Italy, egroCub Humanoid**: [Optimization of Humanoid Robot Designs for Human-Robot Ergonomic Payload Lifting](https://arxiv.org/abs/2211.13503)
 6. **ETH Zurich, ANYmal**: [Vitruvio: An Open-Source Leg Design Optimization Toolbox for Walking Robots](https://ieeexplore.ieee.org/document/9157985)
 7. **Co-design(CACTO)**: [Exploring the Limits of a Redundant Actuation System Through Co-Design](https://ieeexplore.ieee.org/document/9400808)
+8. **Tachyon, Sony**: [Tachyon: Design and Control of High Payload, Robust, and Dynamic Quadruped Robot with Series-Parallel Elastic Actuators](https://ieeexplore.ieee.org/document/9636196)
 
 #### Actuator Designs:
 1. **KAIST, Actuator Design**: [DRPD, Dual Reduction Ratio Planetary Drive for Articulated Robot Actuators](https://ieeexplore.ieee.org/abstract/document/9981201)
@@ -83,3 +84,4 @@ Crocoddyl is an optimal control library for robot control under contact sequence
 3. [**Robo Design Lab**: Joao Ramos, UIUC, USA](https://publish.illinois.edu/robodesign/)
 4. [**Stochastic Robotics Lab**: Shishir N Y, IISc Bengaluru, India](https://www.stochlab.com/)
 5. [**Robotic Systems Lab**: Marco Hutter, ETH Zurich, Switzerland](https://rsl.ethz.ch/)
+6. [**Sony Quadruped Research**:](https://www.sony.com/en/SonyInfo/research/technologies/new_mobility/)
