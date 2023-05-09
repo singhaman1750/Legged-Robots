@@ -2,9 +2,9 @@
 This repository contains papers, videos and other references in the field of legged robots. 
 
 ## Papers
-### Control: 
-#### Optimization Based control for legged robots
+### Control
 
+#### Optimization Based control for legged robots:
 1. **Survey Paper**: [Optimization-Based Control for Dynamic Legged Robots](https://arxiv.org/abs/2211.11644)
 2. **Convex MPC**: [Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control](https://ieeexplore.ieee.org/document/8594448)
 3. **Feedback MPC**: [Feedback MPC for Torque-Controlled Legged Robots](https://arxiv.org/abs/1905.06144)
@@ -26,7 +26,8 @@ This repository contains papers, videos and other references in the field of leg
 
 --------
 
-### Mechanical Design:
+### Mechanical Design
+#### Design Principles and design of robots:
 1. **MIT, Design Principles**: [Design principles for highly efficient quadrupeds and implementation on the MIT Cheetah robot](https://ieeexplore.ieee.org/document/6631038)
 2. **UIUC, Panther**: [Design and experimental implementation of a quasi-direct-drive leg for optimized jumping](https://ieeexplore.ieee.org/document/8202172)
 3. **UIUC, Tello Leg**: [Tello Leg: The Study of Design Principles and Metrics for Dynamic Humanoid Robots](https://ieeexplore.ieee.org/document/9813569)
@@ -47,7 +48,7 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 6. **Hoyul Lee's Paper, ASME/IEEE Transactions on mechatronics(2012)**: [A New Actuator System Using Dual-Motors and a Planetary Gear](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6022796)
 5. **Jung Jun Park' paper, ASME/IEEE Transactions on mechatronics(2010)**: [A Serial-Type Dual Actuator Unit With Planetary Gear Train: Basic Design and Applications](https://dspace.mit.edu/bitstream/handle/1721.1/127152/1191839946-MIT.pdf?sequence=1&isAllowed=y)
 
-## Patents: 
+## Patents
 1. **Boston Dynamics**: [List of Patents from Boston Dynamics](https://www.bostondynamics.com/patents)
 2. **Boston Dynamics**: [Screw Actuator for Legged Robots](https://patents.google.com/patent/US10253855B2/en)
 3. **Boston Dynamics**: [WO2018112097 - TRANSMISSION WITH INTEGRATED OVERLOAD PROTECTION FOR A LEGGED ROBOT](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2018112097)
@@ -58,6 +59,11 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 1. [Introduction to Trajectory Optimization: Matthew Kelly](https://www.youtube.com/watch?v=wlkRYMVUZTs)
 2. [Reinforcement Learning: David Silver](https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
 3. [ROS Wiki Tutorials: Muhammad Luqman](https://www.youtube.com/playlist?list=PLBbhfIdh4NdgBBkX7q0Y3UukO2_ZoICee)
+4. [Kinematics of Mechanisms and Machines: NPTEL, IIT KGP](https://www.youtube.com/playlist?list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8)
+      1. [Lec-37: Gear Kinematics](https://www.youtube.com/watch?v=BjkxYZ93Fbs&list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8&index=38) 
+      2. [Lec-38: Gear Trains I](https://www.youtube.com/watch?v=lu_Qw4Y4XRQ&list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8&index=39)
+      3. [Lec-39: Gear Trains II](https://www.youtube.com/watch?v=5f3wBlRY8dQ&list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8&index=40)
+      4. [Lec-40: Gear Trains III](https://www.youtube.com/watch?v=-aHRWEXB3h4&list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8&index=41)
 
 -------
 
