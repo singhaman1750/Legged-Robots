@@ -1,6 +1,8 @@
 # Legged-Robots
 This repository contains papers, videos and other references in the field of legged robots. 
 
+-------------------
+
 ## Papers
 ### Control
 
@@ -47,6 +49,8 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 7. **Alexandre Girard's paper, Hamburg, Germany IROS(2015)**: [A Two-Speed Actuator for Robotics with Fast Seamless Gear Shifting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7354047)
 6. **Hoyul Lee's Paper, ASME/IEEE Transactions on mechatronics(2012)**: [A New Actuator System Using Dual-Motors and a Planetary Gear](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6022796)
 5. **Jung Jun Park' paper, ASME/IEEE Transactions on mechatronics(2010)**: [A Serial-Type Dual Actuator Unit With Planetary Gear Train: Basic Design and Applications](https://dspace.mit.edu/bitstream/handle/1721.1/127152/1191839946-MIT.pdf?sequence=1&isAllowed=y)
+
+-------------------------
 
 ## Patents
 1. **Boston Dynamics**: [List of Patents from Boston Dynamics](https://www.bostondynamics.com/patents)
