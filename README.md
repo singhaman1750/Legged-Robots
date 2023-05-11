@@ -53,6 +53,13 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 2. **Boston Dynamics**: [Screw Actuator for Legged Robots](https://patents.google.com/patent/US10253855B2/en)
 3. **Boston Dynamics**: [WO2018112097 - TRANSMISSION WITH INTEGRATED OVERLOAD PROTECTION FOR A LEGGED ROBOT](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2018112097)
 
+------
+
+## Good Robot designs:
+1. [MIT Mini Cheetah, MIT](https://build-its.blogspot.com/2019/12/the-mini-cheetah-robot.html)
+2. [Tiktok, Humanoid, Cornell University](http://ruina.tam.cornell.edu/research/topics/locomotion_and_robotics/Tik-Tok/) 
+3. [Stanford Doggo, Stanford University (Click here then scroll down for designs)](https://github.com/Nate711/StanfordDoggoProject)
+
 -------
 
 ## Video Lectures: 
@@ -85,10 +92,14 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 ### Know your scientist:
 1. [Steven LaValle](http://lavalle.pl/bio.html): A motivating story of the man who gave the RRT algorithm for motion planning, in his own words
 
+--------------
+
 ## Interesting Github Repositories
 
 1. [loco-3d/crocoddyl:](https://github.com/loco-3d/crocoddyl)
 Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
+
+---------------
 
 ## Websites of Labs working in Legged robotics:
 
