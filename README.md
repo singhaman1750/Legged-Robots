@@ -75,6 +75,7 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
       2. [Lec-38: Gear Trains I](https://www.youtube.com/watch?v=lu_Qw4Y4XRQ&list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8&index=39)
       3. [Lec-39: Gear Trains II](https://www.youtube.com/watch?v=5f3wBlRY8dQ&list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8&index=40)
       4. [Lec-40: Gear Trains III](https://www.youtube.com/watch?v=-aHRWEXB3h4&list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8&index=41)
+5. [Crash-Course on Non-Linear Programming: MathPod YouTube channel](https://www.youtube.com/playlist?list=PLLtQL9wSL16hTHWFHPxMkMVPUGIZNhhHP)
 
 -------
 
