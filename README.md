@@ -88,6 +88,7 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 ### Technical topics:
 1. [DDP](http://www.imgeorgiev.com/2023-02-01-ddp/): A good read for DDP
 2. [Policy Gradient Algorithms](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/#what-is-policy-gradient): A good read for Policy Gradient Algos
+3. [Reinforcement Learning Resources](https://stable-baselines.readthedocs.io/en/master/guide/rl.html): A list of resources for studying Reinforcement Learning
 
 ### Study:
 1. [Paper Study Tips](https://github.com/IvLabs/ResearchPaperNotes/tree/master/literature_study_tips)
