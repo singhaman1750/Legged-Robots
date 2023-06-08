@@ -6,9 +6,9 @@ This repository contains papers, videos and other references in the field of leg
 ## Papers
 ### Legged Robots, ICRA 2023
 #### Learning for locomotion
-1. DribbleBot: Dynamic Legged Manipulation in the wild, Yandong Ji, Gabriel Margolis, Pulkit Agrawal [[Paper](https://arxiv.org/pdf/2304.01159.pdf)][[Video](https://www.youtube.com/watch?v=1cek5Ypa3TE)][[Github](https://github.com/Improbable-AI/dribblebot)]
+1. DribbleBot: Dynamic Legged Manipulation in the wild: *Yandong Ji, Gabriel Margolis, Pulkit Agrawal* [[Paper](https://arxiv.org/pdf/2304.01159.pdf)][[Video](https://www.youtube.com/watch?v=1cek5Ypa3TE)][[Github](https://github.com/Improbable-AI/dribblebot)]
 #### Navigation and planning of Quadruped Robots
-1. GPF-BG: A Hierarchical Vision-Based Planning Framework for Safe Quadrupedal Navigation, LiDAR Lab, GaTech [[Paper](https://lab-idar.gatech.edu/wp-content/uploads/2023/02/pubQuadNav-ICRA-2023.pdf)][[Video](https://www.youtube.com/watch?v=avUnefrbhY8)]
+1. GPF-BG: A Hierarchical Vision-Based Planning Framework for Safe Quadrupedal Navigation: *LiDAR Lab, GaTech* [[Paper](https://lab-idar.gatech.edu/wp-content/uploads/2023/02/pubQuadNav-ICRA-2023.pdf)][[Video](https://www.youtube.com/watch?v=avUnefrbhY8)]
 
 ### Control
 
