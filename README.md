@@ -4,8 +4,8 @@ This repository contains papers, videos and other references in the field of leg
 -------------------
 
 ## Papers
-### [List of all the papers of ICRA 2023](https://docs.google.com/spreadsheets/d/1LcYjqrh8EyZ4HIeSl80ECF-rb7tND6DTdUj2p5XA2gM/edit?usp=sharing)
-### Selected Papers, Legged Robots, ICRA 2023
+### Legged Robots, ICRA 2023 
+#### [[List of all ICRA 2023 papers](https://docs.google.com/spreadsheets/d/1LcYjqrh8EyZ4HIeSl80ECF-rb7tND6DTdUj2p5XA2gM/edit?usp=sharing)]
 #### Learning for locomotion
 1. DribbleBot: Dynamic Legged Manipulation in the wild: *Yandong Ji, Gabriel Margolis, Pulkit Agrawal* \
 [[Paper](https://arxiv.org/pdf/2304.01159.pdf)][[Video](https://www.youtube.com/watch?v=1cek5Ypa3TE)][[Code](https://github.com/Improbable-AI/dribblebot)]
@@ -21,7 +21,7 @@ This repository contains papers, videos and other references in the field of leg
 [[Paper](https://robot-skills.github.io/resources/legmanip.pdf)][[Video](https://www.youtube.com/watch?v=d3YCmkEC7V0)][[Website](https://robot-skills.github.io/)]
 7. Force Control for Robust Quadruped Locomotion: A Linear Policy Approach: *Stoch Lab, IISc* \
 [[Paper: will be updated soon]()][[Video](https://www.youtube.com/watch?v=k89QdImcqdo&t=2s)][[Website](https://www.stochlab.com/projects/LinPolForceControlQuad.html)]
-8. Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning: * Marco Hutter, ETH Zurich* \
+8. Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning: *Marco Hutter, ETH Zurich* \
 [[Paper](https://arxiv.org/pdf/2203.14912.pdf)][[Video](https://www.youtube.com/watch?v=kEdr0ARq48A)]
 9. Deep Reinforcement Learning Based Personalized Locomotion Planning for Lower-Limb Exoskeletons
 10. Expanding Versatility of Agile Locomotion through Policy Transitions Using Latent State Representation
@@ -34,6 +34,8 @@ This repository contains papers, videos and other references in the field of leg
 
 #### Navigation and planning of Quadruped Robots
 1. GPF-BG: A Hierarchical Vision-Based Planning Framework for Safe Quadrupedal Navigation: *LiDAR Lab, GaTech* [[Paper](https://lab-idar.gatech.edu/wp-content/uploads/2023/02/pubQuadNav-ICRA-2023.pdf)][[Video](https://www.youtube.com/watch?v=avUnefrbhY8)]
+
+--------
 
 ### Control
 
@@ -98,16 +100,24 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 -------
 
 ## Video Lectures: 
+### Optimization
 1. [Introduction to Trajectory Optimization: Matthew Kelly](https://www.youtube.com/watch?v=wlkRYMVUZTs)
+2. [Crash-Course on Non-Linear Programming (Optimization): MathPod YouTube channel](https://www.youtube.com/playlist?list=PLLtQL9wSL16hTHWFHPxMkMVPUGIZNhhHP)
+
+### Reinforcement Learning
+1. [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 2. [Reinforcement Learning: David Silver](https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
-3. [ROS Wiki Tutorials: Muhammad Luqman](https://www.youtube.com/playlist?list=PLBbhfIdh4NdgBBkX7q0Y3UukO2_ZoICee)
-4. [Kinematics of Mechanisms and Machines: NPTEL, IIT KGP](https://www.youtube.com/playlist?list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8)
+3. [CS-285: Deep Reinforcement Learning, UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
+
+### ROS
+1. [ROS Wiki Tutorials: Muhammad Luqman](https://www.youtube.com/playlist?list=PLBbhfIdh4NdgBBkX7q0Y3UukO2_ZoICee)
+
+### Mechanical Design and Theory
+1. [Kinematics of Mechanisms and Machines: NPTEL, IIT KGP](https://www.youtube.com/playlist?list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8)
       1. [Lec-37: Gear Kinematics](https://www.youtube.com/watch?v=BjkxYZ93Fbs&list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8&index=38) 
       2. [Lec-38: Gear Trains I](https://www.youtube.com/watch?v=lu_Qw4Y4XRQ&list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8&index=39)
       3. [Lec-39: Gear Trains II](https://www.youtube.com/watch?v=5f3wBlRY8dQ&list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8&index=40)
       4. [Lec-40: Gear Trains III](https://www.youtube.com/watch?v=-aHRWEXB3h4&list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8&index=41)
-5. [Crash-Course on Non-Linear Programming: MathPod YouTube channel](https://www.youtube.com/playlist?list=PLLtQL9wSL16hTHWFHPxMkMVPUGIZNhhHP)
-
 -------
 
 ## Useful articles:
