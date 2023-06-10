@@ -108,6 +108,7 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 1. [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 2. [Reinforcement Learning: David Silver](https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
 3. [CS-285: Deep Reinforcement Learning, UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
+4. [Spinning up*](https://spinningup.openai.com/en/latest/index.html): It's a blog but really useful
 
 ### ROS
 1. [ROS Wiki Tutorials: Muhammad Luqman](https://www.youtube.com/playlist?list=PLBbhfIdh4NdgBBkX7q0Y3UukO2_ZoICee)
