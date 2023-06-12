@@ -36,6 +36,16 @@ This repository contains papers, videos and other references in the field of leg
 1. Meta Reinforcement Learning for Optimal Design of Legged Robots 
 [[Paper](https://arxiv.org/pdf/2210.02750.pdf)]
 
+Energy-Based Design Optimization of a Miniature Wave-Like Robot Inside Curved Compliant Tubes \
+A Palm-Sized Omnidirectional Mobile Robot Driven by 2-DOF Torus Wheels \
+Flipper-Style Locomotion through Strong Expanding Modular Robots \
+Simplified Configuration Design of Anthropomorphic Hand Imitating Specific Human Hand Grasps \
+Meta Reinforcement Learning for Optimal Design of Legged Robots \
+Advanced 2-DOF Counterbalance Mechanism Based on Gear Units and Springs to Minimize Required Torques of Robot Arm \
+Permanent-Magnetically Amplified Robotic Gripper with Less Clamping Width Influence on Compensation Realized by a Stepless Width Adjustment Mechanism \
+Design of a New Bio-Inspired Dual-Axis Compliant Micromanipulator with Millimeter Strokes \
+Optimal Elastic Wing for Flapping-Wing Robots through Passive Morphing \
+
 #### Navigation and planning of Quadruped Robots
 1. GPF-BG: A Hierarchical Vision-Based Planning Framework for Safe Quadrupedal Navigation: *LiDAR Lab, GaTech* [[Paper](https://lab-idar.gatech.edu/wp-content/uploads/2023/02/pubQuadNav-ICRA-2023.pdf)][[Video](https://www.youtube.com/watch?v=avUnefrbhY8)]
 
