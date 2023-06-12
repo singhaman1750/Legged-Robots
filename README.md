@@ -7,33 +7,33 @@ This repository contains papers, videos and other references in the field of leg
 ### Legged Robots, ICRA 2023 
 #### [[List of all ICRA 2023 papers](https://docs.google.com/spreadsheets/d/1LcYjqrh8EyZ4HIeSl80ECF-rb7tND6DTdUj2p5XA2gM/edit?usp=sharing)]
 #### Learning for locomotion
-1. DribbleBot: Dynamic Legged Manipulation in the wild: *Yandong Ji, Gabriel Margolis, Pulkit Agrawal* \
+1. DribbleBot: Dynamic Legged Manipulation in the wild 
 [[Paper](https://arxiv.org/pdf/2304.01159.pdf)][[Video](https://www.youtube.com/watch?v=1cek5Ypa3TE)][[Code](https://github.com/Improbable-AI/dribblebot)]
-2. DreamWaQ: Learning Robust Quadrupedal Locomotion with Implicit Terrain Imagination Via Deep Reinforcement Learning \
+2. DreamWaQ: Learning Robust Quadrupedal Locomotion with Implicit Terrain Imagination Via Deep Reinforcement Learning
 [[Paper](https://arxiv.org/pdf/2301.10602.pdf)][[Video](https://www.youtube.com/watch?v=J5wl0be5KQM)][[Website](https://sites.google.com/view/dreamwaq)]
-3. Learning Low-Frequency Motion Control for Robust and Dynamic Robot Locomotion \
+3. Learning Low-Frequency Motion Control for Robust and Dynamic Robot Locomotion
 [[Paper](https://arxiv.org/pdf/2209.14887.pdf)][[Video](https://www.youtube.com/watch?v=pSuX223zLvM)][[Website](https://ori-drs.github.io/lfmc/)]
-4. OPT-Mimic: Imitation of Optimized Trajectories for Dynamic Quadruped Behaviors \
+4. OPT-Mimic: Imitation of Optimized Trajectories for Dynamic Quadruped Behaviors
 [[Paper](https://arxiv.org/pdf/2210.01247.pdf)][[Video](https://www.youtube.com/watch?v=tDzu_sy_FAI)][[Website](https://www.cs.ubc.ca/~van/papers/2022-opt-mimic/index.html)]
-5. Learning to Walk by Steering: Perceptive Quadrupedal Locomotion in Dynamic Environments \
+5. Learning to Walk by Steering: Perceptive Quadrupedal Locomotion in Dynamic Environments
 [[Paper](https://arxiv.org/pdf/2209.09233.pdf)][[Video](https://www.youtube.com/watch?v=_BvLqx3wAxI)][[Website](https://ut-austin-rpl.github.io/PRELUDE/)][[Code](https://github.com/UT-Austin-RPL/PRELUDE)]
-6. Legs As Manipulator: Pushing Quadrupedal Agility Beyond Locomotion : *Deepak Pathak, CMU* \
+6. Legs As Manipulator: Pushing Quadrupedal Agility Beyond Locomotion 
 [[Paper](https://robot-skills.github.io/resources/legmanip.pdf)][[Video](https://www.youtube.com/watch?v=d3YCmkEC7V0)][[Website](https://robot-skills.github.io/)]
-7. Force Control for Robust Quadruped Locomotion: A Linear Policy Approach: *Stoch Lab, IISc* \
+7. Force Control for Robust Quadruped Locomotion: A Linear Policy Approach 
 [[Paper: will be updated soon]()][[Video](https://www.youtube.com/watch?v=k89QdImcqdo&t=2s)][[Website](https://www.stochlab.com/projects/LinPolForceControlQuad.html)]
-8. Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning: *Marco Hutter, ETH Zurich* \
+8. Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning
 [[Paper](https://arxiv.org/pdf/2203.14912.pdf)][[Video](https://www.youtube.com/watch?v=kEdr0ARq48A)]
-9. Deep Reinforcement Learning Based Personalized Locomotion Planning for Lower-Limb Exoskeletons \
+9. Deep Reinforcement Learning Based Personalized Locomotion Planning for Lower-Limb Exoskeletons
 [[Paper](https://drive.google.com/file/d/14PA0VKAiWc2FTyhFR9K-gvJtley7bxu4/view?usp=sharing)][[Video](https://www.youtube.com/watch?v=4K6bbGmHXzM)]
-10. Expanding Versatility of Agile Locomotion through Policy Transitions Using Latent State Representation \
+10. Expanding Versatility of Agile Locomotion through Policy Transitions Using Latent State Representation
 [[Paper](https://drive.google.com/file/d/1EuNl98amlAcvD2tDjjzNumYR6FHRXFVt/view?usp=sharing)][[Video](https://www.youtube.com/watch?v=bESzX20Akpg)]
-11. Sim-To-Real Transfer for Quadrupedal Locomotion Via Terrain Transformer \
+11. Sim-To-Real Transfer for Quadrupedal Locomotion Via Terrain Transformer
 [[Paper](https://arxiv.org/pdf/2212.07740.pdf)]
-12. Agile and Versatile Robot Locomotion Via Kernel-Based Residual Learning \
+12. Agile and Versatile Robot Locomotion Via Kernel-Based Residual Learning
 [[Paper](https://arxiv.org/pdf/2302.07343.pdf)][[Video](https://www.youtube.com/watch?v=bUZJadWCRXU)]
 
 #### Design of Mechanisms
-1. Meta Reinforcement Learning for Optimal Design of Legged Robots: *ETH Zurich, Marco Hutter* \
+1. Meta Reinforcement Learning for Optimal Design of Legged Robots 
 [[Paper](https://arxiv.org/pdf/2210.02750.pdf)]
 
 #### Navigation and planning of Quadruped Robots
