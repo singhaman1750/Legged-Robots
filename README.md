@@ -23,10 +23,14 @@ This repository contains papers, videos and other references in the field of leg
 [[Paper: will be updated soon]()][[Video](https://www.youtube.com/watch?v=k89QdImcqdo&t=2s)][[Website](https://www.stochlab.com/projects/LinPolForceControlQuad.html)]
 8. Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning: *Marco Hutter, ETH Zurich* \
 [[Paper](https://arxiv.org/pdf/2203.14912.pdf)][[Video](https://www.youtube.com/watch?v=kEdr0ARq48A)]
-9. Deep Reinforcement Learning Based Personalized Locomotion Planning for Lower-Limb Exoskeletons
-10. Expanding Versatility of Agile Locomotion through Policy Transitions Using Latent State Representation
-11. Sim-To-Real Transfer for Quadrupedal Locomotion Via Terrain Transformer
-12. Agile and Versatile Robot Locomotion Via Kernel-Based Residual Learning
+9. Deep Reinforcement Learning Based Personalized Locomotion Planning for Lower-Limb Exoskeletons \
+[[Paper](https://drive.google.com/file/d/14PA0VKAiWc2FTyhFR9K-gvJtley7bxu4/view?usp=sharing)][[Video](https://www.youtube.com/watch?v=4K6bbGmHXzM)]
+10. Expanding Versatility of Agile Locomotion through Policy Transitions Using Latent State Representation \
+[[Paper](https://drive.google.com/file/d/1EuNl98amlAcvD2tDjjzNumYR6FHRXFVt/view?usp=sharing)][[Video](https://www.youtube.com/watch?v=bESzX20Akpg)]
+11. Sim-To-Real Transfer for Quadrupedal Locomotion Via Terrain Transformer \
+[[Paper](https://arxiv.org/pdf/2212.07740.pdf)]
+12. Agile and Versatile Robot Locomotion Via Kernel-Based Residual Learning \
+[[Paper](https://arxiv.org/pdf/2302.07343.pdf)][[Video](https://www.youtube.com/watch?v=bUZJadWCRXU)]
 
 #### Design of Mechanisms
 1. Meta Reinforcement Learning for Optimal Design of Legged Robots: *ETH Zurich, Marco Hutter* \
