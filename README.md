@@ -149,7 +149,10 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 3. [How to read a paper: Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7044621048364900352?utm_source=share&utm_medium=member_desktop)
 
 ### Know your scientist:
-1. [Steven LaValle](http://lavalle.pl/bio.html): A motivating story of the man who gave the RRT algorithm for motion planning, in his own words
+1. [Steven LaValle](http://lavalle.pl/bio.html): Motivating story of Steven LaValle, who gave the RRT algorithm.
+
+### Website:
+1. [List of usefull resources: Aditya Mehrotra, MIT D-lab](https://www.adim.io/resources)
 
 --------------
 
