@@ -70,6 +70,10 @@ This repository contains papers, videos and other references in the field of leg
 1. **AMBER Lab, CalTech**: [Risk-Averse Control via CVaR Barrier Functions: Application to Bipedal Robot Locomotion](https://ieeexplore.ieee.org/document/9447796)
 2. **MIT Humanoid**: [Humanoid Self-Collision Avoidance Using Whole-Body Control with Control Barrier Functions](https://arxiv.org/abs/2207.00692)
 
+#### Learning Based locomotion:
+1. **Tencent Robotics**: Lifelike Agility and Play on Quadrupedal Robots using Reinforcement Learning and Deep Pre-trained Models \
+[[Paper coming soon](https://tencent-roboticsx.github.io/lifelike-agility-and-play/)][[Website](https://tencent-roboticsx.github.io/lifelike-agility-and-play/)][[Video](https://www.youtube.com/watch?v=ucucrLqT5dM)]
+
 --------
 
 ### Mechanical Design
