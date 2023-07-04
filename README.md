@@ -148,9 +148,10 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 3. [Reinforcement Learning Resources](https://stable-baselines.readthedocs.io/en/master/guide/rl.html): A list of resources for studying Reinforcement Learning
 
 ### Study:
-1. [Paper Study Tips](https://github.com/IvLabs/ResearchPaperNotes/tree/master/literature_study_tips)
-2. [List of Science & Math courses with video lectures](https://github.com/Developer-Y/math-science-video-lectures)
-3. [How to read a paper: Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7044621048364900352?utm_source=share&utm_medium=member_desktop)
+1. [How to read a research paper: Andrew NG](https://www.youtube.com/watch?v=733m6qBH-jI)
+2. [Paper Study Tips](https://github.com/IvLabs/ResearchPaperNotes/tree/master/literature_study_tips)
+4. [List of Science & Math courses with video lectures](https://github.com/Developer-Y/math-science-video-lectures)
+5. [How to read a paper: Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7044621048364900352?utm_source=share&utm_medium=member_desktop)
 
 ### Know your scientist:
 1. [Steven LaValle](http://lavalle.pl/bio.html): Motivating story of Steven LaValle, who gave the RRT algorithm.
