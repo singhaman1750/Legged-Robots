@@ -180,4 +180,10 @@ Crocoddyl is an optimal control library for robot control under contact sequence
 4. [**Stochastic Robotics Lab**: Shishir N Y, IISc Bengaluru, India](https://www.stochlab.com/)
 5. [**Robotic Systems Lab**: Marco Hutter, ETH Zurich, Switzerland](https://rsl.ethz.ch/)
 6. [**Sony Quadruped Research**:](https://www.sony.com/en/SonyInfo/research/technologies/new_mobility/)
-7. [**LIDAR, Laboratory of Intelligent Decision and Autonomous systems, GaTech:** Ye Zhao](https://lab-idar.gatech.edu/) 
+7. [**LIDAR, Laboratory of Intelligent Decision and Autonomous systems, GaTech:** Ye Zhao](https://lab-idar.gatech.edu/)
+
+---------------
+## Accesories for Legged robots:
+
+1. **Motors**
+      1. [**Halodi Motors**](https://futurerobotix.com/?product=revo1-30)
