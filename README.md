@@ -162,6 +162,7 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 
 ### Website:
 1. [List of usefull resources: Aditya Mehrotra, MIT D-lab](https://www.adim.io/resources)
+2. [StePhane Caron](https://scaron.info/category/robotics.html)
 
 --------------
 
