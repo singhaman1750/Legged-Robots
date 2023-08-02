@@ -187,4 +187,8 @@ Crocoddyl is an optimal control library for robot control under contact sequence
 ## Accesories for Legged robots:
 
 1. **Motors**
-      1. [**Halodi Motors**](https://futurerobotix.com/?product=revo1-30)
+      1. [**TQ-Motors**](https://www.tq-group.com/de/produkte/tq-robodrive/): Used in Raibo Quadruped
+      2. [**Halodi Motors**](https://futurerobotix.com/?product=revo1-30): Used in Hound quadruped
+2. **Drivers**
+      1. **Mjbots**: [Moteus-n1](https://mjbots.com/products/moteus-n1), [Moteus-r4.xx](https://mjbots.com/products/moteus-n1) \
+                        It also provide several other accesories for legged robots. It is like a one stop shop.
