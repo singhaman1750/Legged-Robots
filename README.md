@@ -195,6 +195,7 @@ Crocoddyl is an optimal control library for robot control under contact sequence
 * **Koushil Sreenath**, Hybrid Robotics, University of South California, Berkeley (USC, Berkeley) [[Personal Webpage](https://me.berkeley.edu/people/koushil-sreenath/)][[Lab Website](https://hybrid-robotics.berkeley.edu/)]
 * **Jitendra Malik** EECS, University of California at Berkeley [[Personal Webpage](https://homepages.laas.fr/ostasse/hugo/)]
 * **Yanran Ding** Robotics Department, University of Michigan [[Personal Website](https://sites.google.com/view/yanranding/home)]
+* **Xiaobin Xiong** Wisconsin Expeditious Legged Locomotion (UW WELL Lab), University of Wisconsin-Madison [[Personal Website](https://www.xiaobinxiong.info/about)][[Lab Website](https://well.robotics.wisc.edu/team/)]
 
 ### Europe
 * **Marco Hutter**, Robotic Systems Lab, ETH Zurich, Switzerland [[Lab Website](https://rsl.ethz.ch/)]
