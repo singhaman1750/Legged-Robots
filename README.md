@@ -119,8 +119,9 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 1. [MIT 18.06 Linear Algebra, Spring 2005, MITOCW: Gilbert Strang](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 
 ### Optimization
-1. [Introduction to Trajectory Optimization: Matthew Kelly](https://www.youtube.com/watch?v=wlkRYMVUZTs)
-2. [Crash-Course on Non-Linear Programming (Optimization): MathPod YouTube channel](https://www.youtube.com/playlist?list=PLLtQL9wSL16hTHWFHPxMkMVPUGIZNhhHP)
+1. [Numerical Optimization: Shirish Sevade ](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3Hi2kc4n4bqJvxrtyaQa3P)
+2. [Introduction to Trajectory Optimization: Matthew Kelly (NPTEL)](https://www.youtube.com/watch?v=wlkRYMVUZTs)
+3. [Crash-Course on Non-Linear Programming (Optimization): MathPod YouTube channel](https://www.youtube.com/playlist?list=PLLtQL9wSL16hTHWFHPxMkMVPUGIZNhhHP)
 
 ### Basics of Control systems
 1. Linear Quadratic Regulator (LQR): [Basics/Overview](https://www.youtube.com/watch?v=1_UobILf3cc) [Derivation]()
