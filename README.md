@@ -216,6 +216,11 @@ Crocoddyl is an optimal control library for robot control under contact sequence
 * **Sony Quadruped Research** [Website](https://www.sony.com/en/SonyInfo/research/technologies/new_mobility/)
 
 ---------------
+## Robotics Companies
+### India
+* **Ideaforge**, Drone manufacturing company [[Website](https://ideaforgetech.com/)]
+* **Ati Motors**, Industrial Mobile robots company [[Website](https://atimotors.com/)] 
+---------------
 ## Accesories for Legged robots:
 
 1. **Motors**
