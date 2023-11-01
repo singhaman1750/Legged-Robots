@@ -146,6 +146,10 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
       3. [Lec-39: Gear Trains II](https://www.youtube.com/watch?v=5f3wBlRY8dQ&list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8&index=40)
       4. [Lec-40: Gear Trains III](https://www.youtube.com/watch?v=-aHRWEXB3h4&list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8&index=41)
 2. [Bond Graph Modeling: NPTEL](https://www.youtube.com/watch?v=M8Nam032vgE)
+
+### Miscellaneous:
+1. [List-of-Science-and-Math-courses](https://github.com/Developer-Y/math-science-video-lectures)
+
 -------
 
 ## Useful articles:
@@ -160,13 +164,12 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 3. [Reinforcement Learning Resources](https://stable-baselines.readthedocs.io/en/master/guide/rl.html): A list of resources for studying Reinforcement Learning
 
 ### Study:
-1. Reading Research Papers:
-      1. How to read a research paper: Andrew NG [[Video-Link](https://www.youtube.com/watch?v=733m6qBH-jI)]
-      2. How to Read a Paper: S. Keshav [[PDF-Link](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)]
-      3. How to find, read and organize papers [[Article-Link](https://www.nature.com/articles/d41586-022-01878-7)]
-      4. Paper Study Tips [[Github-Readme-Link](https://github.com/IvLabs/ResearchPaperNotes/tree/master/literature_study_tips)]
-6. [List of Science & Math courses with video lectures](https://github.com/Developer-Y/math-science-video-lectures)
-7. [How to read a paper: Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7044621048364900352?utm_source=share&utm_medium=member_desktop)
+1. **How to read Research Papers?**
+      * How to read a research paper by *Andrew NG*: [Video](https://www.youtube.com/watch?v=733m6qBH-jI) / [Notes](https://github.com/IvLabs/ResearchPaperNotes/tree/master/literature_study_tips)
+      * How to Read a Paper by *S. Keshav*: [PDF](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+      * How to read a paper: [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7044621048364900352?utm_source=share&utm_medium=member_desktop)
+2. **How to organize Reasearch Papers?**
+      * How to find, read and organize papers by *Maya Gosztyla*: [Article](https://www.nature.com/articles/d41586-022-01878-7)
 
 ### Know your scientist:
 1. [Steven LaValle](http://lavalle.pl/bio.html): Motivating story of Steven LaValle, who gave the RRT algorithm.
