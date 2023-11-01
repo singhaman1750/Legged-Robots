@@ -161,7 +161,8 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 
 ### Study:
 1. [How to read a research paper: Andrew NG](https://www.youtube.com/watch?v=733m6qBH-jI)
-2. [Paper Study Tips](https://github.com/IvLabs/ResearchPaperNotes/tree/master/literature_study_tips)
+2. [How to Read a Paper: S. Keshav](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+3. [Paper Study Tips](https://github.com/IvLabs/ResearchPaperNotes/tree/master/literature_study_tips)
 4. [List of Science & Math courses with video lectures](https://github.com/Developer-Y/math-science-video-lectures)
 5. [How to read a paper: Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7044621048364900352?utm_source=share&utm_medium=member_desktop)
 
