@@ -168,6 +168,7 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
       * How to read a research paper by *Andrew NG*: [Video](https://www.youtube.com/watch?v=733m6qBH-jI) / [Notes](https://github.com/IvLabs/ResearchPaperNotes/tree/master/literature_study_tips)
       * How to Read a Paper by *S. Keshav*: [PDF](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
       * How to read a paper: [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7044621048364900352?utm_source=share&utm_medium=member_desktop)
+      * Usefull Resources by *Ness B Shroff*, on PhD and writing papers: [Webpage](https://newslab.ece.ohio-state.edu/for%20students/index.html)
 2. **How to organize Reasearch Papers?**
       * How to find, read and organize papers by *Maya Gosztyla*: [Article](https://www.nature.com/articles/d41586-022-01878-7)
 
