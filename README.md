@@ -131,12 +131,11 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 
 **Trajectory Optimization** 
 1. **Video Lecture:** [Introduction to Trajectory Optimization: Matthew Kelly](https://www.youtube.com/watch?v=wlkRYMVUZTs)
-2. **Video Lecture:** [Underactuated Robotics, Trajectory Optimization I: Lec 11, *Russ Tedrake*](https://www.youtube.com/watch?v=fY6gAo88Aa0)
-3. **Video Lecture:** [Underactuated Robotics, Trajectory Optimization II: Lec 12, *Russ Tedrake*](https://www.youtube.com/watch?v=Mo9fTJmWAJY)
-
-1. **Book:** Practical Methods for Optimal control and estimation using non-linear programming, John T. Betts
-
-1. **Github Repos:** [Matthew Kelly's TrajOpt Repo](https://github.com/MatthewPeterKelly/OptimTraj)
+3. **Video Lecture:** [Underactuated Robotics, Trajectory Optimization I: Lec 11, *Russ Tedrake*](https://www.youtube.com/watch?v=fY6gAo88Aa0)
+4. **Video Lecture:** [Underactuated Robotics, Trajectory Optimization II: Lec 12, *Russ Tedrake*](https://www.youtube.com/watch?v=Mo9fTJmWAJY)
+5. **Book:** Practical Methods for Optimal control and estimation using non-linear programming, John T. Betts
+6. **Github Repos:** [Matthew Kelly's TrajOpt Repo](https://github.com/MatthewPeterKelly/OptimTraj)
+7. **Tutorial Paper:** [An Introduction to Trajectory Optimization: How to do your own direct collocation, *Matthew Kelly*](https://www.matthewpeterkelly.com/research/MatthewKelly_IntroTrajectoryOptimization_SIAM_Review_2017.pdf)
 
 ### Basics of Control systems
 1. Linear Quadratic Regulator (LQR): [Basics/Overview](https://www.youtube.com/watch?v=1_UobILf3cc) [Derivation]()
