@@ -3,9 +3,10 @@ This repository contains papers, videos and other references in the field of leg
 
 -------------------
 
-### Robotics conference paper lists
+## Robotics conference paper lists
 1. **List of all IROS 2023 papers:** [[Google sheet](https://docs.google.com/spreadsheets/d/1cdca2J4g2gmHym1J0nXxJabhsxK7xIfXxicB8Le6AwU/edit#gid=214014586)] / [[Github Repo](https://github.com/ryanbgriffiths/IROS2023PaperList)]
 2. **List of all ICRA 2023 papers:** [[Google sheet](https://docs.google.com/spreadsheets/d/1LcYjqrh8EyZ4HIeSl80ECF-rb7tND6DTdUj2p5XA2gM/edit?usp=sharing)]
+---------------------
 
 ## Papers
 ### New Papers: Legged Robots
