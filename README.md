@@ -3,13 +3,16 @@ This repository contains papers, videos and other references in the field of leg
 
 -------------------
 
+### Robotics conference paper lists
+1. **List of all IROS 2023 papers:** [[Google sheet](https://docs.google.com/spreadsheets/d/1cdca2J4g2gmHym1J0nXxJabhsxK7xIfXxicB8Le6AwU/edit#gid=214014586)] / [[Github Repo](https://github.com/ryanbgriffiths/IROS2023PaperList)]
+2. **List of all ICRA 2023 papers:** [[Google sheet](https://docs.google.com/spreadsheets/d/1LcYjqrh8EyZ4HIeSl80ECF-rb7tND6DTdUj2p5XA2gM/edit?usp=sharing)]
+
 ## Papers
 ### New Papers: Legged Robots
 1. Guardians as You Fall: Active Mode Transition for Safe Falling: Yikai Wang, Mengdi Xu, Guanya Shi, Ding Zhao: CMU [[Paper](https://arxiv.org/abs/2310.04828)][[Website](https://sites.google.com/view/guardians-as-you-fall/)][[Github](https://github.com/ykwang20/Guardians_as_You_Fall)]
 2. Barry: A High-Payload and Agile Quadruped Robot: Giorgio Valsecchi , Nikita Rudin , Lennart Nachtigall, Konrad Mayer, Fabian Tischhauser, and Marco Hutter: ETH Zurich; RAL [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10246325)]
 
-### Legged Robots, ICRA 2023 
-#### [[List of all ICRA 2023 papers](https://docs.google.com/spreadsheets/d/1LcYjqrh8EyZ4HIeSl80ECF-rb7tND6DTdUj2p5XA2gM/edit?usp=sharing)]
+### ICRA 2023
 #### Learning for locomotion
 1. DribbleBot: Dynamic Legged Manipulation in the wild 
 [[Paper](https://arxiv.org/pdf/2304.01159.pdf)][[Video](https://www.youtube.com/watch?v=1cek5Ypa3TE)][[Code](https://github.com/Improbable-AI/dribblebot)][[Notes](https://github.com/singhaman1750/Research-Paper-Notes/blob/main/README.md#dribblebot-dynamic-legged-manipulation-in-the-wild)]
