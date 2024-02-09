@@ -1,20 +1,21 @@
 # Legged-Robots
 This repository contains papers, videos and other references in the field of legged robots. 
-
 -------------------
-## Robotics conference paper lists
-1. **List of all IROS 2023 papers:** [[Google sheet](https://docs.google.com/spreadsheets/d/1cdca2J4g2gmHym1J0nXxJabhsxK7xIfXxicB8Le6AwU/edit#gid=214014586)] / [[Github Repo](https://github.com/ryanbgriffiths/IROS2023PaperList)]
-2. **List of all ICRA 2023 papers:** [[Google sheet](https://docs.google.com/spreadsheets/d/1LcYjqrh8EyZ4HIeSl80ECF-rb7tND6DTdUj2p5XA2gM/edit?usp=sharing)]
-3. **List of Top Robotics Conferences and Publications**: [[Google Scholar Webpage](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)]
+## Robotics Publications
+1. **List of Top Robotics Conferences and Publications**: [[Google Scholar Webpage](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)]
       1. *A few ASME Conferences and Journals*:
             1. Journal of Mechanisms and Robots,
             2. Journal of Dynamics Systems, Measurement and Control, and
             3. Transaction on Mechatronics (IEEE/ASME) etc
-      3. *A few IEEE Conferences and Journals*:
+      2. *A few IEEE Conferences and Journals*:
             1. ICRA,
             2. IROS,
             3. RAL,
             4. T-RO etc.
+-------------------
+## Robotics conference paper lists
+1. **List of all IROS 2023 papers:** [[Google sheet](https://docs.google.com/spreadsheets/d/1cdca2J4g2gmHym1J0nXxJabhsxK7xIfXxicB8Le6AwU/edit#gid=214014586)] / [[Github Repo](https://github.com/ryanbgriffiths/IROS2023PaperList)]
+2. **List of all ICRA 2023 papers:** [[Google sheet](https://docs.google.com/spreadsheets/d/1LcYjqrh8EyZ4HIeSl80ECF-rb7tND6DTdUj2p5XA2gM/edit?usp=sharing)]
 ---------------------
 
 ## Papers
