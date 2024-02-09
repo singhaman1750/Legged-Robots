@@ -10,8 +10,9 @@ This repository contains papers, videos and other references in the field of leg
 
 ## Papers
 ### New Papers: Legged Robots
-1. Guardians as You Fall: Active Mode Transition for Safe Falling: Yikai Wang, Mengdi Xu, Guanya Shi, Ding Zhao: CMU [[Paper](https://arxiv.org/abs/2310.04828)][[Website](https://sites.google.com/view/guardians-as-you-fall/)][[Github](https://github.com/ykwang20/Guardians_as_You_Fall)]
-2. Barry: A High-Payload and Agile Quadruped Robot: Giorgio Valsecchi , Nikita Rudin , Lennart Nachtigall, Konrad Mayer, Fabian Tischhauser, and Marco Hutter: ETH Zurich; RAL [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10246325)]
+1. Design and Development of the MIT Humanoid: A Dynamic and Robust Research Platform [IEEE-RAS HUMANOIDS 2023] [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10375199)]
+2. Guardians as You Fall: Active Mode Transition for Safe Falling: Yikai Wang, Mengdi Xu, Guanya Shi, Ding Zhao: CMU [[Paper](https://arxiv.org/abs/2310.04828)][[Website](https://sites.google.com/view/guardians-as-you-fall/)][[Github](https://github.com/ykwang20/Guardians_as_You_Fall)]
+3. Barry: A High-Payload and Agile Quadruped Robot: Giorgio Valsecchi , Nikita Rudin , Lennart Nachtigall, Konrad Mayer, Fabian Tischhauser, and Marco Hutter: ETH Zurich; [RAL Nov 2023] [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10246325)]
 
 ### ICRA 2023
 #### Learning for locomotion
