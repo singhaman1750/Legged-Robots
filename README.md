@@ -3,7 +3,7 @@ This repository contains papers, videos and other references in the field of leg
 
 -------------------
 ## Robotics Publications
-1. **List of Top Robotics Conferences and Publications**: [[Google Scholar Webpage](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)]
+1. **List of Top Robotics Conferences and Publications**: [[List on Google Scholar Webpage](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)]
       1. *A few ASME Conferences and Journals*:
             1. Journal of Mechanisms and Robots,
             2. Journal of Dynamics Systems, Measurement and Control, and
