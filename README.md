@@ -206,7 +206,7 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 
 --------------
 
-## Interesting GitHub Repositories
+## Useful GitHub Repositories
 
 1. [loco-3d/crocoddyl:](https://github.com/loco-3d/crocoddyl)
 Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
