@@ -149,7 +149,8 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 5. **Video Lecture:** [Optimization, Optimal Control, Trajectory Optimization, and Splines: Jesus Tordesillas](https://www.youtube.com/watch?v=j82Ia436DYY)
 6. **Book:** Practical Methods for Optimal control and estimation using non-linear programming, John T. Betts
 7. **Github Repos:** [Matthew Kelly's TrajOpt Repo](https://github.com/MatthewPeterKelly/OptimTraj)
-8. **Tutorial Paper:** [An Introduction to Trajectory Optimization: How to do your own direct collocation, *Matthew Kelly*](https://www.matthewpeterkelly.com/research/MatthewKelly_IntroTrajectoryOptimization_SIAM_Review_2017.pdf)
+8. **Github Repos:** [MindtPy Library Page: MINLP solver](https://pyomo.readthedocs.io/en/stable/contributed_packages/mindtpy.html)
+9. **Tutorial Paper:** [An Introduction to Trajectory Optimization: How to do your own direct collocation, *Matthew Kelly*](https://www.matthewpeterkelly.com/research/MatthewKelly_IntroTrajectoryOptimization_SIAM_Review_2017.pdf)
 
 ### Basics of Control systems
 1. Linear Quadratic Regulator (LQR): [Basics/Overview](https://www.youtube.com/watch?v=1_UobILf3cc) [Derivation]()
@@ -230,7 +231,7 @@ Crocoddyl is an optimal control library for robot control under contact sequence
 * **Quan Nguyen**, Dynamic Robotics and Control Laboratory, University of South California (USC) [[Personal Webpage](https://viterbi.usc.edu/directory/faculty/Nguyen/Quan)][[Lab Website](https://sites.usc.edu/quann/)]
 * **Pranav Bhounsule**, Robotics and Motion Laboratory, University of Illinois Chicago [[Personal Webpage](https://mie.uic.edu/profiles/bhounsule-pranav/)][[Lab Website](https://pab47.github.io/)]
 * **Joao Ramos**, Robo Design Lab, University of Illinois Urbana-Champaign (UIUC) [[Lab Website](https://publish.illinois.edu/robodesign/)]
-* **Ayonga Hereid**, Cyber-Phisical and Robotics Lab, Ohio State University [[Personal Webpage](https://mae.osu.edu/people/hereid.1)][[Lab Webpage](https://mae.osu.edu/cyberbotics)]
+* **Ayonga Hereid**, Cyber-Physical and Robotics Lab, Ohio State University [[Personal Webpage](https://mae.osu.edu/people/hereid.1)][[Lab Webpage](https://mae.osu.edu/cyberbotics)]
 * **Koushil Sreenath**, Hybrid Robotics, University of South California, Berkeley (USC, Berkeley) [[Personal Webpage](https://me.berkeley.edu/people/koushil-sreenath/)][[Lab Website](https://hybrid-robotics.berkeley.edu/)]
 * **Jitendra Malik**, EECS, University of California at Berkeley [[Personal Webpage](https://homepages.laas.fr/ostasse/hugo/)]
 * **Yanran Ding**, Robotics Department, University of Michigan [[Personal Website](https://sites.google.com/view/yanranding/home)]
