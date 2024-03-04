@@ -200,6 +200,7 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 
 ### Know your scientist:
 1. [Steven LaValle](http://lavalle.pl/bio.html): Motivating story of Steven LaValle, who gave the RRT algorithm.
+2. [Shuji Nakamura: Invention of Blue LED](https://youtu.be/AF8d72mA41M?feature=shared): Documentary about invention of blue LED.
 
 ### Website:
 1. [List of usefull resources: Aditya Mehrotra, MIT D-lab](https://www.adim.io/resources)
