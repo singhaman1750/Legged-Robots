@@ -171,6 +171,7 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
       3. [Lec-39: Gear Trains II](https://www.youtube.com/watch?v=5f3wBlRY8dQ&list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8&index=40)
       4. [Lec-40: Gear Trains III](https://www.youtube.com/watch?v=-aHRWEXB3h4&list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8&index=41)
 2. [Bond Graph Modeling: NPTEL](https://www.youtube.com/watch?v=M8Nam032vgE)
+3. [Gear Strength Theory: NPTEL](https://archive.nptel.ac.in/courses/112/106/112106137/)
 
 ### Miscellaneous:
 1. [List-of-Science-and-Math-courses](https://github.com/Developer-Y/math-science-video-lectures)
