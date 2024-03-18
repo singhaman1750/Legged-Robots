@@ -172,6 +172,7 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
       4. [Lec-40: Gear Trains III](https://www.youtube.com/watch?v=-aHRWEXB3h4&list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8&index=41)
 2. [Bond Graph Modeling: NPTEL](https://www.youtube.com/watch?v=M8Nam032vgE)
 3. [Gear Strength Theory: NPTEL](https://archive.nptel.ac.in/courses/112/106/112106137/)
+4. [Friction-Model-for-Spur-Gear-transmission-efficiency: Review by Tsuneji Yada](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.jstage.jst.go.jp/article/jsmec1993/40/1/40_1_1/_pdf/-char/en)
 
 ### Miscellaneous:
 1. [List-of-Science-and-Math-courses](https://github.com/Developer-Y/math-science-video-lectures)
