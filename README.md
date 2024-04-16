@@ -208,6 +208,9 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 2. [StePhane Caron](https://scaron.info/category/robotics.html)
 3. [Usefull Resources: Xiaobin Xiong](https://www.xiaobinxiong.info/resources)
 
+### Productivity Articles: (Don't get sucked too much into them)
+1. [HBR: 5 Mental Mistakes That Kill Your Productivity by Alice Boyes](https://hbr.org/2019/11/5-mental-mistakes-that-kill-your-productivity?utm_medium=social&utm_campaign=hbr&utm_source=facebook&tpcc=orgsocial_edit)
+
 --------------
 
 ## Useful GitHub Repositories
