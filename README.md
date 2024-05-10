@@ -211,8 +211,8 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 ### Productivity Articles: (Don't get sucked too much into them)
 1. [HBR: 5 Mental Mistakes That Kill Your Productivity by Alice Boyes](https://hbr.org/2019/11/5-mental-mistakes-that-kill-your-productivity?utm_medium=social&utm_campaign=hbr&utm_source=facebook&tpcc=orgsocial_edit)
 
-### Cool AI:
-1. [InstantID: Merges your picture with text description and an optional pose photo](https://huggingface.co/spaces/InstantX/InstantID)
+### Cool AI tools:
+1. [InstantID](https://huggingface.co/spaces/InstantX/InstantID) : Merges your picture with text description and an optional pose photo
 2. [Perplexity.ai](https://perplexity.ai/) : A replacement for ChatGPT. It is real-time and it continuously searches the internet.
 
 ----------------------
