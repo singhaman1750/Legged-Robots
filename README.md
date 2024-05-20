@@ -7,6 +7,7 @@ This repository contains papers, videos and other references in the field of leg
 
 ## Robotics Workshops Websites and video links
 1. **ICRA 2024 Workshop on Co-design in Robotics: Theory, Practice, and Challenges**: [[Webpage](https://www.robotmechanisms.org/activities/icra-2024-codesign)]
+2. **ICRA 2024 Advancements in Trajectory Optimization and Model Predictive Control for Legged Systems**: [[Webpage](https://atompc-workshop.github.io/)]
 
 ---------------------
 ## Robotics Publications
