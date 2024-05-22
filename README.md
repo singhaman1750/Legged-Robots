@@ -2,8 +2,9 @@
 This repository contains papers, videos and other references in the field of legged robots. 
 
 ## Robotics conference paper lists
-1. **List of all IROS 2023 papers:** [[Google sheet](https://docs.google.com/spreadsheets/d/1cdca2J4g2gmHym1J0nXxJabhsxK7xIfXxicB8Le6AwU/edit#gid=214014586)] / [[Github Repo](https://github.com/ryanbgriffiths/IROS2023PaperList)]
-2. **List of all ICRA 2023 papers:** [[Google sheet](https://docs.google.com/spreadsheets/d/1LcYjqrh8EyZ4HIeSl80ECF-rb7tND6DTdUj2p5XA2gM/edit?usp=sharing)]
+1. **List of all ICRA 2024 paper:** [[Webpage](https://ras.papercept.net/conferences/conferences/ICRA24/program/ICRA24_ContentListWeb_3.html#thal-ex_07)]
+2. **List of all IROS 2023 papers:** [[Google sheet](https://docs.google.com/spreadsheets/d/1cdca2J4g2gmHym1J0nXxJabhsxK7xIfXxicB8Le6AwU/edit#gid=214014586)] / [[Github Repo](https://github.com/ryanbgriffiths/IROS2023PaperList)]
+3. **List of all ICRA 2023 papers:** [[Google sheet](https://docs.google.com/spreadsheets/d/1LcYjqrh8EyZ4HIeSl80ECF-rb7tND6DTdUj2p5XA2gM/edit?usp=sharing)]
 
 ## Robotics Workshops Websites and video links
 1. **ICRA 2024 Workshop on Co-design in Robotics: Theory, Practice, and Challenges**: [[Webpage](https://www.robotmechanisms.org/activities/icra-2024-codesign)]
