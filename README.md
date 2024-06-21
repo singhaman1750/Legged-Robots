@@ -182,6 +182,11 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 1. [List-of-Science-and-Math-courses](https://github.com/Developer-Y/math-science-video-lectures)
 
 -------
+## Usefull Books
+
+1. [Statics and Dynamics: Andy Ruina](http://ruina.tam.cornell.edu/Book/RuinaPratap-July-12-2019.pdf)
+
+-------
 
 ## Useful articles:
 
