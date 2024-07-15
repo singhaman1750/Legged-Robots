@@ -190,8 +190,8 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 ## Useful Tools:
 
 ### Mathematics:
-1. Lean: Programming Language for Theorem prover [[Link](https://lean-lang.org/)]
-      i. Tutorials: Natural Number Game [[Link](https://adam.math.hhu.de/#/g/leanprover-community/nng4)]
+1. **Lean**: Programming Language for Theorem prover [[Link](https://lean-lang.org/)] \
+      i. **Tutorials**: Natural Number Game [[Link](https://adam.math.hhu.de/#/g/leanprover-community/nng4)]
 
 -------
 
