@@ -140,6 +140,9 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 -------
 
 ## Video Lectures: 
+### Robotics and Controls:
+1. Robotics Fall 2023, by Pranav Bhounsule: [[Videos](https://youtube.com/playlist?list=PLc7bpbeTIk77plTksRXAe1JPJZVmBNk8_&feature=shared)][[Notes](https://pab47.github.io/robotics/robotics23.html)]
+
 ### Topics in Mathematics 
 1. [MIT 18.06 Linear Algebra, Spring 2005, MITOCW: Gilbert Strang](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 
@@ -233,7 +236,7 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 
 ----------------------
 
-## Useful GitHub Repositories
+## Useful GitHub Repositories:
 
 1. [loco-3d/crocoddyl:](https://github.com/loco-3d/crocoddyl)
 Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
