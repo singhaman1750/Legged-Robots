@@ -233,6 +233,7 @@ planetary differential and holding brakes](https://reader.elsevier.com/reader/sd
 ### Cool AI tools:
 1. [InstantID](https://huggingface.co/spaces/InstantX/InstantID) : Merges your picture with text description and an optional pose photo
 2. [Perplexity.ai](https://perplexity.ai/) : A replacement for ChatGPT. It is real-time and it continuously searches the internet.
+3. [Text to Image Playground](https://huggingface.co/spaces/MisterProton/text-to-image-models-playground): COnvert text to image with free credits addition.
 
 ----------------------
 
