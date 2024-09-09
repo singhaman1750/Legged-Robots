@@ -22,6 +22,8 @@ This repository contains papers, videos and other references in the field of leg
             2. International Conference on Intelligent Robots and Systems (IROS),
             3. Robotics and Automation Letters (RAL),
             4. Transaction on Robotics (T-RO) etc.
+        
+2. **IEEE publication recommender:** [[Link](https://publication-recommender.ieee.org/home)]
 
 ----------------------
 ## Papers
