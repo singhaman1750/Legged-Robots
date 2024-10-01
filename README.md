@@ -10,22 +10,7 @@ This repository contains papers, videos and other references in the field of leg
 1. **ICRA 2024 Workshop on Co-design in Robotics: Theory, Practice, and Challenges**: [[Webpage](https://www.robotmechanisms.org/activities/icra-2024-codesign)]
 2. **ICRA 2024 Advancements in Trajectory Optimization and Model Predictive Control for Legged Systems**: [[Webpage](https://atompc-workshop.github.io/)]
 
----------------------
-## Robotics Publications
-1. **List of Top Robotics Conferences and Publications**: [[List on Google Scholar Webpage](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)]
-      1. *A few ASME Conferences and Journals*:
-            1. Journal of Mechanisms and Robots,
-            2. Journal of Dynamics Systems, Measurement and Control, and
-            3. Transaction on Mechatronics (IEEE/ASME) etc
-      2. *A few IEEE Conferences and Journals*:
-            1. International Conference on Robotics and Automation (ICRA),
-            2. International Conference on Intelligent Robots and Systems (IROS),
-            3. Robotics and Automation Letters (RAL),
-            4. Transaction on Robotics (T-RO) etc.
-        
-2. **IEEE publication recommender:** [[Link](https://publication-recommender.ieee.org/home)]
 
-----------------------
 ## Papers
 ### New Papers: Legged Robots
 1. Design and Development of the MIT Humanoid: A Dynamic and Robust Research Platform [IEEE-RAS HUMANOIDS 2023] [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10375199)]
@@ -247,6 +232,22 @@ Crocoddyl is an optimal control library for robot control under contact sequence
 2. [Pinocchio:](https://github.com/stack-of-tasks/pinocchio?tab=readme-ov-file#examples)
    Efficient and Versatile Rigid Body Dynamics Algorithms
 
+---------------------
+## List of Robotics Conferences and Journals:
+1. **List of Top Robotics Conferences and Publications**: [[List on Google Scholar Webpage](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)]
+      1. *A few ASME Conferences and Journals*:
+            1. Journal of Mechanisms and Robots,
+            2. Journal of Dynamics Systems, Measurement and Control, and
+            3. Transaction on Mechatronics (IEEE/ASME) etc
+      2. *A few IEEE Conferences and Journals*:
+            1. International Conference on Robotics and Automation (ICRA),
+            2. International Conference on Intelligent Robots and Systems (IROS),
+            3. Robotics and Automation Letters (RAL),
+            4. Transaction on Robotics (T-RO) etc.
+        
+2. **IEEE publication recommender:** [[Link](https://publication-recommender.ieee.org/home)]
+
+----------------------
 ---------------
 
 ## Professors and Labs working in legged robotics
