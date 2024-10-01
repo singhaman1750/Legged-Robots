@@ -6,9 +6,9 @@ This repository contains papers, videos and other references in the field of leg
 2. **List of all IROS 2023 papers:** [[Google sheet](https://docs.google.com/spreadsheets/d/1cdca2J4g2gmHym1J0nXxJabhsxK7xIfXxicB8Le6AwU/edit#gid=214014586)] / [[Github Repo](https://github.com/ryanbgriffiths/IROS2023PaperList)]
 3. **List of all ICRA 2023 papers:** [[Google sheet](https://docs.google.com/spreadsheets/d/1LcYjqrh8EyZ4HIeSl80ECF-rb7tND6DTdUj2p5XA2gM/edit?usp=sharing)]
 
-## Papers
+## :page_with_curl: Papers
 
-### ICRA 2023
+### :robot: ICRA 2023
 #### Learning for locomotion
 1. DribbleBot: Dynamic Legged Manipulation in the wild [[Paper](https://arxiv.org/pdf/2304.01159.pdf)][[Video](https://www.youtube.com/watch?v=1cek5Ypa3TE)][[Code](https://github.com/Improbable-AI/dribblebot)][[Notes](https://github.com/singhaman1750/Research-Paper-Notes/blob/main/README.md#dribblebot-dynamic-legged-manipulation-in-the-wild)]
 3. Learning Low-Frequency Motion Control for Robust and Dynamic Robot Locomotion [[Paper](https://arxiv.org/pdf/2209.14887.pdf)][[Video](https://www.youtube.com/watch?v=pSuX223zLvM)][[Website](https://ori-drs.github.io/lfmc/)]
@@ -23,7 +23,7 @@ This repository contains papers, videos and other references in the field of leg
 
 --------
 
-### Legged Robot Control:
+### :joystick: Legged Robot Control:
 #### Optimization Based control for legged robots:
 1. **Survey Paper**: Optimization-Based Control for Dynamic Legged Robots [[Paper](https://arxiv.org/abs/2211.11644)]
 2. **Convex MPC for Quadruped walking**: Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control [[Paper](https://ieeexplore.ieee.org/document/8594448)]
@@ -41,11 +41,11 @@ This repository contains papers, videos and other references in the field of leg
 
 --------
 
-### Legged Robot Mechanical Design
-#### Design Principles for legged robots:
+### :hammer_and_wrench:	Legged Robot Mechanical Design
+#### :page_facing_up: Design Principles for legged robots:
 1. **MIT, Design Principles**: Design principles for highly efficient quadrupeds and implementation on the MIT Cheetah robot [[Paper](https://ieeexplore.ieee.org/document/6631038)]
 
-#### Quadruped Robot Design Papers:
+#### :dog: Quadruped Robot Design Papers:
 1. **MIT Cheetah-3**: MIT Cheetah 3: Design and Control of a Robust, Dynamic Quadruped Robot [[Paper](https://ieeexplore.ieee.org/document/8593885)]
 2. **MIT Mini Cheetah, MIT**: Mini Cheetah: A Platform for Pushing the Limits of Dynamic Quadruped Control [[Paper](https://ieeexplore.ieee.org/document/8793865)] [[Blog](https://build-its.blogspot.com/2019/12/the-mini-cheetah-robot.html)]
 3. **MIT Super Mini-Cheetah**: The MIT Super Mini Cheetah: A small, low-cost quadrupedal robot for dynamic locomotion [[Paper](https://ieeexplore.ieee.org/document/7443018)]
@@ -59,7 +59,7 @@ This repository contains papers, videos and other references in the field of leg
 11. **Stoch, IISc**: Design, Development and Experimental Realization of A Quadrupedal Research Platform: Stoch [[Paper](https://ieeexplore.ieee.org/document/8813480)]
 12. **Tachyon, Sony**: Tachyon: Design and Control of High Payload, Robust, and Dynamic Quadruped Robot with Series-Parallel Elastic Actuators [[Paper](https://ieeexplore.ieee.org/document/9636196)]
 
-#### Humanoid Robot Design:
+#### :robot: Humanoid Robot Design:
 1. **Berkely Humanoid**: Berkeley Humanoid: A Research Platform for Learning-based Control [[Paper](https://arxiv.org/abs/2407.21781)]
 2. **MIT Humanoid**: Design and Development of the MIT Humanoid: A Dynamic and Robust Research Platform [IEEE-RAS HUMANOIDS 2023] [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10375199)]
 3. **UIUC, Tello Leg**: Tello Leg: The Study of Design Principles and Metrics for Dynamic Humanoid Robots [[Paper](https://ieeexplore.ieee.org/document/9813569)]
@@ -67,12 +67,12 @@ This repository contains papers, videos and other references in the field of leg
 5. **AMI, IIT, Italy, egroCub Humanoid**: Optimization of Humanoid Robot Designs for Human-Robot Ergonomic Payload Lifting [[Paper](https://arxiv.org/abs/2211.13503)]
 6. **Tiktok, Humanoid, Cornell University**: [[Website](http://ruina.tam.cornell.edu/research/topics/locomotion_and_robotics/Tik-Tok/)] 
 
-#### Co-Design Optimization:
+#### :joystick: :hammer_and_wrench: Co-Design Optimization:
 1. Vitruvio: An Open-Source Leg Design Optimization Toolbox for Walking Robots [[Paper](https://ieeexplore.ieee.org/document/9157985)]
 2. **Co-design(CACTO)**: Exploring the Limits of a Redundant Actuation System Through Co-Design [[Paper](https://ieeexplore.ieee.org/document/9400808)]
 3. Meta Reinforcement Learning for Optimal Design of Legged Robots [[Paper](https://arxiv.org/pdf/2210.02750.pdf)]
 
-#### Electric motor based Actuator Designs for Legged Robots:
+#### :electron: Electric motor based Actuator Designs for Legged Robots:
 1. **KAIST, Actuator Design**: DRPD, Dual Reduction Ratio Planetary Drive for Articulated Robot Actuators [[Paper](https://ieeexplore.ieee.org/abstract/document/9981201)]
 2. **Dual Motor Design (2021)**: Explosive Electric Actuator and Control for Legged Robots [[Paper](https://reader.elsevier.com/reader/sd/pii/S2095809921005282?token=528592F31700C12282D3918FF7D6AC7D58F2B05BE168CEA0767BE07971464D4F37986B7E089D0A53D6F9E87E12E5AB73&originRegion=eu-west-1&originCreation=20230413064751)]
 3. **John Harry Bell, Master's Thesis, MIT (2018)**: A Two-Motor Actuator for Legged Robotics Applications [[Thesis](https://dspace.mit.edu/bitstream/handle/1721.1/127152/1191839946-MIT.pdf?sequence=1&isAllowed=y)]
