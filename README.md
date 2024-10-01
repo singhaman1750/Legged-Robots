@@ -47,7 +47,7 @@ This repository contains papers, videos and other references in the field of leg
 
 #### :dog: Quadruped Robot Design Papers:
 1. **MIT Cheetah-3**: MIT Cheetah 3: Design and Control of a Robust, Dynamic Quadruped Robot [[Paper](https://ieeexplore.ieee.org/document/8593885)]
-2. **MIT Mini Cheetah, MIT**: Mini Cheetah: A Platform for Pushing the Limits of Dynamic Quadruped Control [[Paper](https://ieeexplore.ieee.org/document/8793865)] [[Blog](https://build-its.blogspot.com/2019/12/the-mini-cheetah-robot.html)]
+2. **MIT Mini Cheetah**: Mini Cheetah: A Platform for Pushing the Limits of Dynamic Quadruped Control [[Paper](https://ieeexplore.ieee.org/document/8793865)] [[Blog](https://build-its.blogspot.com/2019/12/the-mini-cheetah-robot.html)]
 3. **MIT Super Mini-Cheetah**: The MIT Super Mini Cheetah: A small, low-cost quadrupedal robot for dynamic locomotion [[Paper](https://ieeexplore.ieee.org/document/7443018)]
 4. **ANYmal Robot**: ANYmal - A Highly Mobile and Dynamic Quadrupedal Robot [[Paper](https://ieeexplore.ieee.org/document/7758092)]
 5. **KAIST, HOUND design**: Design of KAIST HOUND, a Quadruped Robot Platform for Fast and Efficient Locomotion with Mixed-Integer Nonlinear Optimization of a Gear Train [[Paper](https://ieeexplore.ieee.org/abstract/document/9811755)]
