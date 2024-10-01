@@ -223,7 +223,8 @@ Crocoddyl is an optimal control library for robot control under contact sequence
 
 ## Professors and Labs working in legged robotics
 ### India
-* **Shishir N Y**, Stochastic Robotics Lab, RBCCPS, IISc Bengaluru [[Personal Website](https://www.shishirny.com/)][[Lab website](https://www.stochlab.com/)] 
+* **Shishir N Y**, Stochastic Robotics Lab, RBCCPS, IISc Bengaluru [[Personal Website](https://www.shishirny.com/)][[Lab website](https://www.stochlab.com/)]
+* **Mangal Kothari**, IIT Kanpur: [[Homepage](https://home.iitk.ac.in/~mangal/)]
 
 ### USA
 * **Sangbae Kim**, Biomimetics Robotics Lab, MIT [[Lab Website](https://biomimetics.mit.edu/)]
