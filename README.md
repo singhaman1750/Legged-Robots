@@ -1,15 +1,15 @@
-# Legged-Robots
+# Legged-Robots: Introduction
 This repository contains papers, videos and other references in the field of legged robots. 
 
-## Robotics conference paper lists
+# Robotics conference paper lists
 1. **List of all ICRA 2024 paper:** [[Webpage](https://ras.papercept.net/conferences/conferences/ICRA24/program/ICRA24_ContentListWeb_3.html#thal-ex_07)]
 2. **List of all IROS 2023 papers:** [[Google sheet](https://docs.google.com/spreadsheets/d/1cdca2J4g2gmHym1J0nXxJabhsxK7xIfXxicB8Le6AwU/edit#gid=214014586)] / [[Github Repo](https://github.com/ryanbgriffiths/IROS2023PaperList)]
 3. **List of all ICRA 2023 papers:** [[Google sheet](https://docs.google.com/spreadsheets/d/1LcYjqrh8EyZ4HIeSl80ECF-rb7tND6DTdUj2p5XA2gM/edit?usp=sharing)]
 
-## :page_with_curl: Papers
+# :page_with_curl: Papers
 
-### :robot: ICRA 2023
-#### Learning for locomotion
+## :robot: ICRA 2023
+### Learning for locomotion
 1. DribbleBot: Dynamic Legged Manipulation in the wild [[Paper](https://arxiv.org/pdf/2304.01159.pdf)][[Video](https://www.youtube.com/watch?v=1cek5Ypa3TE)][[Code](https://github.com/Improbable-AI/dribblebot)][[Notes](https://github.com/singhaman1750/Research-Paper-Notes/blob/main/README.md#dribblebot-dynamic-legged-manipulation-in-the-wild)]
 3. Learning Low-Frequency Motion Control for Robust and Dynamic Robot Locomotion [[Paper](https://arxiv.org/pdf/2209.14887.pdf)][[Video](https://www.youtube.com/watch?v=pSuX223zLvM)][[Website](https://ori-drs.github.io/lfmc/)]
 4. OPT-Mimic: Imitation of Optimized Trajectories for Dynamic Quadruped Behaviors [[Paper](https://arxiv.org/pdf/2210.01247.pdf)][[Video](https://www.youtube.com/watch?v=tDzu_sy_FAI)][[Website](https://www.cs.ubc.ca/~van/papers/2022-opt-mimic/index.html)]
@@ -23,8 +23,8 @@ This repository contains papers, videos and other references in the field of leg
 
 --------
 
-### :joystick: Legged Robot Control:
-#### Optimization Based control for legged robots:
+## :joystick: Legged Robot Control:
+### Optimization Based control for legged robots:
 1. **Survey Paper**: Optimization-Based Control for Dynamic Legged Robots [[Paper](https://arxiv.org/abs/2211.11644)]
 2. **Convex MPC for Quadruped walking**: Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control [[Paper](https://ieeexplore.ieee.org/document/8594448)]
 3. **Feedback MPC**: Feedback MPC for Torque-Controlled Legged Robots [[Paper](https://arxiv.org/abs/1905.06144)]
@@ -33,7 +33,7 @@ This repository contains papers, videos and other references in the field of leg
 6. **Non-Linear RF-MPC**: Real-Time Constrained Nonlinear Model Predictive Control on SO(3) or Dynamic Legged Locomotion [[Paper](http://ras.papercept.net/images/temp/IROS/files/2325.pdf)]
 7. **WBC+MPC**: Highly Dynamic Quadruped Locomotion via Whole-Body Impulse Control and Model Predictive Control [[Paper](https://arxiv.org/abs/1909.06586)]
 
-#### Learning Based locomotion:
+### Learning Based locomotion:
 1. **DreamWaQ**: DreamWaQ: Learning Robust Quadrupedal Locomotion with Implicit Terrain Imagination Via Deep Reinforcement Learning [[Paper](https://arxiv.org/pdf/2301.10602.pdf)][[Video](https://www.youtube.com/watch?v=J5wl0be5KQM)][[Website](https://sites.google.com/view/dreamwaq)]
 2. **HIMloco**: Hybrid Internal Model: Learning Agile Legged Locomotion with Simulated Robot Response [[Paper](https://arxiv.org/abs/2312.11460)]
 3. **Tencent Robotics**: Lifelike Agility and Play on Quadrupedal Robots using Reinforcement Learning and Deep Pre-trained Models [[Paper](https://tencent-roboticsx.github.io/lifelike-agility-and-play/)][[Website](https://tencent-roboticsx.github.io/lifelike-agility-and-play/)][[Video](https://www.youtube.com/watch?v=ucucrLqT5dM)]
@@ -41,11 +41,11 @@ This repository contains papers, videos and other references in the field of leg
 
 --------
 
-### :hammer_and_wrench:	Legged Robot Mechanical Design
-#### :page_facing_up: Design Principles for legged robots:
+## :hammer_and_wrench:	Legged Robot Mechanical Design
+### :page_facing_up: Design Principles for legged robots:
 1. **MIT, Design Principles**: Design principles for highly efficient quadrupeds and implementation on the MIT Cheetah robot [[Paper](https://ieeexplore.ieee.org/document/6631038)]
 
-#### :dog: Quadruped Robot Design Papers:
+### :dog: Quadruped Robot Design Papers:
 1. **MIT Cheetah-3**: MIT Cheetah 3: Design and Control of a Robust, Dynamic Quadruped Robot [[Paper](https://ieeexplore.ieee.org/document/8593885)]
 2. **MIT Mini Cheetah**: Mini Cheetah: A Platform for Pushing the Limits of Dynamic Quadruped Control [[Paper](https://ieeexplore.ieee.org/document/8793865)] [[Blog](https://build-its.blogspot.com/2019/12/the-mini-cheetah-robot.html)]
 3. **MIT Super Mini-Cheetah**: The MIT Super Mini Cheetah: A small, low-cost quadrupedal robot for dynamic locomotion [[Paper](https://ieeexplore.ieee.org/document/7443018)]
@@ -58,8 +58,9 @@ This repository contains papers, videos and other references in the field of leg
 10. **MiniTaur**: Design Principles for a Family of Direct-Drive Legged Robots [[Paper](https://ieeexplore.ieee.org/document/7403902)]
 11. **Stoch, IISc**: Design, Development and Experimental Realization of A Quadrupedal Research Platform: Stoch [[Paper](https://ieeexplore.ieee.org/document/8813480)]
 12. **Tachyon, Sony**: Tachyon: Design and Control of High Payload, Robust, and Dynamic Quadruped Robot with Series-Parallel Elastic Actuators [[Paper](https://ieeexplore.ieee.org/document/9636196)]
+13. **Raibo Robot, KAIST**: RaiBo: A versatile robo-dog that runs through a sandy beach at 3 meters per second [[News-Article](https://techxplore.com/news/2023-01-raibo-versatile-robo-dog-sandy-beach.html)] [[Video](https://www.youtube.com/watch?v=ATvFSwkneu4)]
 
-#### :robot: Humanoid Robot Design:
+### :robot: Humanoid Robot Design:
 1. **Berkely Humanoid**: Berkeley Humanoid: A Research Platform for Learning-based Control [[Paper](https://arxiv.org/abs/2407.21781)]
 2. **MIT Humanoid**: Design and Development of the MIT Humanoid: A Dynamic and Robust Research Platform [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10375199)]
 3. **UIUC, Tello Leg**: Tello Leg: The Study of Design Principles and Metrics for Dynamic Humanoid Robots [[Paper](https://ieeexplore.ieee.org/document/9813569)]
@@ -67,12 +68,12 @@ This repository contains papers, videos and other references in the field of leg
 5. **AMI, IIT, Italy, egroCub Humanoid**: Optimization of Humanoid Robot Designs for Human-Robot Ergonomic Payload Lifting [[Paper](https://arxiv.org/abs/2211.13503)]
 6. **Tiktok, Humanoid, Cornell University**: [[Website](http://ruina.tam.cornell.edu/research/topics/locomotion_and_robotics/Tik-Tok/)] 
 
-#### :joystick: :hammer_and_wrench: Co-Design Optimization:
+### :joystick: :hammer_and_wrench: Co-Design Optimization:
 1. Vitruvio: An Open-Source Leg Design Optimization Toolbox for Walking Robots [[Paper](https://ieeexplore.ieee.org/document/9157985)]
 2. **Co-design(CACTO)**: Exploring the Limits of a Redundant Actuation System Through Co-Design [[Paper](https://ieeexplore.ieee.org/document/9400808)]
 3. Meta Reinforcement Learning for Optimal Design of Legged Robots [[Paper](https://arxiv.org/pdf/2210.02750.pdf)]
 
-#### :electron: Electric motor based Actuator Designs for Legged Robots:
+### :electron: Electric motor based Actuator Designs for Legged Robots:
 1. **KAIST, Actuator Design**: DRPD, Dual Reduction Ratio Planetary Drive for Articulated Robot Actuators [[Paper](https://ieeexplore.ieee.org/abstract/document/9981201)]
 2. **Dual Motor Design (2021)**: Explosive Electric Actuator and Control for Legged Robots [[Paper](https://reader.elsevier.com/reader/sd/pii/S2095809921005282?token=528592F31700C12282D3918FF7D6AC7D58F2B05BE168CEA0767BE07971464D4F37986B7E089D0A53D6F9E87E12E5AB73&originRegion=eu-west-1&originCreation=20230413064751)]
 3. **John Harry Bell, Master's Thesis, MIT (2018)**: A Two-Motor Actuator for Legged Robotics Applications [[Thesis](https://dspace.mit.edu/bitstream/handle/1721.1/127152/1191839946-MIT.pdf?sequence=1&isAllowed=y)]
@@ -84,27 +85,27 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 
 -------------------------
 
-## Patents
+# Patents
 1. **Boston Dynamics**: [List of Patents from Boston Dynamics](https://www.bostondynamics.com/patents)
 2. **Boston Dynamics**: [Screw Actuator for Legged Robots](https://patents.google.com/patent/US10253855B2/en)
 3. **Boston Dynamics**: [WO2018112097 - TRANSMISSION WITH INTEGRATED OVERLOAD PROTECTION FOR A LEGGED ROBOT](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2018112097)
 
 -------
 
-## Robotics Workshops Websites and video links
+# Robotics Workshops Websites and video links
 1. **ICRA 2024 Workshop on Co-design in Robotics: Theory, Practice, and Challenges**: [[Webpage](https://www.robotmechanisms.org/activities/icra-2024-codesign)]
 2. **ICRA 2024 Advancements in Trajectory Optimization and Model Predictive Control for Legged Systems**: [[Webpage](https://atompc-workshop.github.io/)]
 
 --------------
 
-## Video Lectures: 
-### Robotics and Controls:
+# Video Lectures: 
+## Robotics and Controls:
 1. Robotics Fall 2023, by Pranav Bhounsule: [[Videos](https://youtube.com/playlist?list=PLc7bpbeTIk77plTksRXAe1JPJZVmBNk8_&feature=shared)][[Notes](https://pab47.github.io/robotics/robotics23.html)]
 
-### Topics in Mathematics 
+## Topics in Mathematics 
 1. [MIT 18.06 Linear Algebra, Spring 2005, MITOCW: Gilbert Strang](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 
-### Optimization
+## Optimization
 1. **Course:** [Numerical Optimization, *(NPTEL)*: Shirish Sevade ](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3Hi2kc4n4bqJvxrtyaQa3P)
 
 **Trajectory Optimization** 
@@ -117,19 +118,19 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 8. **Github Repos:** [MindtPy Library Page: MINLP solver](https://pyomo.readthedocs.io/en/stable/contributed_packages/mindtpy.html)
 9. **Tutorial Paper:** [An Introduction to Trajectory Optimization: How to do your own direct collocation, *Matthew Kelly*](https://www.matthewpeterkelly.com/research/MatthewKelly_IntroTrajectoryOptimization_SIAM_Review_2017.pdf)
 
-### Basics of Control systems
+## Basics of Control systems
 1. Linear Quadratic Regulator (LQR): [Basics/Overview](https://www.youtube.com/watch?v=1_UobILf3cc) [Derivation]()
 
-### Reinforcement Learning
+## Reinforcement Learning
 1. [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 2. [Reinforcement Learning: David Silver](https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
 3. [CS-285: Deep Reinforcement Learning, UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
 4. [Spinning up*](https://spinningup.openai.com/en/latest/index.html): It's a blog but really useful
 
-### ROS
+## ROS
 1. [ROS Wiki Tutorials: Muhammad Luqman](https://www.youtube.com/playlist?list=PLBbhfIdh4NdgBBkX7q0Y3UukO2_ZoICee)
 
-### Mechanical Design and Theory
+## Mechanical Design and Theory
 1. [Kinematics of Mechanisms and Machines: NPTEL, IIT KGP](https://www.youtube.com/playlist?list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8)
       1. [Lec-37: Gear Kinematics](https://www.youtube.com/watch?v=BjkxYZ93Fbs&list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8&index=38) 
       2. [Lec-38: Gear Trains I](https://www.youtube.com/watch?v=lu_Qw4Y4XRQ&list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8&index=39)
@@ -139,35 +140,35 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 3. [Gear Strength Theory: NPTEL](https://archive.nptel.ac.in/courses/112/106/112106137/)
 4. [Friction-Model-for-Spur-Gear-transmission-efficiency: Review by Tsuneji Yada](https://www.jstage.jst.go.jp/article/jsmec1993/40/1/40_1_1/_article)
 
-### Miscellaneous:
+## Miscellaneous:
 1. [List-of-Science-and-Math-courses](https://github.com/Developer-Y/math-science-video-lectures)
 
 -------
-## Usefull Books:
+# Usefull Books:
 
 1. [Statics and Dynamics: Andy Ruina](http://ruina.tam.cornell.edu/Book/RuinaPratap-July-12-2019.pdf)
 
 -------
-## Useful Tools:
+# Useful Tools:
 
-### Mathematics:
+## Mathematics:
 1. **Lean**: Programming Language for Theorem prover [[Link](https://lean-lang.org/)] \
       i. **Tutorials**: Natural Number Game [[Link](https://adam.math.hhu.de/#/g/leanprover-community/nng4)]
 
 -------
 
-## Useful articles:
+# Useful articles:
 
-### Software installations:
+## Software installations:
 1. [Installing Anaconda on Ubuntu 22.04](https://linuxhint.com/install-anaconda-ubuntu-22-04/)
 2. [Installing Anaconda on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart)
 
-### Technical topics:
+## Technical topics:
 1. [DDP](http://www.imgeorgiev.com/2023-02-01-ddp/): A good read for DDP
 2. [Policy Gradient Algorithms](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/#what-is-policy-gradient): A good read for Policy Gradient Algos
 3. [Reinforcement Learning Resources](https://stable-baselines.readthedocs.io/en/master/guide/rl.html): A list of resources for studying Reinforcement Learning
 
-### Study:
+## Study:
 1. **How to read Research Papers?**
       * How to read a research paper by *Andrew NG*: [Video](https://www.youtube.com/watch?v=733m6qBH-jI) / [Notes](https://github.com/IvLabs/ResearchPaperNotes/tree/master/literature_study_tips)
       * How to Read a Paper by *S. Keshav*: [PDF](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
@@ -176,26 +177,26 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 2. **How to organize Reasearch Papers?**
       * How to find, read and organize papers by *Maya Gosztyla*: [Article](https://www.nature.com/articles/d41586-022-01878-7)
 
-### Know your scientist:
+## Know your scientist:
 1. [Steven LaValle](http://lavalle.pl/bio.html): Motivating story of Steven LaValle, who gave the RRT algorithm.
 2. [Shuji Nakamura: Invention of Blue LED](https://youtu.be/AF8d72mA41M?feature=shared): Documentary about invention of blue LED.
 
-### Website:
+## Website:
 1. [List of usefull resources: Aditya Mehrotra, MIT D-lab](https://www.adim.io/resources)
 2. [StePhane Caron](https://scaron.info/category/robotics.html)
 3. [Usefull Resources: Xiaobin Xiong](https://www.xiaobinxiong.info/resources)
 
-### Productivity Articles: (Don't get sucked too much into them)
+## Productivity Articles: (Don't get sucked too much into them)
 1. [HBR: 5 Mental Mistakes That Kill Your Productivity by Alice Boyes](https://hbr.org/2019/11/5-mental-mistakes-that-kill-your-productivity?utm_medium=social&utm_campaign=hbr&utm_source=facebook&tpcc=orgsocial_edit)
 
-### Cool AI tools:
+## Cool AI tools:
 1. [InstantID](https://huggingface.co/spaces/InstantX/InstantID) : Merges your picture with text description and an optional pose photo
 2. [Perplexity.ai](https://perplexity.ai/) : A replacement for ChatGPT. It is real-time and it continuously searches the internet.
 3. [Text to Image Playground](https://huggingface.co/spaces/MisterProton/text-to-image-models-playground): COnvert text to image with free credits addition.
 
 ----------------------
 
-## Useful GitHub Repositories:
+# Useful GitHub Repositories:
 
 1. [loco-3d/crocoddyl:](https://github.com/loco-3d/crocoddyl)
 Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
@@ -204,7 +205,7 @@ Crocoddyl is an optimal control library for robot control under contact sequence
    Efficient and Versatile Rigid Body Dynamics Algorithms
 
 ---------------------
-## List of Robotics Conferences and Journals:
+# List of Robotics Conferences and Journals:
 1. **List of Top Robotics Conferences and Publications**: [[List on Google Scholar Webpage](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)]
       1. *A few ASME Conferences and Journals*:
             1. Journal of Mechanisms and Robots,
@@ -221,12 +222,12 @@ Crocoddyl is an optimal control library for robot control under contact sequence
 ----------------------
 ---------------
 
-## Professors and Labs working in legged robotics
-### India
+# Professors and Labs working in legged robotics
+## India
 * **Shishir N Y**, Stochastic Robotics Lab, RBCCPS, IISc Bengaluru [[Personal Website](https://www.shishirny.com/)][[Lab website](https://www.stochlab.com/)]
 * **Mangal Kothari**, IIT Kanpur: [[Homepage](https://home.iitk.ac.in/~mangal/)]
 
-### USA
+## USA
 * **Sangbae Kim**, Biomimetics Robotics Lab, MIT [[Lab Website](https://biomimetics.mit.edu/)]
 * **Pulkit Agarwal**, Improbable AI Lab, MIT [[Personal Website](https://people.csail.mit.edu/pulkitag/)]
 * **Deepak Pathak**, CMU [[Personal Website](https://www.cs.cmu.edu/~dpathak/)]
@@ -242,26 +243,26 @@ Crocoddyl is an optimal control library for robot control under contact sequence
 * **Yanran Ding**, Robotics Department, University of Michigan [[Personal Website](https://sites.google.com/view/yanranding/home)]
 * **Xiaobin Xiong**, UW WELL Lab, University of Wisconsin-Madison [[Personal Website](https://www.xiaobinxiong.info/about)][[Lab Website](https://well.robotics.wisc.edu/team/)]
 
-### Europe
+## Europe
 * **Marco Hutter**, Robotic Systems Lab, ETH Zurich, Switzerland [[Lab Website](https://rsl.ethz.ch/)]
 * **Serena Ivaldi**, Research Scientist, INRIA, France [[Personal Website](https://members.loria.fr/SIvaldi/)]
 * **Oliver Strasse**, French National Centre for Scientific Research, France [[Personal Website](https://homepages.laas.fr/ostasse/hugo/)]
 * **Carlos Mastalli**, Heriot-Watt University, Edinburgh, UK [[Personal Website](https://cmastalli.github.io/)]
 
-### South Korea
+## South Korea
 * **Hae-Won Park**, DRDC Lab, KAIST [[Lab Website](https://www.dynamicrobot.kaist.ac.kr/)]
 * **Jemin Hwangbo**, RaiLab, KAIST [[Lab Website](https://www.railab.kaist.ac.kr/)]
 
-### Other Labs
+## Other Labs
 * **Sony Quadruped Research** [Website](https://www.sony.com/en/SonyInfo/research/technologies/new_mobility/)
 
 ---------------
-## Robotics Companies
-### India
+# Robotics Companies
+## India
 * **Ideaforge**, Drone manufacturing company [[Website](https://ideaforgetech.com/)]
 * **Ati Motors**, Industrial Mobile robots company [[Website](https://atimotors.com/)] 
 ---------------
-## Accesories for Legged robots:
+# Accesories for Legged robots:
 
 1. **Motors**
       1. [**TQ-Motors**](https://www.tq-group.com/de/produkte/tq-robodrive/): Used in Raibo Quadruped
