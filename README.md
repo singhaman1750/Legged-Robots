@@ -35,9 +35,9 @@ This repository contains papers, videos and other references in the field of leg
 
 ### Quadruped Learning Based locomotion:
 1. **RMA**: RMA: Rapid Motor Adaptation for Legged Robots [[Paper](https://www.roboticsproceedings.org/rss17/p011.pdf)]
-2. **Walk These Ways**: Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior [[Paper](https://arxiv.org/abs/2212.03238)]
+2. **Walk These Ways**: Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior [[Paper](https://arxiv.org/abs/2212.03238)][[Github](https://github.com/Improbable-AI/walk-these-ways)]
 3. **DreamWaQ**: DreamWaQ: Learning Robust Quadrupedal Locomotion with Implicit Terrain Imagination Via Deep Reinforcement Learning [[Paper](https://arxiv.org/pdf/2301.10602.pdf)][[Video](https://www.youtube.com/watch?v=J5wl0be5KQM)][[Website](https://sites.google.com/view/dreamwaq)]
-4. **HIMloco**: Hybrid Internal Model: Learning Agile Legged Locomotion with Simulated Robot Response [[Paper](https://arxiv.org/abs/2312.11460)]
+4. **HIMloco**: Hybrid Internal Model: Learning Agile Legged Locomotion with Simulated Robot Response [[Paper](https://arxiv.org/abs/2312.11460)][[Github](https://github.com/OpenRobotLab/HIMLoco)]
 5. **Tencent Robotics**: Lifelike Agility and Play on Quadrupedal Robots using Reinforcement Learning and Deep Pre-trained Models [[Paper](https://tencent-roboticsx.github.io/lifelike-agility-and-play/)][[Website](https://tencent-roboticsx.github.io/lifelike-agility-and-play/)][[Video](https://www.youtube.com/watch?v=ucucrLqT5dM)]
 6. **Linear Policy**: Force Control for Robust Quadruped Locomotion: A Linear Policy Approach [[Paper](https://ieeexplore.ieee.org/document/10161080)][[Video](https://www.youtube.com/watch?v=k89QdImcqdo&t=2s)][[Website](https://www.stochlab.com/projects/LinPolForceControlQuad.html)]
 7. **PIP-Loco**: Pip-Loco: A propioceptive Infinite Horizon Planning Framework for Quadrupedal Robot Locomotion [[Paper](https://arxiv.org/pdf/2409.09441)]
@@ -98,6 +98,28 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 1. **Boston Dynamics**: [List of Patents from Boston Dynamics](https://www.bostondynamics.com/patents)
 2. **Boston Dynamics**: [Screw Actuator for Legged Robots](https://patents.google.com/patent/US10253855B2/en)
 3. **Boston Dynamics**: [WO2018112097 - TRANSMISSION WITH INTEGRATED OVERLOAD PROTECTION FOR A LEGGED ROBOT](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2018112097)
+
+----------------------
+
+# Useful GitHub Repositories:
+
+1. [motion_imitation:](https://github.com/erwincoumans/motion_imitation/tree/master)
+   Useful for Quadruped robot simulation in Pybullet using SRB (single-rigid body) model (by Erwin Couman, creator of Pybullet)
+
+2. [walk-these-ways:](https://github.com/Improbable-AI/walk-these-ways)
+   Learning-based locomotion controller in Issac-gym simulator, with different gaits and height changes
+
+3. [HIMLoco:](https://github.com/OpenRobotLab/HIMLoco)
+   Learning-based locomotion controller for rough terrain navigation using hybrid internal models
+
+4. [VI_discretized_TO:](https://github.com/DRCL-USC/VI_discretized_TO)
+   Code for the Backflips of biped and quadruped robots using Traj_Opt using Variational Integration
+
+5. [loco-3d/crocoddyl:](https://github.com/loco-3d/crocoddyl)
+   Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
+
+6. [Pinocchio:](https://github.com/stack-of-tasks/pinocchio?tab=readme-ov-file#examples)
+   Efficient and Versatile Rigid Body Dynamics Algorithms
 
 -------
 
@@ -183,8 +205,8 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
       * How to read a research paper by *Andrew NG*: [Video](https://www.youtube.com/watch?v=733m6qBH-jI) / [Notes](https://github.com/IvLabs/ResearchPaperNotes/tree/master/literature_study_tips)
       * How to Read a Paper by *S. Keshav*: [PDF](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
       * How to read a paper: [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7044621048364900352?utm_source=share&utm_medium=member_desktop)
-      * Usefull Resources by *Ness B Shroff*, on PhD and writing papers: [Webpage](https://newslab.ece.ohio-state.edu/for%20students/index.html)
-2. **How to organize Reasearch Papers?**
+      * Useful Resources by *Ness B Shroff*, on PhD and writing papers: [Webpage](https://newslab.ece.ohio-state.edu/for%20students/index.html)
+2. **How to organize research papers?**
       * How to find, read and organize papers by *Maya Gosztyla*: [Article](https://www.nature.com/articles/d41586-022-01878-7)
 
 ## Know your scientist:
@@ -192,7 +214,7 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 2. [Shuji Nakamura: Invention of Blue LED](https://youtu.be/AF8d72mA41M?feature=shared): Documentary about invention of blue LED.
 
 ## Website:
-1. [List of usefull resources: Aditya Mehrotra, MIT D-lab](https://www.adim.io/resources)
+1. [List of useful resources: Aditya Mehrotra, MIT D-lab](https://www.adim.io/resources)
 2. [StePhane Caron](https://scaron.info/category/robotics.html)
 3. [Usefull Resources: Xiaobin Xiong](https://www.xiaobinxiong.info/resources)
 
@@ -201,18 +223,8 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 
 ## Cool AI tools:
 1. [InstantID](https://huggingface.co/spaces/InstantX/InstantID) : Merges your picture with text description and an optional pose photo
-2. [Perplexity.ai](https://perplexity.ai/) : A replacement for ChatGPT. It is real-time and it continuously searches the internet.
+2. [Perplexity.ai](https://perplexity.ai/) : Functions Similar to ChatGPT
 3. [Text to Image Playground](https://huggingface.co/spaces/MisterProton/text-to-image-models-playground): COnvert text to image with free credits addition.
-
-----------------------
-
-# Useful GitHub Repositories:
-
-1. [loco-3d/crocoddyl:](https://github.com/loco-3d/crocoddyl)
-Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
-
-2. [Pinocchio:](https://github.com/stack-of-tasks/pinocchio?tab=readme-ov-file#examples)
-   Efficient and Versatile Rigid Body Dynamics Algorithms
 
 ---------------------
 # List of Robotics Conferences and Journals:
