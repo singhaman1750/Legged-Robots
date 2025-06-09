@@ -8,6 +8,14 @@ This repository contains papers, videos and other references in the field of leg
 
 # :page_with_curl: Papers
 
+## :tractor: Rotary Electric Actuator Papers
+1. **MIT Mini Cheetah Actuator**: Mini Cheetah: A Platform for Pushing the Limits of Dynamic Quadruped Control [[Paper](https://ieeexplore.ieee.org/document/8793865)] [[Blog](https://build-its.blogspot.com/2019/12/the-mini-cheetah-robot.html)]
+2. **MIT Humanoid Actuators: Alex Hattori Thesis**: Design of a high torque density modular actuator for dynamic robots [[Thesis-Webpage](https://dspace.mit.edu/handle/1721.1/127165?show=full)]
+3. **MIT Humanoid Actuator: Paper**: Design and Development of the MIT Humanoid: A Dynamic and Robust Research Platform [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10375199)] 
+4. **Berkely Humanoid**: Berkeley Humanoid: A Research Platform for Learning-based Control [[Paper](https://arxiv.org/abs/2407.21781)]
+5. **Berkely Humanoid Lite**: Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot [[Paper](https://arxiv.org/abs/2504.17249)] [[Documentation](https://berkeley-humanoid-lite.gitbook.io/docs)] [[Github](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite)]
+
+
 ## :robot: ICRA 2023
 ### Learning for locomotion
 1. DribbleBot: Dynamic Legged Manipulation in the wild [[Paper](https://arxiv.org/pdf/2304.01159.pdf)][[Video](https://www.youtube.com/watch?v=1cek5Ypa3TE)][[Code](https://github.com/Improbable-AI/dribblebot)][[Notes](https://github.com/singhaman1750/Research-Paper-Notes/blob/main/README.md#dribblebot-dynamic-legged-manipulation-in-the-wild)]
