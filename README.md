@@ -15,6 +15,7 @@ This repository contains papers, videos and other references in the field of leg
 3. **MIT Humanoid Actuator: Paper**: Design and Development of the MIT Humanoid: A Dynamic and Robust Research Platform [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10375199)] 
 4. **Berkely Humanoid**: Berkeley Humanoid: A Research Platform for Learning-based Control [[Paper](https://arxiv.org/abs/2407.21781)]
 5. **Actuator, ICRA 2024**: Design and Experimental Characterisation of a Novel Quasi-Direct Drive Actuator for Highly Dynamic Robotic Applications [[Paper](https://ieeexplore.ieee.org/document/10611567)]
+6. **3D printed Actuators, EmBiR Lab, University of Michigan**: Design and Characterization of 3D Printed, Open-Source Actuators for Legged Locomotion [[Paper](https://ieeexplore.ieee.org/document/9981940)] [[Website (Open-Source-Designs)](https://www.embirlab.com/3dpactuator)]
 
 ### Cycloidal Gearboxes:
 1. **Berkely Humanoid Lite**: Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot [[Paper](https://arxiv.org/abs/2504.17249)] [[Documentation](https://berkeley-humanoid-lite.gitbook.io/docs)] [[Github](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite)]
