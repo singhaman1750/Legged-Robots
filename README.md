@@ -311,3 +311,7 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 2. **Drivers**
       1. **Mjbots**: [Moteus-n1](https://mjbots.com/products/moteus-n1), [Moteus-r4.xx](https://mjbots.com/products/moteus-n1) \
                         It also provide several other accesories for legged robots. It is like a one stop shop.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=singhaman1750/Legged-Robots&type=date&legend=top-left)](https://www.star-history.com/#singhaman1750/Legged-Robots&type=date&legend=top-left)
