@@ -124,7 +124,7 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 
 ## Motor Theory and Design
 1. Master's Thesis: James Mevey [[Thesis-Link](https://krex.k-state.edu/server/api/core/bitstreams/e3f7aa0b-4833-44e4-9ef0-af09f411baa1/content)]
-2. Book, Brushless Permanent Magnet Motor Design, Dr. Duane Hanselman: [[Link](https://blog.avislab.com/uploads/2014/05/BrushlessPermanentMagnetMotorDesignVersion2.pdf)]
+2. Book, Brushless Permanent Magnet Motor Design, Dr. Duane Hanselman
 3. Instructables Post: [[Link](https://www.instructables.com/Make-Your-Own-Miniature-Electric-Hub-Motor/)]
 4. Source: Reddit Post: [[Need some guidance with BLDC motor design: Answer by alternativemax](https://www.reddit.com/r/Motors/comments/pmopwr/need_some_guidance_with_bldc_motor_design/)] 
 
