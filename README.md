@@ -118,6 +118,16 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 2. **Boston Dynamics**: [Screw Actuator for Legged Robots](https://patents.google.com/patent/US10253855B2/en)
 3. **Boston Dynamics**: [WO2018112097 - TRANSMISSION WITH INTEGRATED OVERLOAD PROTECTION FOR A LEGGED ROBOT](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2018112097)
 
+--------------------------
+
+# Actuator Design Resources
+
+## Motor Theory and Design
+1. Master's Thesis: James Mevey [[Thesis-Link](https://krex.k-state.edu/server/api/core/bitstreams/e3f7aa0b-4833-44e4-9ef0-af09f411baa1/content)]
+2. Book, Brushless Permanent Magnet Motor Design, Dr. Duane Hanselman: [[Link](https://blog.avislab.com/uploads/2014/05/BrushlessPermanentMagnetMotorDesignVersion2.pdf)]
+3. Instructables Post: [[Link](https://www.instructables.com/Make-Your-Own-Miniature-Electric-Hub-Motor/)]
+4. Source: Reddit Post: [[Need some guidance with BLDC motor design: Answer by alternativemax](https://www.reddit.com/r/Motors/comments/pmopwr/need_some_guidance_with_bldc_motor_design/)] 
+
 ----------------------
 
 # Useful GitHub Repositories:
@@ -144,7 +154,7 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 
 # Robotics Workshops Websites and video links
 1. **ICRA 2024 Workshop on Co-design in Robotics: Theory, Practice, and Challenges**: [[Webpage](https://www.robotmechanisms.org/activities/icra-2024-codesign)]
-2. **ICRA 2024 Advancements in Trajectory Optimization and Model Predictive Control for Legged Systems**: [[Webpage](https://atompc-workshop.github.io/)]
+2. **ICRA 2024 Advancements in Trajectory Optimisation and Model Predictive Control for Legged Systems**: [[Webpage](https://atompc-workshop.github.io/)]
 
 --------------
 
@@ -246,6 +256,7 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 3. [Text to Image Playground](https://huggingface.co/spaces/MisterProton/text-to-image-models-playground): COnvert text to image with free credits addition.
 
 ---------------------
+
 # List of Robotics Conferences and Journals:
 1. **List of Top Robotics Conferences and Publications**: [[List on Google Scholar Webpage](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)]
       1. *A few ASME Conferences and Journals*:
