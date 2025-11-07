@@ -320,9 +320,12 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 1. **Motors**
       1. [**TQ-Motors**](https://www.tq-group.com/de/produkte/tq-robodrive/): Used in Raibo Quadruped
       2. [**Halodi Motors**](https://futurerobotix.com/?product=revo1-30): Used in Hound quadruped
+      3. [**Cube Mars**](https://store.cubemars.com/?rs_ref=rbz3SHCJ): Different kind of actuators available
+      
 2. **Drivers**
       1. **Mjbots**: [Moteus-n1](https://mjbots.com/products/moteus-n1), [Moteus-r4.xx](https://mjbots.com/products/moteus-n1) \
                         It also provide several other accesories for legged robots. It is like a one stop shop.
+      2. **O-drives**: [Buying-Link](https://odriverobotics.com/?srsltid=AfmBOor5dbEx1yK3nqDN6iZG3vK3uxDh5Z1SSTte0VuJgffkIhFrC24q)
 
 ## Star History
 
