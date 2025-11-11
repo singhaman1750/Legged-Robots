@@ -326,6 +326,10 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
       1. **Mjbots**: [Moteus-n1](https://mjbots.com/products/moteus-n1), [Moteus-r4.xx](https://mjbots.com/products/moteus-n1) \
                         It also provide several other accesories for legged robots. It is like a one stop shop.
       2. **O-drives**: [Buying-Link](https://odriverobotics.com/?srsltid=AfmBOor5dbEx1yK3nqDN6iZG3vK3uxDh5Z1SSTte0VuJgffkIhFrC24q)
+  
+3. **Motor Winding Machines**:
+      1. **HONEST**(Shenzen Honest Intelligent Equipments): Chinese Company, [[Website-Link](https://www.honest-hls.com/products)]
+                        Has a center in Kanchipuram, near Chennai, India as well. 
 
 ## Star History
 
