@@ -128,6 +128,13 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 3. Instructables Post: [[Link](https://www.instructables.com/Make-Your-Own-Miniature-Electric-Hub-Motor/)]
 4. Source: Reddit Post: [[Need some guidance with BLDC motor design: Answer by alternativemax](https://www.reddit.com/r/Motors/comments/pmopwr/need_some_guidance_with_bldc_motor_design/)] 
 
+## Dynamometer: Actuator testing setup
+
+1. Benjamin Katz, blog: [[Link1](https://build-its-inprogress.blogspot.com/2016/08/small-motor-dynamometer-beginnings.html)] [[Link2](https://build-its.blogspot.com/2019/12/motor-dynamometer.html)]
+2. MJbots blog: [[Link](https://blog.mjbots.com/2020/08/19/initial-dynamometer-assembly/)]
+3. Berkeley humanoid motor testing setup:
+      i. Paper Title: Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot 
+
 ----------------------
 
 # Useful GitHub Repositories:
