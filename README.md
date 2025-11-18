@@ -130,7 +130,7 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 
 ## Dynamometer: Actuator testing setup
 
-1. Benjamin Katz, blog: [[Link1](https://build-its-inprogress.blogspot.com/2016/08/small-motor-dynamometer-beginnings.html)] [[Link2](https://build-its.blogspot.com/2019/12/motor-dynamometer.html)] [[Link3](https://build-its-inprogress.blogspot.com/2016/04/torque-ripple-characterization-and.html)]
+1. Benjamin Katz, blog: [[Link1](https://build-its-inprogress.blogspot.com/2016/08/small-motor-dynamometer-beginnings.html)] [[Link2](https://build-its.blogspot.com/2019/12/motor-dynamometer.html)] [[Link3](https://build-its-inprogress.blogspot.com/2016/04/torque-ripple-characterization-and.html)] [[Link4](https://build-its-inprogress.blogspot.com/2016/10/motor-dyno-updates-first-tests.html)]
 2. MJbots blog: [[Link](https://blog.mjbots.com/2020/08/19/initial-dynamometer-assembly/)]
 3. Berkeley humanoid motor testing setup: \
       i. Paper Title: Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot 
