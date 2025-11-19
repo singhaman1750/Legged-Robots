@@ -4,7 +4,7 @@
 
 - [Robotics Conference Paper Lists](#robotics-conference-paper-lists)
 
-- [Papers](#papers)
+- [Papers](#page_with_curl-papers)
   - [Rotary Electric Actuator Papers](#tractor-rotary-electric-actuator-papers)
     - [Planetary Gearboxes](#planetary-gearboxes)
     - [Cycloidal Gearboxes](#cycloidal-gearboxes)
@@ -16,7 +16,7 @@
     - [Application of Learning-based Locomotion on Quadrupeds](#application-of-learning-based-locomotion-on-quadrupeds)
     - [Humanoids Learning Based Locomotion](#humanoids-learning-based-locomotion)
 
-- [Legged Robot Mechanical Design](#hammer_and_wrench-legged-robot-mechanical-design)
+- [Legged Robot Mechanical Design](#hammer_and_wrenchlegged-robot-mechanical-design)
   - [Design Principles for Legged Robots](#page_facing_up-design-principles-for-legged-robots)
   - [Quadruped Robot Design Papers](#dog-quadruped-robot-design-papers)
   - [Humanoid Robot Design](#robot-humanoid-robot-design)
@@ -37,7 +37,7 @@
   - [Robotics and Controls](#robotics-and-controls)
   - [Topics in Mathematics](#topics-in-mathematics)
   - [Optimization](#optimization)
-    - [Trajectory Optimization](#trajectory-optimization)
+    - Trajectory Optimization
   - [Basics of Control Systems](#basics-of-control-systems)
   - [Reinforcement Learning](#reinforcement-learning)
   - [ROS](#ros)
@@ -53,8 +53,8 @@
   - [Software Installations](#software-installations)
   - [Technical Topics](#technical-topics)
   - [Study](#study)
-    - [How to Read Research Papers](#how-to-read-research-papers)
-    - [How to Organize Research Papers](#how-to-organize-research-papers)
+    - How to Read Research Papers
+    - How to Organize Research Papers
   - [Stories of Science](#stories-of-science)
   - [Website](#website)
   - [Productivity Articles](#productivity-articles)
@@ -298,7 +298,7 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 1. [List-of-Science-and-Math-courses](https://github.com/Developer-Y/math-science-video-lectures)
 
 -------
-# Usefull Books:
+# Useful Books:
 
 1. [Statics and Dynamics: Andy Ruina](http://ruina.tam.cornell.edu/Book/RuinaPratap-July-12-2019.pdf)
 
