@@ -1,3 +1,88 @@
+# Table of Contents
+
+- [Legged-Robots: Introduction](#legged-robots-introduction)
+
+- [Robotics Conference Paper Lists](#robotics-conference-paper-lists)
+
+- [Papers](#papers)
+  - [Rotary Electric Actuator Papers](#tractor-rotary-electric-actuator-papers)
+    - [Planetary Gearboxes](#planetary-gearboxes)
+    - [Cycloidal Gearboxes](#cycloidal-gearboxes)
+  - [ICRA 2023](#robot-icra-2023)
+    - [Learning for Locomotion](#learning-for-locomotion)
+  - [Legged Robot Control](#joystick-legged-robot-control)
+    - [Optimization-Based Control for Legged Robots](#optimization-based-control-for-legged-robots)
+    - [Quadruped Learning Based Locomotion](#quadruped-learning-based-locomotion)
+    - [Application of Learning-based Locomotion on Quadrupeds](#application-of-learning-based-locomotion-on-quadrupeds)
+    - [Humanoids Learning Based Locomotion](#humanoids-learning-based-locomotion)
+
+- [Legged Robot Mechanical Design](#hammer_and_wrench-legged-robot-mechanical-design)
+  - [Design Principles for Legged Robots](#page_facing_up-design-principles-for-legged-robots)
+  - [Quadruped Robot Design Papers](#dog-quadruped-robot-design-papers)
+  - [Humanoid Robot Design](#robot-humanoid-robot-design)
+  - [Co-Design Optimization](#joystick-hammer_and_wrench-co-design-optimization)
+  - [Electric Motor Based Actuator Designs for Legged Robots](#electron-electric-motor-based-actuator-designs-for-legged-robots)
+
+- [Patents](#patents)
+
+- [Actuator Design Resources](#actuator-design-resources)
+  - [Motor Theory and Design](#motor-theory-and-design)
+  - [Dynamometer: Actuator Testing Setup](#dynamometer-actuator-testing-setup)
+
+- [Useful GitHub Repositories](#useful-github-repositories)
+
+- [Robotics Workshops Websites and Video Links](#robotics-workshops-websites-and-video-links)
+
+- [Video Lectures](#video-lectures)
+  - [Robotics and Controls](#robotics-and-controls)
+  - [Topics in Mathematics](#topics-in-mathematics)
+  - [Optimization](#optimization)
+    - [Trajectory Optimization](#trajectory-optimization)
+  - [Basics of Control Systems](#basics-of-control-systems)
+  - [Reinforcement Learning](#reinforcement-learning)
+  - [ROS](#ros)
+  - [Mechanical Design and Theory](#mechanical-design-and-theory)
+  - [Miscellaneous](#miscellaneous)
+
+- [Useful Books](#useful-books)
+
+- [Useful Tools](#useful-tools)
+  - [Mathematics](#mathematics)
+
+- [Useful Articles](#useful-articles)
+  - [Software Installations](#software-installations)
+  - [Technical Topics](#technical-topics)
+  - [Study](#study)
+    - [How to Read Research Papers](#how-to-read-research-papers)
+    - [How to Organize Research Papers](#how-to-organize-research-papers)
+  - [Stories of Science](#stories-of-science)
+  - [Website](#website)
+  - [Productivity Articles](#productivity-articles)
+  - [Cool AI Tools](#cool-ai-tools)
+
+- [List of Robotics Conferences and Journals](#list-of-robotics-conferences-and-journals)
+  - [ASME Conferences and Journals](#a-few-asme-conferences-and-journals)
+  - [IEEE Conferences and Journals](#a-few-ieee-conferences-and-journals)
+  - [IEEE Publication Recommender](#ieee-publication-recommender)
+
+- [Professors and Labs Working in Legged Robotics](#professors-and-labs-working-in-legged-robotics)
+  - [India](#india)
+  - [USA](#usa)
+  - [Europe](#europe)
+  - [South Korea](#south-korea)
+  - [Other Labs](#other-labs)
+
+- [Robotics Companies](#robotics-companies)
+  - [India](#india-1)
+
+- [Accessories for Legged Robots](#accesories-for-legged-robots)
+  - [Motors](#motors)
+  - [Drivers](#drivers)
+  - [Motor Winding Machines](#motor-winding-machines)
+
+- [Star History](#star-history)
+
+
 # Legged-Robots: Introduction
 This repository contains papers, videos and other references in the field of legged robots. 
 
