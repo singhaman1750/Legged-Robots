@@ -1,6 +1,7 @@
-# Table of Contents
+# Legged-Robots
+This repository contains papers, videos and other references in the field of legged robots. 
 
-- [Legged-Robots: Introduction](#legged-robots-introduction)
+# Table of Contents
 
 - [Robotics Conference Paper Lists](#robotics-conference-paper-lists)
 
@@ -81,10 +82,6 @@
   - [Motor Winding Machines](#motor-winding-machines)
 
 - [Star History](#star-history)
-
-
-# Legged-Robots: Introduction
-This repository contains papers, videos and other references in the field of legged robots. 
 
 # Robotics conference paper lists
 
