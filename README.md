@@ -61,9 +61,9 @@
   - [Cool AI Tools](#cool-ai-tools)
 
 - [List of Robotics Conferences and Journals](#list-of-robotics-conferences-and-journals)
-  - [ASME Conferences and Journals](#a-few-asme-conferences-and-journals)
-  - [IEEE Conferences and Journals](#a-few-ieee-conferences-and-journals)
-  - [IEEE Publication Recommender](#ieee-publication-recommender)
+  - ASME Conferences and Journals
+  - IEEE Conferences and Journals
+  - IEEE Publication Recommender
 
 - [Professors and Labs Working in Legged Robotics](#professors-and-labs-working-in-legged-robotics)
   - [India](#india)
