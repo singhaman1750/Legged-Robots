@@ -401,10 +401,16 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 * **Sony Quadruped Research** [Website](https://www.sony.com/en/SonyInfo/research/technologies/new_mobility/)
 
 ---------------
-# Robotics Companies
+
+# Companies in the Field of legged and humanoid robots
 ## India
-* **Ideaforge**, Drone manufacturing company [[Website](https://ideaforgetech.com/)]
-* **Ati Motors**, Industrial Mobile robots company [[Website](https://atimotors.com/)] 
+* **Strider Robotics**, Quadruped Company, based in Bengaluru [[Website](https://www.strider-robotics.in/)]
+* **General Autonomy**, Humanoid and Quadruped Company, based in Bengaluru [[LinkedIn](https://www.linkedin.com/company/factoryofthefuture/posts/?feedView=all)]
+* **xTerra Robotics**, Quadruped robot company, based in Kanpur [[Website](https://xterrarobotics.com/)]
+* **Addverb**, Industrial mobile robots company with a division for legged robots, based in Delhi NCR [[Website](https://addverb.com/)]
+* **Ati Motors**, Industrial Mobile robots company with a division for upper body humanoid robots, based in Bengaluru [[Website](https://atimotors.com/)]
+* **Twara Robotics**, Harmonic Drive actuator manufacturers, based in Bengaluru [[Website](https://twararobotics.in/)]
+
 ---------------
 # Accesories for Legged robots:
 
