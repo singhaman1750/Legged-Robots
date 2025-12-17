@@ -402,13 +402,18 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 
 ---------------
 
-# Companies in the Field of legged and humanoid robots
-## India
+# Robotics Companies
+
+## Legged Robots
+### India
 * **Strider Robotics**, Quadruped Company, based in Bengaluru [[Website](https://www.strider-robotics.in/)]
 * **General Autonomy**, Humanoid and Quadruped Company, based in Bengaluru [[LinkedIn](https://www.linkedin.com/company/factoryofthefuture/posts/?feedView=all)]
 * **xTerra Robotics**, Quadruped robot company, based in Kanpur [[Website](https://xterrarobotics.com/)]
 * **Addverb**, Industrial mobile robots company with a division for legged robots, based in Delhi NCR [[Website](https://addverb.com/)]
 * **Ati Motors**, Industrial Mobile robots company with a division for upper body humanoid robots, based in Bengaluru [[Website](https://atimotors.com/)]
+
+## Actuators
+### India
 * **Twara Robotics**, Harmonic Drive actuator manufacturers, based in Bengaluru [[Website](https://twararobotics.in/)]
 
 ---------------
@@ -418,6 +423,7 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
       1. [**TQ-Motors**](https://www.tq-group.com/de/produkte/tq-robodrive/): Used in Raibo Quadruped
       2. [**Halodi Motors**](https://futurerobotix.com/?product=revo1-30): Used in Hound quadruped
       3. [**Cube Mars**](https://store.cubemars.com/?rs_ref=rbz3SHCJ): Different kind of actuators available
+      4. [**Robstride Dynamics**](https://robstride.com/): Actuators of different kinds, one of the most cost effective ones
       
 2. **Drivers**
       1. **Mjbots**: [Moteus-n1](https://mjbots.com/products/moteus-n1), [Moteus-r4.xx](https://mjbots.com/products/moteus-n1) \
