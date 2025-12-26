@@ -329,6 +329,9 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 2. **How to organize research papers?**
       * How to find, read and organize papers by *Maya Gosztyla*: [Article](https://www.nature.com/articles/d41586-022-01878-7)
 
+3. **How to setup and run your research Lab?**
+      * A guide to setting up and managing a lab at a research-intensive institution : [[Article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8218371/#CR2)]
+
 ## Stories of Science:
 1. [Steven LaValle](http://lavalle.pl/bio.html): Motivating story of Steven LaValle, who gave the RRT algorithm.
 2. [Shuji Nakamura: Invention of Blue LED](https://youtu.be/AF8d72mA41M?feature=shared): Documentary about the invention of blue LED, which eventually led to a Nobel Prize in physics, one of the few for engineering efforts.
