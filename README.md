@@ -219,6 +219,9 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 5. Berkeley humanoid motor testing setup: \
       i. Paper Title: Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot 
 
+## Actuator Design: Blogs, Videos, twitter threads, posts, papers etc
+
+1. 3D Printed QDD Robotic Actuator (MIT Mini Cheetah Clone) : By nachumtwersky [[Blog-Link](https://www.instructables.com/3D-Printed-QDD-Robotic-Actuator-MIT-Mini-Cheetah-C/)]
 ----------------------
 
 # Useful GitHub Repositories:
