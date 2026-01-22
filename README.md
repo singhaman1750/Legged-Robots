@@ -13,25 +13,45 @@ A curated collection of papers, videos, tools, and references for legged robotic
 4. **IROS 2023:** [[Google sheet](https://docs.google.com/spreadsheets/d/1cdca2J4g2gmHym1J0nXxJabhsxK7xIfXxicB8Le6AwU/edit#gid=214014586)] / [[Github Repo](https://github.com/ryanbgriffiths/IROS2023PaperList)] / [[Offcial IEEE List](https://ieeexplore.ieee.org/xpl/conhome/10341341/proceeding)]
 5. **ICRA 2023:** [[Google sheet](https://docs.google.com/spreadsheets/d/1LcYjqrh8EyZ4HIeSl80ECF-rb7tND6DTdUj2p5XA2gM/edit?usp=sharing)]
 
-**[Paper Copilot](https://papercopilot.com/)**: A centralized tool for accessing conference paper lists and related statistics—all in one place.
+**[Paper Copilot](https://papercopilot.com/)**: A centralized tool for accessing conference paper lists and related statistics, all in one place.
 
 ## 2) Papers (Curated)
 
-### 2.1 Actuators and Transmissions
-<details><summary><b>Planetary Gearboxes</b></summary>
-  
-1. **MIT Mini Cheetah Actuator**: Mini Cheetah: A Platform for Pushing the Limits of Dynamic Quadruped Control [[Paper](https://ieeexplore.ieee.org/document/8793865)] [[Blog](https://build-its.blogspot.com/2019/12/the-mini-cheetah-robot.html)]
-2. **MIT Humanoid Actuators: Alex Hattori Thesis**: Design of a high torque density modular actuator for dynamic robots [[Thesis-Webpage](https://dspace.mit.edu/handle/1721.1/127165?show=full)]
-3. **MIT Humanoid Actuator: Paper**: Design and Development of the MIT Humanoid: A Dynamic and Robust Research Platform [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10375199)] 
-4. **Berkely Humanoid**: Berkeley Humanoid: A Research Platform for Learning-based Control [[Paper](https://arxiv.org/abs/2407.21781)]
-5. **Actuator, ICRA 2024**: Design and Experimental Characterisation of a Novel Quasi-Direct Drive Actuator for Highly Dynamic Robotic Applications [[Paper](https://ieeexplore.ieee.org/document/10611567)]
-6. **3D printed Actuators, EmBiR Lab, University of Michigan**: Design and Characterization of 3D Printed, Open-Source Actuators for Legged Locomotion [[Paper](https://ieeexplore.ieee.org/document/9981940)] [[Website (Open-Source-Designs)](https://www.embirlab.com/3dpactuator)]
+### *Click the sections below to expand the detailed list of resources.*
+
+----
+
+### 2.1 Actuators & Transmissions
+
+<details>
+  <summary><b>Planetary Gearboxes</b></summary>
+
+  1. **MIT Mini Cheetah Actuator**: *Mini Cheetah: A Platform for Pushing the Limits of Dynamic Quadruped Control* [[Paper](https://ieeexplore.ieee.org/document/8793865)] [[Blog](https://build-its.blogspot.com/2019/12/the-mini-cheetah-robot.html)]
+  2. **MIT Humanoid Actuator (Alex Hattori, Thesis)**: *Design of a High Torque Density Modular Actuator for Dynamic Robots* [[Thesis-Webpage](https://dspace.mit.edu/handle/1721.1/127165?show=full)]
+  3. **MIT Humanoid Actuator (Paper)**: *Design and Development of the MIT Humanoid: A Dynamic and Robust Research Platform* [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10375199)]
+  4. **Berkeley Humanoid**: *Berkeley Humanoid: A Research Platform for Learning-based Control* [[Paper](https://arxiv.org/abs/2407.21781)]
+  5. **Quasi-Direct Drive Actuator (ICRA 2024)**: *Design and Experimental Characterisation of a Novel Quasi-Direct Drive Actuator for Highly Dynamic Robotic Applications* [[Paper](https://ieeexplore.ieee.org/document/10611567)]
+  6. **3D-Printed Open-Source Actuators (EmBiR Lab, Univ. of Michigan)**: *Design and Characterization of 3D Printed, Open-Source Actuators for Legged Locomotion* [[Paper](https://ieeexplore.ieee.org/document/9981940)] [[Open-Source Designs](https://www.embirlab.com/3dpactuator)]
 
 </details>
 
-<details><summary><b>Cycloidal Gearboxes</b></summary>
+<details>
+  <summary><b>Cycloidal Gearboxes</b></summary>
 
-1. **Berkely Humanoid Lite**: Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot [[Paper](https://arxiv.org/abs/2504.17249)] [[Documentation](https://berkeley-humanoid-lite.gitbook.io/docs)] [[Github](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite)]
+1. **Berkely Humanoid Lite**: *Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot* [[Paper](https://arxiv.org/abs/2504.17249)] [[Documentation](https://berkeley-humanoid-lite.gitbook.io/docs)] [[Github](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite)]
+
+</details>
+
+<details><summary><b> Non-Conventional Actuators</b></summary>
+
+1. **KAIST, Actuator Design**: DRPD, Dual Reduction Ratio Planetary Drive for Articulated Robot Actuators [[Paper](https://ieeexplore.ieee.org/abstract/document/9981201)]
+2. **Dual Motor Design (2021)**: Explosive Electric Actuator and Control for Legged Robots [[Paper](https://reader.elsevier.com/reader/sd/pii/S2095809921005282?token=528592F31700C12282D3918FF7D6AC7D58F2B05BE168CEA0767BE07971464D4F37986B7E089D0A53D6F9E87E12E5AB73&originRegion=eu-west-1&originCreation=20230413064751)]
+3. **John Harry Bell, Master's Thesis, MIT (2018)**: A Two-Motor Actuator for Legged Robotics Applications [[Thesis](https://dspace.mit.edu/bitstream/handle/1721.1/127152/1191839946-MIT.pdf?sequence=1&isAllowed=y)]
+4. **Robotics and Multibody Mechanics Research Group (R&MM), Belgium (2017)**: Modeling and design of an energy-efficient dual-motor actuation unit with a
+planetary differential and holding brakes [[Paper](https://reader.elsevier.com/reader/sd/pii/S0957415817301812?token=FAB5BDB0EADAEA7F8CA91AD6F2AB31755882038340745DCBB9D1AB5AA3D244E6B66C7BE60CC0D6E7334D1A3368EB0343&originRegion=eu-west-1&originCreation=20230413064458)]
+5. **Alexandre Girard's paper, Hamburg, Germany IROS(2015)**: A Two-Speed Actuator for Robotics with Fast Seamless Gear Shifting [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7354047)]
+6. **Hoyul Lee's Paper, ASME/IEEE Transactions on mechatronics(2012)**: A New Actuator System Using Dual-Motors and a Planetary Gear [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6022796)]
+7. **Jung Jun Park' paper, ASME/IEEE Transactions on mechatronics(2010)**: A Serial-Type Dual Actuator Unit With Planetary Gear Train: Basic Design and Applications [[Paper](https://dspace.mit.edu/bitstream/handle/1721.1/127152/1191839946-MIT.pdf?sequence=1&isAllowed=y)]
 
 </details>
 
@@ -108,7 +128,9 @@ A curated collection of papers, videos, tools, and references for legged robotic
 </details>
 
 <details><summary><b>Quadruped Robot Design Papers</b></summary>
-  
+
+#### Research Projects / Academic Papers
+
 1. **MIT Cheetah-3**: MIT Cheetah 3: Design and Control of a Robust, Dynamic Quadruped Robot [[Paper](https://ieeexplore.ieee.org/document/8593885)]
 2. **MIT Mini Cheetah**: Mini Cheetah: A Platform for Pushing the Limits of Dynamic Quadruped Control [[Paper](https://ieeexplore.ieee.org/document/8793865)] [[Blog](https://build-its.blogspot.com/2019/12/the-mini-cheetah-robot.html)] [[Gear-width-Calc](https://drivetrainhub.com/notebooks/gears/strength/Chapter%202%20-%20Root%20Stress.html)]
 3. **MIT Super Mini-Cheetah**: The MIT Super Mini Cheetah: A small, low-cost quadrupedal robot for dynamic locomotion [[Paper](https://ieeexplore.ieee.org/document/7443018)]
@@ -125,6 +147,23 @@ A curated collection of papers, videos, tools, and references for legged robotic
 14. **Stoch-3, IISc, Bengaluru**: A Chain-Driven, Sandwich-Legged Quadruped Robot: Design and Experimental Analysis [[Arxiv-Paper](https://arxiv.org/abs/2503.14255)][[Video](https://youtu.be/ygSMCPcFnP8?feature=shared)]
 15. **PADWQ**: Design and Control of a Open-Source, Low Cost, 3D Printed Dynamic Quadruped Robot [[Paper](https://www.mdpi.com/2076-3417/11/9/3762)]
 
+#### YouTube Projects
+
+1. **Stanley** by AheadIO: [[Video-Link](https://youtu.be/tIJMQKBBDtc?si=kkgVG_2jDeyVNn2C)][[Video-link-2](https://youtu.be/UTWGk3VrvQk?si=cYK-9lprQ1rbC0Ra)]
+2. **Open Robot Dog** by James Bruton: [[Video-Link](https://www.youtube.com/playlist?list=PLpwJoq86vov8uTgd8_WNgBHFpDYemO-OJ)]
+3. **CARA** by Aaed Musa: [[Video-Link](https://youtu.be/8s9TjRz01fo?si=E9OzYa9STsJEYgQx)]
+4. **Dingo** by Nathan Ferguson: [[Video-Link](https://youtu.be/8KntOIgzUjY?si=Kg7lPAJMX9Akev89)] 
+5. **Quadruped** by Alex Hattori: \
+   a. **Quadruped V1**: [[Video-Link](https://youtu.be/nnKyDTrJ9DU?si=2VWDTEgI9JMUquLo)] \
+   b. **Quadruped v2, v3**: [[Video-Link](https://youtu.be/aI4PkDkCDtE?si=OZFdMZwN7z5gOt0S)]
+6. **PuppyPi, MechDog** and **ROSpug** by Hiwonder: \
+   a. **PuppyPi**: [[Video-Link](https://youtu.be/OKaEbnmZ0PU?si=oM8rGW1es4kvkIia)] \
+   b. **ROSPug**: [[Video-Link](https://youtu.be/nuAXr-FJmu8?si=bSkaENYsn_IGidym)] \
+   c. **MechDog**: [[Video-Link](https://youtu.be/c7XJqjFmjto?si=tONRx2X6TE-thURP)]
+7. **Fully 3d-printed robot dog** by jorgefer88: [[Video-Link](https://youtu.be/nmkJ_TJag_k?si=OjbLeTcoi6nRsVwf)]
+8. **NovaSM3** by Chris Locke: [[Video-Link](https://youtu.be/0YpnKmXtMKQ?si=SBpXyaCsK51mGO5T)]
+9. **XGO-Mini**: [[Video-Link](https://youtu.be/ZYeSgKPc02M?si=sQOHm0S0N6sVicel)]
+
 </details>
 
 <details><summary><b>Humanoid Robot Design</b></summary>
@@ -138,24 +177,11 @@ A curated collection of papers, videos, tools, and references for legged robotic
   
 </details>
 
-<details><summary><b>Co-design Optimization</b></summary>
+<details><summary><b>Design Optimization and Co-design Optimization</b></summary>
 
 1. Vitruvio: An Open-Source Leg Design Optimization Toolbox for Walking Robots [[Paper](https://ieeexplore.ieee.org/document/9157985)]
 2. **Co-design(CACTO)**: Exploring the Limits of a Redundant Actuation System Through Co-Design [[Paper](https://ieeexplore.ieee.org/document/9400808)]
 3. Meta Reinforcement Learning for Optimal Design of Legged Robots [[Paper](https://arxiv.org/pdf/2210.02750.pdf)]
-
-</details>
-
-<details><summary><b> Electric motor based Actuator Designs for Legged Robots:</b></summary>
-
-1. **KAIST, Actuator Design**: DRPD, Dual Reduction Ratio Planetary Drive for Articulated Robot Actuators [[Paper](https://ieeexplore.ieee.org/abstract/document/9981201)]
-2. **Dual Motor Design (2021)**: Explosive Electric Actuator and Control for Legged Robots [[Paper](https://reader.elsevier.com/reader/sd/pii/S2095809921005282?token=528592F31700C12282D3918FF7D6AC7D58F2B05BE168CEA0767BE07971464D4F37986B7E089D0A53D6F9E87E12E5AB73&originRegion=eu-west-1&originCreation=20230413064751)]
-3. **John Harry Bell, Master's Thesis, MIT (2018)**: A Two-Motor Actuator for Legged Robotics Applications [[Thesis](https://dspace.mit.edu/bitstream/handle/1721.1/127152/1191839946-MIT.pdf?sequence=1&isAllowed=y)]
-4. **Robotics and Multibody Mechanics Research Group (R&MM), Belgium (2017)**: Modeling and design of an energy-efficient dual-motor actuation unit with a
-planetary differential and holding brakes [[Paper](https://reader.elsevier.com/reader/sd/pii/S0957415817301812?token=FAB5BDB0EADAEA7F8CA91AD6F2AB31755882038340745DCBB9D1AB5AA3D244E6B66C7BE60CC0D6E7334D1A3368EB0343&originRegion=eu-west-1&originCreation=20230413064458)]
-5. **Alexandre Girard's paper, Hamburg, Germany IROS(2015)**: A Two-Speed Actuator for Robotics with Fast Seamless Gear Shifting [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7354047)]
-6. **Hoyul Lee's Paper, ASME/IEEE Transactions on mechatronics(2012)**: A New Actuator System Using Dual-Motors and a Planetary Gear [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6022796)]
-7. **Jung Jun Park' paper, ASME/IEEE Transactions on mechatronics(2010)**: A Serial-Type Dual Actuator Unit With Planetary Gear Train: Basic Design and Applications [[Paper](https://dspace.mit.edu/bitstream/handle/1721.1/127152/1191839946-MIT.pdf?sequence=1&isAllowed=y)]
 
 </details>
 
@@ -349,25 +375,6 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 
 ## Other Labs
 * **Sony Quadruped Research** [Website](https://www.sony.com/en/SonyInfo/research/technologies/new_mobility/)
-
----------------
-# Youtube Projects:
-
-## Quadruped Robots
-1. **Stanley** by AheadIO: [[Video-Link](https://youtu.be/tIJMQKBBDtc?si=kkgVG_2jDeyVNn2C)][[Video-link-2](https://youtu.be/UTWGk3VrvQk?si=cYK-9lprQ1rbC0Ra)]
-2. **Open Robot Dog** by James Bruton: [[Video-Link](https://www.youtube.com/playlist?list=PLpwJoq86vov8uTgd8_WNgBHFpDYemO-OJ)]
-3. **CARA** by Aaed Musa: [[Video-Link](https://youtu.be/8s9TjRz01fo?si=E9OzYa9STsJEYgQx)]
-4. **Dingo** by Nathan Ferguson: [[Video-Link](https://youtu.be/8KntOIgzUjY?si=Kg7lPAJMX9Akev89)] 
-5. **Quadruped** by Alex Hattori: \
-   a. **Quadruped V1**: [[Video-Link](https://youtu.be/nnKyDTrJ9DU?si=2VWDTEgI9JMUquLo)] \
-   b. **Quadruped v2, v3**: [[Video-Link](https://youtu.be/aI4PkDkCDtE?si=OZFdMZwN7z5gOt0S)]
-6. **PuppyPi, MechDog** and **ROSpug** by Hiwonder: \
-   a. **PuppyPi**: [[Video-Link](https://youtu.be/OKaEbnmZ0PU?si=oM8rGW1es4kvkIia)] \
-   b. **ROSPug**: [[Video-Link](https://youtu.be/nuAXr-FJmu8?si=bSkaENYsn_IGidym)] \
-   c. **MechDog**: [[Video-Link](https://youtu.be/c7XJqjFmjto?si=tONRx2X6TE-thURP)]
-7. **Fully 3d-printed robot dog** by jorgefer88: [[Video-Link](https://youtu.be/nmkJ_TJag_k?si=OjbLeTcoi6nRsVwf)]
-8. **NovaSM3** by Chris Locke: [[Video-Link](https://youtu.be/0YpnKmXtMKQ?si=SBpXyaCsK51mGO5T)]
-9. **XGO-Mini**: [[Video-Link](https://youtu.be/ZYeSgKPc02M?si=sQOHm0S0N6sVicel)]
 
 ---------------
 
