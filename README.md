@@ -1,105 +1,25 @@
 # Legged-Robots
-This repository contains papers, videos and other references in the field of legged robots. 
+A curated collection of papers, videos, tools, and references for legged robotics (actuators, control, design).
 
-# Table of Contents
+## Start Here
 
-- [Robotics Conference Paper Lists](#robotics-conference-paper-lists)
+## Table of Contents
 
-- [Papers](#page_with_curl-papers)
-  - [Rotary Electric Actuator Papers](#tractor-rotary-electric-actuator-papers)
-    - [Planetary Gearboxes](#planetary-gearboxes)
-    - [Cycloidal Gearboxes](#cycloidal-gearboxes)
-  - [ICRA 2023](#robot-icra-2023)
-    - [Learning for Locomotion](#learning-for-locomotion)
-  - [Legged Robot Control](#joystick-legged-robot-control)
-    - [Optimization-Based Control for Legged Robots](#optimization-based-control-for-legged-robots)
-    - [Quadruped Learning Based Locomotion](#quadruped-learning-based-locomotion)
-    - [Application of Learning-based Locomotion on Quadrupeds](#application-of-learning-based-locomotion-on-quadrupeds)
-    - [Humanoids Learning Based Locomotion](#humanoids-learning-based-locomotion)
+## 1) Paper Lists and Discovery
 
-- [Legged Robot Mechanical Design](#hammer_and_wrenchlegged-robot-mechanical-design)
-  - [Design Principles for Legged Robots](#page_facing_up-design-principles-for-legged-robots)
-  - [Quadruped Robot Design Papers](#dog-quadruped-robot-design-papers)
-  - [Humanoid Robot Design](#robot-humanoid-robot-design)
-  - [Co-Design Optimization](#joystick-hammer_and_wrench-co-design-optimization)
-  - [Electric Motor Based Actuator Designs for Legged Robots](#electron-electric-motor-based-actuator-designs-for-legged-robots)
-
-- [Patents](#patents)
-
-- [Actuator Design Resources](#actuator-design-resources)
-  - [Motor Theory and Design](#motor-theory-and-design)
-  - [Dynamometer: Actuator Testing Setup](#dynamometer-actuator-testing-setup)
-
-- [Useful GitHub Repositories](#useful-github-repositories)
-
-- [Robotics Workshops Websites and Video Links](#robotics-workshops-websites-and-video-links)
-
-- [Video Lectures](#video-lectures)
-  - [Robotics and Controls](#robotics-and-controls)
-  - [Topics in Mathematics](#topics-in-mathematics)
-  - [Optimization](#optimization)
-    - Trajectory Optimization
-  - [Basics of Control Systems](#basics-of-control-systems)
-  - [Reinforcement Learning](#reinforcement-learning)
-  - [ROS](#ros)
-  - [Mechanical Design and Theory](#mechanical-design-and-theory)
-  - [Miscellaneous](#miscellaneous)
-
-- [Useful Books](#useful-books)
-
-- [Useful Tools](#useful-tools)
-  - [Mathematics](#mathematics)
-
-- [Useful Articles](#useful-articles)
-  - [Software Installations](#software-installations)
-  - [Technical Topics](#technical-topics)
-  - [Study](#study)
-    - How to Read Research Papers
-    - How to Organize Research Papers
-  - [Stories of Science](#stories-of-science)
-  - [Website](#website)
-  - [Productivity Articles](#productivity-articles)
-  - [Cool AI Tools](#cool-ai-tools)
-
-- [List of Robotics Conferences and Journals](#list-of-robotics-conferences-and-journals)
-  - ASME Conferences and Journals
-  - IEEE Conferences and Journals
-  - IEEE Publication Recommender
-
-- [Professors and Labs Working in Legged Robotics](#professors-and-labs-working-in-legged-robotics)
-  - [India](#india)
-  - [USA](#usa)
-  - [Europe](#europe)
-  - [South Korea](#south-korea)
-  - [Other Labs](#other-labs)
-
-- [Youtube Projects](#youtube-projects)
-  - [Quadruped Robots](#quadruped-robots)
-
-- [Robotics Companies](#robotics-companies)
-  - [India](#india-1)
-
-- [Accessories for Legged Robots](#accesories-for-legged-robots)
-  - [Motors](#motors)
-  - [Drivers](#drivers)
-  - [Motor Winding Machines](#motor-winding-machines)
-
-- [Star History](#star-history)
-
-# Robotics conference paper lists
-
-1. **List of all ICRA 2025 paper:** [[Github](https://github.com/DoongLi/ICRA2025-Paper-List)]
-2. **List of all IROS 2024 papers:** [[Offcial IEEE List](https://ieeexplore.ieee.org/xpl/conhome/10801246/proceeding)]
-3. **List of all ICRA 2024 paper:** [[Github](https://github.com/ryanbgriffiths/ICRA2024PaperList)] / [[Google Sheet](https://docs.google.com/spreadsheets/d/1z1IK0fxNZBEF7IiWZhM7TdK5dvNUvwnj3KwO5u0B91o/edit?gid=1438356197#gid=1438356197)] / [[Offcial IEEE List](https://ieeexplore.ieee.org/xpl/conhome/10609961/proceeding)]
-4. **List of all IROS 2023 papers:** [[Google sheet](https://docs.google.com/spreadsheets/d/1cdca2J4g2gmHym1J0nXxJabhsxK7xIfXxicB8Le6AwU/edit#gid=214014586)] / [[Github Repo](https://github.com/ryanbgriffiths/IROS2023PaperList)] / [[Offcial IEEE List](https://ieeexplore.ieee.org/xpl/conhome/10341341/proceeding)]
-5. **List of all ICRA 2023 papers:** [[Google sheet](https://docs.google.com/spreadsheets/d/1LcYjqrh8EyZ4HIeSl80ECF-rb7tND6DTdUj2p5XA2gM/edit?usp=sharing)]
+1. **ICRA 2025:** [[Github](https://github.com/DoongLi/ICRA2025-Paper-List)]
+2. **IROS 2024:** [[Offcial IEEE List](https://ieeexplore.ieee.org/xpl/conhome/10801246/proceeding)]
+3. **ICRA 2024:** [[Github](https://github.com/ryanbgriffiths/ICRA2024PaperList)] / [[Google Sheet](https://docs.google.com/spreadsheets/d/1z1IK0fxNZBEF7IiWZhM7TdK5dvNUvwnj3KwO5u0B91o/edit?gid=1438356197#gid=1438356197)] / [[Offcial IEEE List](https://ieeexplore.ieee.org/xpl/conhome/10609961/proceeding)]
+4. **IROS 2023:** [[Google sheet](https://docs.google.com/spreadsheets/d/1cdca2J4g2gmHym1J0nXxJabhsxK7xIfXxicB8Le6AwU/edit#gid=214014586)] / [[Github Repo](https://github.com/ryanbgriffiths/IROS2023PaperList)] / [[Offcial IEEE List](https://ieeexplore.ieee.org/xpl/conhome/10341341/proceeding)]
+5. **ICRA 2023:** [[Google sheet](https://docs.google.com/spreadsheets/d/1LcYjqrh8EyZ4HIeSl80ECF-rb7tND6DTdUj2p5XA2gM/edit?usp=sharing)]
 
 **[Paper Copilot](https://papercopilot.com/)**: A centralized tool for accessing conference paper lists and related statistics—all in one place.
 
-# :page_with_curl: Papers
+## 2) Papers (Curated)
 
-## :tractor: Rotary Electric Actuator Papers
-### Planetary Gearboxes:
+### 2.1 Actuators and Transmissions
+<details><summary><b>Planetary Gearboxes</b></summary>
+  
 1. **MIT Mini Cheetah Actuator**: Mini Cheetah: A Platform for Pushing the Limits of Dynamic Quadruped Control [[Paper](https://ieeexplore.ieee.org/document/8793865)] [[Blog](https://build-its.blogspot.com/2019/12/the-mini-cheetah-robot.html)]
 2. **MIT Humanoid Actuators: Alex Hattori Thesis**: Design of a high torque density modular actuator for dynamic robots [[Thesis-Webpage](https://dspace.mit.edu/handle/1721.1/127165?show=full)]
 3. **MIT Humanoid Actuator: Paper**: Design and Development of the MIT Humanoid: A Dynamic and Robust Research Platform [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10375199)] 
@@ -107,26 +27,42 @@ This repository contains papers, videos and other references in the field of leg
 5. **Actuator, ICRA 2024**: Design and Experimental Characterisation of a Novel Quasi-Direct Drive Actuator for Highly Dynamic Robotic Applications [[Paper](https://ieeexplore.ieee.org/document/10611567)]
 6. **3D printed Actuators, EmBiR Lab, University of Michigan**: Design and Characterization of 3D Printed, Open-Source Actuators for Legged Locomotion [[Paper](https://ieeexplore.ieee.org/document/9981940)] [[Website (Open-Source-Designs)](https://www.embirlab.com/3dpactuator)]
 
-### Cycloidal Gearboxes:
+</details>
+
+<details><summary><b>Cycloidal Gearboxes</b></summary>
+
 1. **Berkely Humanoid Lite**: Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot [[Paper](https://arxiv.org/abs/2504.17249)] [[Documentation](https://berkeley-humanoid-lite.gitbook.io/docs)] [[Github](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite)]
 
-## :robot: ICRA 2023
-### Learning for locomotion
-1. DribbleBot: Dynamic Legged Manipulation in the wild [[Paper](https://arxiv.org/pdf/2304.01159.pdf)][[Video](https://www.youtube.com/watch?v=1cek5Ypa3TE)][[Code](https://github.com/Improbable-AI/dribblebot)][[Notes](https://github.com/singhaman1750/Research-Paper-Notes/blob/main/README.md#dribblebot-dynamic-legged-manipulation-in-the-wild)]
-3. Learning Low-Frequency Motion Control for Robust and Dynamic Robot Locomotion [[Paper](https://arxiv.org/pdf/2209.14887.pdf)][[Video](https://www.youtube.com/watch?v=pSuX223zLvM)][[Website](https://ori-drs.github.io/lfmc/)]
-4. OPT-Mimic: Imitation of Optimized Trajectories for Dynamic Quadruped Behaviors [[Paper](https://arxiv.org/pdf/2210.01247.pdf)][[Video](https://www.youtube.com/watch?v=tDzu_sy_FAI)][[Website](https://www.cs.ubc.ca/~van/papers/2022-opt-mimic/index.html)]
-5. Learning to Walk by Steering: Perceptive Quadrupedal Locomotion in Dynamic Environments [[Paper](https://arxiv.org/pdf/2209.09233.pdf)][[Video](https://www.youtube.com/watch?v=_BvLqx3wAxI)][[Website](https://ut-austin-rpl.github.io/PRELUDE/)][[Code](https://github.com/UT-Austin-RPL/PRELUDE)]
-6. Legs As Manipulator: Pushing Quadrupedal Agility Beyond Locomotion [[Paper](https://robot-skills.github.io/resources/legmanip.pdf)][[Video](https://www.youtube.com/watch?v=d3YCmkEC7V0)][[Website](https://robot-skills.github.io/)]
-8. Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning [[Paper](https://arxiv.org/pdf/2203.14912.pdf)][[Video](https://www.youtube.com/watch?v=kEdr0ARq48A)]
-9. Deep Reinforcement Learning Based Personalized Locomotion Planning for Lower-Limb Exoskeletons [[Paper](https://drive.google.com/file/d/14PA0VKAiWc2FTyhFR9K-gvJtley7bxu4/view?usp=sharing)][[Video](https://www.youtube.com/watch?v=4K6bbGmHXzM)]
-10. Expanding Versatility of Agile Locomotion through Policy Transitions Using Latent State Representation [[Paper](https://drive.google.com/file/d/1EuNl98amlAcvD2tDjjzNumYR6FHRXFVt/view?usp=sharing)][[Video](https://www.youtube.com/watch?v=bESzX20Akpg)]
-11. Sim-To-Real Transfer for Quadrupedal Locomotion Via Terrain Transformer [[Paper](https://arxiv.org/pdf/2212.07740.pdf)]
-12. Agile and Versatile Robot Locomotion Via Kernel-Based Residual Learning [[Paper](https://arxiv.org/pdf/2302.07343.pdf)][[Video](https://www.youtube.com/watch?v=bUZJadWCRXU)]
+</details>
+
+<details><summary><b>Motor Theory & Dyno / Testing</b></summary>
+  
+#### Motor Theory and Design
+1. Master's Thesis: James Mevey [[Thesis-Link](https://krex.k-state.edu/server/api/core/bitstreams/e3f7aa0b-4833-44e4-9ef0-af09f411baa1/content)]
+2. Book, Brushless Permanent Magnet Motor Design, Dr. Duane Hanselman
+3. Instructables Post: [[Link](https://www.instructables.com/Make-Your-Own-Miniature-Electric-Hub-Motor/)]
+4. Source: Reddit Post: [[Need some guidance with BLDC motor design: Answer by alternativemax](https://www.reddit.com/r/Motors/comments/pmopwr/need_some_guidance_with_bldc_motor_design/)] 
+
+#### Dynamometer: Actuator testing setup
+
+1. Benjamin Katz, blog: [[Link1](https://build-its-inprogress.blogspot.com/2016/08/small-motor-dynamometer-beginnings.html)] [[Link2](https://build-its.blogspot.com/2019/12/motor-dynamometer.html)] [[Link3](https://build-its-inprogress.blogspot.com/2016/04/torque-ripple-characterization-and.html)] [[Link4](https://build-its-inprogress.blogspot.com/2016/10/motor-dyno-updates-first-tests.html)]
+2. MJbots blog: [[Link](https://blog.mjbots.com/2020/08/19/initial-dynamometer-assembly/)]
+3. The brushless zone: [[Link](https://brushless.zone/quantifying-a-motor-the-ipm-dyno/)]
+4. Understanding a motor dynamometer setup, Adi Mehrotra: [[Link: PDF](https://evt.mit.edu/textbooks/Dynos_for_Dummies.pdf)]
+5. Berkeley humanoid motor testing setup: \
+      i. Paper Title: Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot 
+
+#### Actuator Design: Blogs, Videos, twitter threads, posts, papers etc
+
+1. 3D Printed QDD Robotic Actuator (MIT Mini Cheetah Clone) : By nachumtwersky [[Blog-Link](https://www.instructables.com/3D-Printed-QDD-Robotic-Actuator-MIT-Mini-Cheetah-C/)]
+
+</details>
 
 --------
+### 2.2 Legged Robot Control
 
-## :joystick: Legged Robot Control:
-### Optimization Based control for legged robots:
+<details><summary><b>Model based Control: Quadrupeds </b></summary>
+  
 1. **Survey Paper**: Optimization-Based Control for Dynamic Legged Robots [[Paper](https://arxiv.org/abs/2211.11644)]
 2. **Convex MPC for Quadruped walking**: Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control [[Paper](https://ieeexplore.ieee.org/document/8594448)]
 3. **Feedback MPC**: Feedback MPC for Torque-Controlled Legged Robots [[Paper](https://arxiv.org/abs/1905.06144)]
@@ -135,7 +71,10 @@ This repository contains papers, videos and other references in the field of leg
 6. **Non-Linear RF-MPC**: Real-Time Constrained Nonlinear Model Predictive Control on SO(3) or Dynamic Legged Locomotion [[Paper](http://ras.papercept.net/images/temp/IROS/files/2325.pdf)]
 7. **WBC+MPC**: Highly Dynamic Quadruped Locomotion via Whole-Body Impulse Control and Model Predictive Control [[Paper](https://arxiv.org/abs/1909.06586)]
 
-### Quadruped Learning Based locomotion:
+</details>
+
+<details><summary><b>Learning Based Control: Quadrupeds</b></summary>
+
 1. **RMA**: RMA: Rapid Motor Adaptation for Legged Robots [[Paper](https://www.roboticsproceedings.org/rss17/p011.pdf)]
 2. **Walk These Ways**: Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior [[Paper](https://arxiv.org/abs/2212.03238)][[Github](https://github.com/Improbable-AI/walk-these-ways)]
 3. **DreamWaQ**: DreamWaQ: Learning Robust Quadrupedal Locomotion with Implicit Terrain Imagination Via Deep Reinforcement Learning [[Paper](https://arxiv.org/pdf/2301.10602.pdf)][[Video](https://www.youtube.com/watch?v=J5wl0be5KQM)][[Website](https://sites.google.com/view/dreamwaq)]
@@ -144,19 +83,32 @@ This repository contains papers, videos and other references in the field of leg
 6. **Linear Policy**: Force Control for Robust Quadruped Locomotion: A Linear Policy Approach [[Paper](https://ieeexplore.ieee.org/document/10161080)][[Video](https://www.youtube.com/watch?v=k89QdImcqdo&t=2s)][[Website](https://www.stochlab.com/projects/LinPolForceControlQuad.html)]
 7. **PIP-Loco**: Pip-Loco: A propioceptive Infinite Horizon Planning Framework for Quadrupedal Robot Locomotion [[Paper](https://arxiv.org/pdf/2409.09441)]
 
-### Application of Learning-based locomotion on Quadrupeds:
+</details>
+
+<details><summary><b>Learning based controls: Interesting behaivour in Quadrupeds</b></summary>
+
 1.  **DribbleBot**: DribbleBot: Dynamic Legged Manipulation in the wild [[Paper](https://arxiv.org/pdf/2304.01159.pdf)][[Video](https://www.youtube.com/watch?v=1cek5Ypa3TE)][[Code](https://github.com/Improbable-AI/dribblebot)][[Notes](https://github.com/singhaman1750/Research-Paper-Notes/blob/main/README.md#dribblebot-dynamic-legged-manipulation-in-the-wild)]
 2. Legs As Manipulator: Pushing Quadrupedal Agility Beyond Locomotion [[Paper](https://robot-skills.github.io/resources/legmanip.pdf)][[Video](https://www.youtube.com/watch?v=d3YCmkEC7V0)][[Website](https://robot-skills.github.io/)]
 
-### Humanoids Learning based locomotion:
+</details>
+
+<details><summary><b>Learning based controls: Humanoids</b></summary>
+  
 1. Bi-Level Motion Imitation for Humanoid Robots [[Paper](https://openreview.net/forum?id=wH7Wv0nAm8)]
+
+</details>
+
 --------
 
-## :hammer_and_wrench:	Legged Robot Mechanical Design
-### :page_facing_up: Design Principles for legged robots:
+### 2.3 Legged Robot Mechanical Design
+<details><summary><b>Design Principles for legged robots:</b></summary>
+  
 1. **MIT, Design Principles**: Design principles for highly efficient quadrupeds and implementation on the MIT Cheetah robot [[Paper](https://ieeexplore.ieee.org/document/6631038)]
 
-### :dog: Quadruped Robot Design Papers:
+</details>
+
+<details><summary><b>Quadruped Robot Design Papers</b></summary>
+  
 1. **MIT Cheetah-3**: MIT Cheetah 3: Design and Control of a Robust, Dynamic Quadruped Robot [[Paper](https://ieeexplore.ieee.org/document/8593885)]
 2. **MIT Mini Cheetah**: Mini Cheetah: A Platform for Pushing the Limits of Dynamic Quadruped Control [[Paper](https://ieeexplore.ieee.org/document/8793865)] [[Blog](https://build-its.blogspot.com/2019/12/the-mini-cheetah-robot.html)] [[Gear-width-Calc](https://drivetrainhub.com/notebooks/gears/strength/Chapter%202%20-%20Root%20Stress.html)]
 3. **MIT Super Mini-Cheetah**: The MIT Super Mini Cheetah: A small, low-cost quadrupedal robot for dynamic locomotion [[Paper](https://ieeexplore.ieee.org/document/7443018)]
@@ -173,20 +125,29 @@ This repository contains papers, videos and other references in the field of leg
 14. **Stoch-3, IISc, Bengaluru**: A Chain-Driven, Sandwich-Legged Quadruped Robot: Design and Experimental Analysis [[Arxiv-Paper](https://arxiv.org/abs/2503.14255)][[Video](https://youtu.be/ygSMCPcFnP8?feature=shared)]
 15. **PADWQ**: Design and Control of a Open-Source, Low Cost, 3D Printed Dynamic Quadruped Robot [[Paper](https://www.mdpi.com/2076-3417/11/9/3762)]
 
-### :robot: Humanoid Robot Design:
+</details>
+
+<details><summary><b>Humanoid Robot Design</b></summary>
+  
 1. **Berkely Humanoid**: Berkeley Humanoid: A Research Platform for Learning-based Control [[Paper](https://arxiv.org/abs/2407.21781)]
 2. **MIT Humanoid**: Design and Development of the MIT Humanoid: A Dynamic and Robust Research Platform [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10375199)]
 3. **UIUC, Tello Leg**: Tello Leg: The Study of Design Principles and Metrics for Dynamic Humanoid Robots [[Paper](https://ieeexplore.ieee.org/document/9813569)]
 4. **UIUC, Tello Leg**: The dynamic effect of mechanical losses of transmissions on the equation of motion of legged robots [[Paper](https://arxiv.org/abs/2106.01842)]
 5. **AMI, IIT, Italy, egroCub Humanoid**: Optimization of Humanoid Robot Designs for Human-Robot Ergonomic Payload Lifting [[Paper](https://arxiv.org/abs/2211.13503)]
 6. **Tiktok, Humanoid, Cornell University**: [[Website](http://ruina.tam.cornell.edu/research/topics/locomotion_and_robotics/Tik-Tok/)] 
+  
+</details>
 
-### :joystick: :hammer_and_wrench: Co-Design Optimization:
+<details><summary><b>Co-design Optimization</b></summary>
+
 1. Vitruvio: An Open-Source Leg Design Optimization Toolbox for Walking Robots [[Paper](https://ieeexplore.ieee.org/document/9157985)]
 2. **Co-design(CACTO)**: Exploring the Limits of a Redundant Actuation System Through Co-Design [[Paper](https://ieeexplore.ieee.org/document/9400808)]
 3. Meta Reinforcement Learning for Optimal Design of Legged Robots [[Paper](https://arxiv.org/pdf/2210.02750.pdf)]
 
-### :electron: Electric motor based Actuator Designs for Legged Robots:
+</details>
+
+<details><summary><b> Electric motor based Actuator Designs for Legged Robots:</b></summary>
+
 1. **KAIST, Actuator Design**: DRPD, Dual Reduction Ratio Planetary Drive for Articulated Robot Actuators [[Paper](https://ieeexplore.ieee.org/abstract/document/9981201)]
 2. **Dual Motor Design (2021)**: Explosive Electric Actuator and Control for Legged Robots [[Paper](https://reader.elsevier.com/reader/sd/pii/S2095809921005282?token=528592F31700C12282D3918FF7D6AC7D58F2B05BE168CEA0767BE07971464D4F37986B7E089D0A53D6F9E87E12E5AB73&originRegion=eu-west-1&originCreation=20230413064751)]
 3. **John Harry Bell, Master's Thesis, MIT (2018)**: A Two-Motor Actuator for Legged Robotics Applications [[Thesis](https://dspace.mit.edu/bitstream/handle/1721.1/127152/1191839946-MIT.pdf?sequence=1&isAllowed=y)]
@@ -196,6 +157,8 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 6. **Hoyul Lee's Paper, ASME/IEEE Transactions on mechatronics(2012)**: A New Actuator System Using Dual-Motors and a Planetary Gear [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6022796)]
 7. **Jung Jun Park' paper, ASME/IEEE Transactions on mechatronics(2010)**: A Serial-Type Dual Actuator Unit With Planetary Gear Train: Basic Design and Applications [[Paper](https://dspace.mit.edu/bitstream/handle/1721.1/127152/1191839946-MIT.pdf?sequence=1&isAllowed=y)]
 
+</details>
+
 -------------------------
 
 # Patents
@@ -203,28 +166,6 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 2. **Boston Dynamics**: [Screw Actuator for Legged Robots](https://patents.google.com/patent/US10253855B2/en)
 3. **Boston Dynamics**: [WO2018112097 - TRANSMISSION WITH INTEGRATED OVERLOAD PROTECTION FOR A LEGGED ROBOT](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2018112097)
 
---------------------------
-
-# Actuator Design Resources
-
-## Motor Theory and Design
-1. Master's Thesis: James Mevey [[Thesis-Link](https://krex.k-state.edu/server/api/core/bitstreams/e3f7aa0b-4833-44e4-9ef0-af09f411baa1/content)]
-2. Book, Brushless Permanent Magnet Motor Design, Dr. Duane Hanselman
-3. Instructables Post: [[Link](https://www.instructables.com/Make-Your-Own-Miniature-Electric-Hub-Motor/)]
-4. Source: Reddit Post: [[Need some guidance with BLDC motor design: Answer by alternativemax](https://www.reddit.com/r/Motors/comments/pmopwr/need_some_guidance_with_bldc_motor_design/)] 
-
-## Dynamometer: Actuator testing setup
-
-1. Benjamin Katz, blog: [[Link1](https://build-its-inprogress.blogspot.com/2016/08/small-motor-dynamometer-beginnings.html)] [[Link2](https://build-its.blogspot.com/2019/12/motor-dynamometer.html)] [[Link3](https://build-its-inprogress.blogspot.com/2016/04/torque-ripple-characterization-and.html)] [[Link4](https://build-its-inprogress.blogspot.com/2016/10/motor-dyno-updates-first-tests.html)]
-2. MJbots blog: [[Link](https://blog.mjbots.com/2020/08/19/initial-dynamometer-assembly/)]
-3. The brushless zone: [[Link](https://brushless.zone/quantifying-a-motor-the-ipm-dyno/)]
-4. Understanding a motor dynamometer setup, Adi Mehrotra: [[Link: PDF](https://evt.mit.edu/textbooks/Dynos_for_Dummies.pdf)]
-5. Berkeley humanoid motor testing setup: \
-      i. Paper Title: Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot 
-
-## Actuator Design: Blogs, Videos, twitter threads, posts, papers etc
-
-1. 3D Printed QDD Robotic Actuator (MIT Mini Cheetah Clone) : By nachumtwersky [[Blog-Link](https://www.instructables.com/3D-Printed-QDD-Robotic-Actuator-MIT-Mini-Cheetah-C/)]
 ----------------------
 
 # Useful GitHub Repositories:
