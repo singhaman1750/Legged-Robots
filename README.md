@@ -73,6 +73,9 @@ This repository contains papers, videos and other references in the field of leg
   - [South Korea](#south-korea)
   - [Other Labs](#other-labs)
 
+- [Youtube Projects](#youtube-projects)
+  - [Quadruped Robots](#quadruped-robots)
+
 - [Robotics Companies](#robotics-companies)
   - [India](#india-1)
 
@@ -410,21 +413,20 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 # Youtube Projects:
 
 ## Quadruped Robots
-1. Dingo by Nathan Ferguson: [[Video-Link](https://youtu.be/8KntOIgzUjY?si=Kg7lPAJMX9Akev89)]
-2. Stanley by AheadIO: [[Video-Link](https://youtu.be/tIJMQKBBDtc?si=kkgVG_2jDeyVNn2C)]
-3. Open Robot Dog by James Bruton: [[Video-Link](https://www.youtube.com/playlist?list=PLpwJoq86vov8uTgd8_WNgBHFpDYemO-OJ)]
-4. CARA by Aaed Musa: [[Video-Link](https://youtu.be/8s9TjRz01fo?si=E9OzYa9STsJEYgQx)]
-5. Quadruped by Alex Hattori: \
-   a. Quadruped V1: [[Video-Link](https://youtu.be/nnKyDTrJ9DU?si=2VWDTEgI9JMUquLo)] \
-   b. Quadruped v2, v3: [[Video-Link](https://youtu.be/aI4PkDkCDtE?si=OZFdMZwN7z5gOt0S)]
-6. PuppyPi, MechDog and ROSpug by Hiwonder: \
-   a. PuppyPi: [[Video-Link](https://youtu.be/OKaEbnmZ0PU?si=oM8rGW1es4kvkIia)] \
-   b. ROSPug: [[Video-Link](https://youtu.be/nuAXr-FJmu8?si=bSkaENYsn_IGidym)] \
-   c. MechDog: [[Video-Link](https://youtu.be/c7XJqjFmjto?si=tONRx2X6TE-thURP)]
-7. Fully 3d-printed robot dog by jorgefer88: [[Video-Link](https://youtu.be/nmkJ_TJag_k?si=OjbLeTcoi6nRsVwf)]
-8. NovaSM3 by Chris Locke: [[Video-Link](https://youtu.be/0YpnKmXtMKQ?si=SBpXyaCsK51mGO5T)]
-9. XGO-Mini: [[Video-Link](https://youtu.be/ZYeSgKPc02M?si=sQOHm0S0N6sVicel)]
-
+1. **Stanley** by AheadIO: [[Video-Link](https://youtu.be/tIJMQKBBDtc?si=kkgVG_2jDeyVNn2C)][[Video-link-2](https://youtu.be/UTWGk3VrvQk?si=cYK-9lprQ1rbC0Ra)]
+2. **Open Robot Dog** by James Bruton: [[Video-Link](https://www.youtube.com/playlist?list=PLpwJoq86vov8uTgd8_WNgBHFpDYemO-OJ)]
+3. **CARA** by Aaed Musa: [[Video-Link](https://youtu.be/8s9TjRz01fo?si=E9OzYa9STsJEYgQx)]
+4. **Dingo** by Nathan Ferguson: [[Video-Link](https://youtu.be/8KntOIgzUjY?si=Kg7lPAJMX9Akev89)] 
+5. **Quadruped** by Alex Hattori: \
+   a. **Quadruped V1**: [[Video-Link](https://youtu.be/nnKyDTrJ9DU?si=2VWDTEgI9JMUquLo)] \
+   b. **Quadruped v2, v3**: [[Video-Link](https://youtu.be/aI4PkDkCDtE?si=OZFdMZwN7z5gOt0S)]
+6. **PuppyPi, MechDog** and **ROSpug** by Hiwonder: \
+   a. **PuppyPi**: [[Video-Link](https://youtu.be/OKaEbnmZ0PU?si=oM8rGW1es4kvkIia)] \
+   b. **ROSPug**: [[Video-Link](https://youtu.be/nuAXr-FJmu8?si=bSkaENYsn_IGidym)] \
+   c. **MechDog**: [[Video-Link](https://youtu.be/c7XJqjFmjto?si=tONRx2X6TE-thURP)]
+7. **Fully 3d-printed robot dog** by jorgefer88: [[Video-Link](https://youtu.be/nmkJ_TJag_k?si=OjbLeTcoi6nRsVwf)]
+8. **NovaSM3** by Chris Locke: [[Video-Link](https://youtu.be/0YpnKmXtMKQ?si=SBpXyaCsK51mGO5T)]
+9. **XGO-Mini**: [[Video-Link](https://youtu.be/ZYeSgKPc02M?si=sQOHm0S0N6sVicel)]
 
 ---------------
 
