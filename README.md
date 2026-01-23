@@ -1,26 +1,41 @@
 # Legged-Robots
 A curated collection of papers, videos, tools, and references for legged robotics (actuators, control, design).
+# Legged-Robots
+A curated collection of papers, videos, tools, and references for legged robotics (actuators, control, and design).
+
+---
 
 ## Table of Contents
+- [Start Here](#start-here)
+- [1) Full Conference Paper Lists](#1-full-conference-paper-lists)
+- [2) Curated Papers by Topic](#2-curated-papers-by-topic)
+  - [2.1 Actuators & Transmissions](#21-actuators--transmissions)
+  - [2.2 Legged Robot Control](#22-legged-robot-control)
+  - [2.3 Legged Robot Mechanical Design & Co-Design](#23-legged-robot-mechanical-design--co-design)
+- [3) Hands-on Resources](#3-hands-on-resources)
+- [4) Ecosystem](#4-ecosystem)
+- [5) Buying Hardware & Parts](#5-buying-hardware--parts)
+- [Star History](#star-history)
 
-1. Full Paper Lists for robotics conferences
-2. Papers lists for selected research areas
-3. Hands-on Resources
-4. Ecosystem
-5. Buying Hardware and Parts
-
+---
 
 ## Start Here
+Use this repo as a quick “index” depending on what you are currently working on:
 
-...
+- **New to legged robotics?**: Start with 
+- **Working on actuators?**: Go to **2.1 Actuators & Transmissions** → *Planetary / Cycloidal* + *Motor Theory & Dyno*
+- **Working on control or RL?**: Go to **2.2 Legged Robot Control** → *Model-based* + *Learning-based*
+- **Looking for implementations / code / builds?**: Go to **3) Hands-on Resources**
+- **Looking for people / labs / companies?**: Go to **4) Ecosystem**
+- **Buying parts for a build?**: Go to **5) Buying Hardware & Parts**
 
---------------------
+---
 
-### Note: *Click the "triangular" bullets of the sections below to expand the detailed list of resources*
+> **Note:** Click the small triangle next to each section (▶) to expand the detailed list.
 
------------------
+---
 
-## 1) Full Paper Lists for robotics conferences
+## 1) Full Conference Paper Lists
 
 <details><summary><b>ICRA</b></summary>
   
@@ -43,7 +58,7 @@ A curated collection of papers, videos, tools, and references for legged robotic
 
 **[Paper Copilot](https://papercopilot.com/)**: A centralized tool for accessing conference paper lists and related statistics, all in one place.
 
-## 2) Papers lists for selected research areas
+## 2) Curated Papers by Topic
 
 ### 2.1 Actuators & Transmissions
 
@@ -145,7 +160,7 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 
 ---
 
-### 2.3 Legged Robot Mechanical Design
+### 2.3 Legged Robot Mechanical Design & Co-Design
 <details><summary><b>Design Principles for legged robots:</b></summary>
   
 1. **MIT, Design Principles**: Design principles for highly efficient quadrupeds and implementation on the MIT Cheetah robot [[Paper](https://ieeexplore.ieee.org/document/6631038)]
@@ -442,7 +457,7 @@ A gearbox visualizer tool build on Manim
 ---
 
 
-## 6) Buying Hardware & Parts
+## 5) Buying Hardware & Parts
 <details><summary><b>Motors</b></summary>
   
 1. [**TQ-Motors**](https://www.tq-group.com/de/produkte/tq-robodrive/): Used in Raibo Quadruped
