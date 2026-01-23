@@ -1,7 +1,5 @@
 # Legged-Robots
 A curated collection of papers, videos, tools, and references for legged robotics (actuators, control, design).
-# Legged-Robots
-A curated collection of papers, videos, tools, and references for legged robotics (actuators, control, and design).
 
 ---
 
