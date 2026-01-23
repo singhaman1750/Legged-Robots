@@ -60,6 +60,8 @@ Use this repo as a quick index depending on what you are currently working on:
 
 **[Paper Copilot](https://papercopilot.com/)**: A centralized tool for accessing conference paper lists and related statistics, all in one place.
 
+---
+
 ## 2) Curated Papers by Topic
 
 ### 2.1 Actuators & Transmissions
