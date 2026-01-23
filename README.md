@@ -1,25 +1,49 @@
 # Legged-Robots
 A curated collection of papers, videos, tools, and references for legged robotics (actuators, control, design).
 
-## Start Here
-
 ## Table of Contents
 
-## 1) Paper Lists and Discovery
+1. Full Paper Lists for robotics conferences
+2. Papers lists for selected research areas
+3. Hands-on Resources
+4. Ecosystem
+5. Buying Hardware and Parts
 
-1. **ICRA 2025:** [[Github](https://github.com/DoongLi/ICRA2025-Paper-List)]
+
+## Start Here
+
+...
+
+--------------------
+
+### Note: *Click the "triangular" bullets of the sections below to expand the detailed list of resources*
+
+-----------------
+
+## 1) Full Paper Lists for robotics conferences
+
+<details><summary><b>ICRA</b></summary>
+  
+  1. **ICRA 2025:** [[Github](https://github.com/DoongLi/ICRA2025-Paper-List)]
+  2. **ICRA 2024:** [[Github](https://github.com/ryanbgriffiths/ICRA2024PaperList)] / [[Google Sheet](https://docs.google.com/spreadsheets/d/1z1IK0fxNZBEF7IiWZhM7TdK5dvNUvwnj3KwO5u0B91o/edit?gid=1438356197#gid=1438356197)] / [[Offcial IEEE List](https://ieeexplore.ieee.org/xpl/conhome/10609961/proceeding)]
+  3. **ICRA 2023:** [[Google sheet](https://docs.google.com/spreadsheets/d/1LcYjqrh8EyZ4HIeSl80ECF-rb7tND6DTdUj2p5XA2gM/edit?usp=sharing)]
+</details>
+
+<details><summary><b>IROS</b></summary>
+
+1. **IROS 2025:** [[Official IEEE List](https://ieeexplore.ieee.org/xpl/conhome/11245651/proceeding)]
 2. **IROS 2024:** [[Offcial IEEE List](https://ieeexplore.ieee.org/xpl/conhome/10801246/proceeding)]
-3. **ICRA 2024:** [[Github](https://github.com/ryanbgriffiths/ICRA2024PaperList)] / [[Google Sheet](https://docs.google.com/spreadsheets/d/1z1IK0fxNZBEF7IiWZhM7TdK5dvNUvwnj3KwO5u0B91o/edit?gid=1438356197#gid=1438356197)] / [[Offcial IEEE List](https://ieeexplore.ieee.org/xpl/conhome/10609961/proceeding)]
-4. **IROS 2023:** [[Google sheet](https://docs.google.com/spreadsheets/d/1cdca2J4g2gmHym1J0nXxJabhsxK7xIfXxicB8Le6AwU/edit#gid=214014586)] / [[Github Repo](https://github.com/ryanbgriffiths/IROS2023PaperList)] / [[Offcial IEEE List](https://ieeexplore.ieee.org/xpl/conhome/10341341/proceeding)]
-5. **ICRA 2023:** [[Google sheet](https://docs.google.com/spreadsheets/d/1LcYjqrh8EyZ4HIeSl80ECF-rb7tND6DTdUj2p5XA2gM/edit?usp=sharing)]
+3. **IROS 2023:** [[Google sheet](https://docs.google.com/spreadsheets/d/1cdca2J4g2gmHym1J0nXxJabhsxK7xIfXxicB8Le6AwU/edit#gid=214014586)] / [[Github Repo](https://github.com/ryanbgriffiths/IROS2023PaperList)] / [[Offcial IEEE List](https://ieeexplore.ieee.org/xpl/conhome/10341341/proceeding)]
+</details>
+
+<details><summary><b>Humanoids</b></summary>
+
+1. **Humanoids 2025**: [[Official IEEE List](https://ieeexplore.ieee.org/xpl/conhome/11202977/proceeding)]
+</details>
 
 **[Paper Copilot](https://papercopilot.com/)**: A centralized tool for accessing conference paper lists and related statistics, all in one place.
 
-## 2) Papers (Curated)
-
-### *Click the sections below to expand the detailed list of resources.*
-
-----
+## 2) Papers lists for selected research areas
 
 ### 2.1 Actuators & Transmissions
 
@@ -78,7 +102,8 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 
 </details>
 
---------
+---
+
 ### 2.2 Legged Robot Control
 
 <details><summary><b>Model based Control: Quadrupeds </b></summary>
@@ -118,7 +143,7 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 
 </details>
 
---------
+---
 
 ### 2.3 Legged Robot Mechanical Design
 <details><summary><b>Design Principles for legged robots:</b></summary>
@@ -128,8 +153,6 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 </details>
 
 <details><summary><b>Quadruped Robot Design Papers</b></summary>
-
-#### Research Projects / Academic Papers
 
 1. **MIT Cheetah-3**: MIT Cheetah 3: Design and Control of a Robust, Dynamic Quadruped Robot [[Paper](https://ieeexplore.ieee.org/document/8593885)]
 2. **MIT Mini Cheetah**: Mini Cheetah: A Platform for Pushing the Limits of Dynamic Quadruped Control [[Paper](https://ieeexplore.ieee.org/document/8793865)] [[Blog](https://build-its.blogspot.com/2019/12/the-mini-cheetah-robot.html)] [[Gear-width-Calc](https://drivetrainhub.com/notebooks/gears/strength/Chapter%202%20-%20Root%20Stress.html)]
@@ -146,23 +169,6 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 13. **Raibo Robot, KAIST**: RaiBo: A versatile robo-dog that runs through a sandy beach at 3 meters per second [[News-Article](https://techxplore.com/news/2023-01-raibo-versatile-robo-dog-sandy-beach.html)] [[Video](https://www.youtube.com/watch?v=ATvFSwkneu4)]
 14. **Stoch-3, IISc, Bengaluru**: A Chain-Driven, Sandwich-Legged Quadruped Robot: Design and Experimental Analysis [[Arxiv-Paper](https://arxiv.org/abs/2503.14255)][[Video](https://youtu.be/ygSMCPcFnP8?feature=shared)]
 15. **PADWQ**: Design and Control of a Open-Source, Low Cost, 3D Printed Dynamic Quadruped Robot [[Paper](https://www.mdpi.com/2076-3417/11/9/3762)]
-
-#### YouTube Projects
-
-1. **Stanley** by AheadIO: [[Video-Link](https://youtu.be/tIJMQKBBDtc?si=kkgVG_2jDeyVNn2C)][[Video-link-2](https://youtu.be/UTWGk3VrvQk?si=cYK-9lprQ1rbC0Ra)]
-2. **Open Robot Dog** by James Bruton: [[Video-Link](https://www.youtube.com/playlist?list=PLpwJoq86vov8uTgd8_WNgBHFpDYemO-OJ)]
-3. **CARA** by Aaed Musa: [[Video-Link](https://youtu.be/8s9TjRz01fo?si=E9OzYa9STsJEYgQx)]
-4. **Dingo** by Nathan Ferguson: [[Video-Link](https://youtu.be/8KntOIgzUjY?si=Kg7lPAJMX9Akev89)] 
-5. **Quadruped** by Alex Hattori: \
-   a. **Quadruped V1**: [[Video-Link](https://youtu.be/nnKyDTrJ9DU?si=2VWDTEgI9JMUquLo)] \
-   b. **Quadruped v2, v3**: [[Video-Link](https://youtu.be/aI4PkDkCDtE?si=OZFdMZwN7z5gOt0S)]
-6. **PuppyPi, MechDog** and **ROSpug** by Hiwonder: \
-   a. **PuppyPi**: [[Video-Link](https://youtu.be/OKaEbnmZ0PU?si=oM8rGW1es4kvkIia)] \
-   b. **ROSPug**: [[Video-Link](https://youtu.be/nuAXr-FJmu8?si=bSkaENYsn_IGidym)] \
-   c. **MechDog**: [[Video-Link](https://youtu.be/c7XJqjFmjto?si=tONRx2X6TE-thURP)]
-7. **Fully 3d-printed robot dog** by jorgefer88: [[Video-Link](https://youtu.be/nmkJ_TJag_k?si=OjbLeTcoi6nRsVwf)]
-8. **NovaSM3** by Chris Locke: [[Video-Link](https://youtu.be/0YpnKmXtMKQ?si=SBpXyaCsK51mGO5T)]
-9. **XGO-Mini**: [[Video-Link](https://youtu.be/ZYeSgKPc02M?si=sQOHm0S0N6sVicel)]
 
 </details>
 
@@ -185,16 +191,41 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 
 </details>
 
--------------------------
+<details><summary><b>Design Patents</b></summary>
 
-# Patents
 1. **Boston Dynamics**: [List of Patents from Boston Dynamics](https://www.bostondynamics.com/patents)
 2. **Boston Dynamics**: [Screw Actuator for Legged Robots](https://patents.google.com/patent/US10253855B2/en)
 3. **Boston Dynamics**: [WO2018112097 - TRANSMISSION WITH INTEGRATED OVERLOAD PROTECTION FOR A LEGGED ROBOT](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2018112097)
 
-----------------------
+</details>
 
-# Useful GitHub Repositories:
+-------------------------
+
+## 3) Hands-on Resources
+<details><summary><b>Youtube Project / Videos </b></summary>
+
+#### Quadruped Robot projects
+
+1. **Stanley** by AheadIO: [[Video-Link](https://youtu.be/tIJMQKBBDtc?si=kkgVG_2jDeyVNn2C)][[Video-link-2](https://youtu.be/UTWGk3VrvQk?si=cYK-9lprQ1rbC0Ra)]
+2. **Open Robot Dog** by James Bruton: [[Video-Link](https://www.youtube.com/playlist?list=PLpwJoq86vov8uTgd8_WNgBHFpDYemO-OJ)]
+3. **CARA** by Aaed Musa: [[Video-Link](https://youtu.be/8s9TjRz01fo?si=E9OzYa9STsJEYgQx)]
+4. **Dingo** by Nathan Ferguson: [[Video-Link](https://youtu.be/8KntOIgzUjY?si=Kg7lPAJMX9Akev89)] 
+5. **Quadruped** by Alex Hattori: \
+   a. **Quadruped V1**: [[Video-Link](https://youtu.be/nnKyDTrJ9DU?si=2VWDTEgI9JMUquLo)] \
+   b. **Quadruped v2, v3**: [[Video-Link](https://youtu.be/aI4PkDkCDtE?si=OZFdMZwN7z5gOt0S)]
+6. **PuppyPi, MechDog** and **ROSpug** by Hiwonder: \
+   a. **PuppyPi**: [[Video-Link](https://youtu.be/OKaEbnmZ0PU?si=oM8rGW1es4kvkIia)] \
+   b. **ROSPug**: [[Video-Link](https://youtu.be/nuAXr-FJmu8?si=bSkaENYsn_IGidym)] \
+   c. **MechDog**: [[Video-Link](https://youtu.be/c7XJqjFmjto?si=tONRx2X6TE-thURP)]
+7. **Fully 3d-printed robot dog** by jorgefer88: [[Video-Link](https://youtu.be/nmkJ_TJag_k?si=OjbLeTcoi6nRsVwf)]
+8. **NovaSM3** by Chris Locke: [[Video-Link](https://youtu.be/0YpnKmXtMKQ?si=SBpXyaCsK51mGO5T)]
+9. **XGO-Mini**: [[Video-Link](https://youtu.be/ZYeSgKPc02M?si=sQOHm0S0N6sVicel)]
+
+</details>
+
+<details><summary><b>Useful GitHub Repositories</b></summary>
+
+#### Control of quadruped robots
 
 1. [motion_imitation:](https://github.com/erwincoumans/motion_imitation/tree/master)
    Useful for Quadruped robot simulation in Pybullet using SRB (single-rigid body) model (by Erwin Couman, creator of Pybullet)
@@ -205,31 +236,46 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 3. [HIMLoco:](https://github.com/OpenRobotLab/HIMLoco)
    Learning-based locomotion controller for rough terrain navigation using hybrid internal models
 
-4. [VI_discretized_TO:](https://github.com/DRCL-USC/VI_discretized_TO)
+#### Controls for Humanoids and Biped robots
+
+1. [VI_discretized_TO:](https://github.com/DRCL-USC/VI_discretized_TO)
    Code for the Backflips of biped and quadruped robots using Traj_Opt using Variational Integration
 
-5. [loco-3d/crocoddyl:](https://github.com/loco-3d/crocoddyl)
+
+#### Mechanical Design
+
+1. [COMPAct:](https://github.com/singhaman1750/COMPAct-Actuator_design_framework.git)
+A computational design optimization and automated CAD generation for 3D-printed actuators for legged robots
+
+2. [Manim-Gearbox](https://github.com/GarryBGoode/manim-GearBox.git)
+A gearbox visualizer tool build on Manim
+
+#### Others
+
+1. [loco-3d/crocoddyl:](https://github.com/loco-3d/crocoddyl)
    Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
 
-6. [Pinocchio:](https://github.com/stack-of-tasks/pinocchio?tab=readme-ov-file#examples)
+2. [Pinocchio:](https://github.com/stack-of-tasks/pinocchio?tab=readme-ov-file#examples)
    Efficient and Versatile Rigid Body Dynamics Algorithms
 
--------
+</details>
 
-# Robotics Workshops Websites and video links
+<details><summary><b>Workshops</b></summary>
+
 1. **ICRA 2024 Workshop on Co-design in Robotics: Theory, Practice, and Challenges**: [[Webpage](https://www.robotmechanisms.org/activities/icra-2024-codesign)]
 2. **ICRA 2024 Advancements in Trajectory Optimisation and Model Predictive Control for Legged Systems**: [[Webpage](https://atompc-workshop.github.io/)]
 
---------------
+</details>
 
-# Video Lectures: 
-## Robotics and Controls:
+<details><summary><b>Video Lectures</b></summary>
+
+#### Robotics and Controls:
 1. Robotics Fall 2023, by Pranav Bhounsule: [[Videos](https://youtube.com/playlist?list=PLc7bpbeTIk77plTksRXAe1JPJZVmBNk8_&feature=shared)][[Notes](https://pab47.github.io/robotics/robotics23.html)]
 
-## Topics in Mathematics 
+#### Topics in Mathematics 
 1. [MIT 18.06 Linear Algebra, Spring 2005, MITOCW: Gilbert Strang](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 
-## Optimization
+#### Optimization
 1. **Course:** [Numerical Optimization, *(NPTEL)*: Shirish Sevade ](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3Hi2kc4n4bqJvxrtyaQa3P)
 
 **Trajectory Optimization** 
@@ -242,19 +288,19 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 8. **Github Repos:** [MindtPy Library Page: MINLP solver](https://pyomo.readthedocs.io/en/stable/contributed_packages/mindtpy.html)
 9. **Tutorial Paper:** [An Introduction to Trajectory Optimization: How to do your own direct collocation, *Matthew Kelly*](https://www.matthewpeterkelly.com/research/MatthewKelly_IntroTrajectoryOptimization_SIAM_Review_2017.pdf)
 
-## Basics of Control systems
+#### Basics of Control systems
 1. Linear Quadratic Regulator (LQR): [Basics/Overview](https://www.youtube.com/watch?v=1_UobILf3cc) [Derivation]()
 
-## Reinforcement Learning
+#### Reinforcement Learning
 1. [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 2. [Reinforcement Learning: David Silver](https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
 3. [CS-285: Deep Reinforcement Learning, UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
 4. [Spinning up*](https://spinningup.openai.com/en/latest/index.html): It's a blog but really useful
 
-## ROS
+#### ROS
 1. [ROS Wiki Tutorials: Muhammad Luqman](https://www.youtube.com/playlist?list=PLBbhfIdh4NdgBBkX7q0Y3UukO2_ZoICee)
 
-## Mechanical Design and Theory
+#### Mechanical Design and Theory
 1. [Kinematics of Mechanisms and Machines: NPTEL, IIT KGP](https://www.youtube.com/playlist?list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8)
       1. [Lec-37: Gear Kinematics](https://www.youtube.com/watch?v=BjkxYZ93Fbs&list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8&index=38) 
       2. [Lec-38: Gear Trains I](https://www.youtube.com/watch?v=lu_Qw4Y4XRQ&list=PLbRMhDVUMngdCkMipemSKP_dCgZLLfOe8&index=39)
@@ -264,36 +310,27 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 3. [Gear Strength Theory: NPTEL](https://archive.nptel.ac.in/courses/112/106/112106137/)
 4. [Friction-Model-for-Spur-Gear-transmission-efficiency: Review by Tsuneji Yada](https://www.jstage.jst.go.jp/article/jsmec1993/40/1/40_1_1/_article)
 
-## Miscellaneous:
+#### Miscellaneous:
 1. [List-of-Science-and-Math-courses](https://github.com/Developer-Y/math-science-video-lectures)
 
--------
-# Useful Books:
+</details>
 
+<details><summary><b>Books</b></summary>
+
+#### Mechanical Engineering
 1. [Statics and Dynamics: Andy Ruina](http://ruina.tam.cornell.edu/Book/RuinaPratap-July-12-2019.pdf)
 
--------
-# Useful Tools:
+</details>
 
-## Mathematics:
-1. **Lean**: Programming Language for Theorem prover [[Link](https://lean-lang.org/)] \
-      i. **Tutorials**: Natural Number Game [[Link](https://adam.math.hhu.de/#/g/leanprover-community/nng4)]
+<details><summary><b>Articles (Installs / Study / Technical)</b></summary>
 
--------
-
-# Useful articles:
-
-## Software installations:
-1. [Installing Anaconda on Ubuntu 22.04](https://linuxhint.com/install-anaconda-ubuntu-22-04/)
-2. [Installing Anaconda on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart)
-
-## Technical topics:
+#### Technical topics:
 1. [DDP](http://www.imgeorgiev.com/2023-02-01-ddp/): A good read for DDP
 2. [Policy Gradient Algorithms](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/#what-is-policy-gradient): A good read for Policy Gradient Algos
 3. [Reinforcement Learning Resources](https://stable-baselines.readthedocs.io/en/master/guide/rl.html): A list of resources for studying Reinforcement Learning
 4. [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 
-## Study:
+#### Study:
 1. **How to read Research Papers?**
       * How to read a research paper by *Andrew NG*: [Video](https://www.youtube.com/watch?v=733m6qBH-jI) / [Notes](https://github.com/IvLabs/ResearchPaperNotes/tree/master/literature_study_tips)
       * How to Read a Paper by *S. Keshav*: [PDF](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
@@ -305,49 +342,44 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 3. **How to setup and run your research Lab?**
       * A guide to setting up and managing a lab at a research-intensive institution : [[Article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8218371/#CR2)]
 
-## Stories of Science:
+#### Stories of Science:
 1. [Steven LaValle](http://lavalle.pl/bio.html): Motivating story of Steven LaValle, who gave the RRT algorithm.
 2. [Shuji Nakamura: Invention of Blue LED](https://youtu.be/AF8d72mA41M?feature=shared): Documentary about the invention of blue LED, which eventually led to a Nobel Prize in physics, one of the few for engineering efforts.
 3. [The Value of Science: Richard P. Feynman](https://calteches.library.caltech.edu/1575/1/Science.pdf): An article on why science and the scientific method are important, is it just a tool for the betterment of society or is it much more?
 
-## Website:
+#### Resource Websites:
 1. [List of useful resources: Aditya Mehrotra, MIT D-lab](https://www.adim.io/resources)
 2. [StePhane Caron](https://scaron.info/category/robotics.html)
 3. [Usefull Resources: Xiaobin Xiong](https://www.xiaobinxiong.info/resources)
 
-## Productivity Articles: (Don't get sucked too much into them)
-1. [HBR: 5 Mental Mistakes That Kill Your Productivity by Alice Boyes](https://hbr.org/2019/11/5-mental-mistakes-that-kill-your-productivity?utm_medium=social&utm_campaign=hbr&utm_source=facebook&tpcc=orgsocial_edit)
+#### Software installations:
+1. [Installing Anaconda on Ubuntu 22.04](https://linuxhint.com/install-anaconda-ubuntu-22-04/)
+2. [Installing Anaconda on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart)
+</details>
 
-## Cool AI tools:
+<details><summary><b>Random Cool Stuff</b></summary>
+
+#### Mathematics
+1. **Lean**: Programming Language for Theorem prover [[Link](https://lean-lang.org/)] \
+      i. **Tutorials**: Natural Number Game [[Link](https://adam.math.hhu.de/#/g/leanprover-community/nng4)]
+2. **Manim**: Python Library for making cool mathematical videos [[Github-Link](https://github.com/ManimCommunity/manim.git)] [[Manim Community](https://www.manim.community/)]
+
+#### Cool AI tools:
 1. [InstantID](https://huggingface.co/spaces/InstantX/InstantID) : Merges your picture with text description and an optional pose photo
-2. [Perplexity.ai](https://perplexity.ai/) : Functions Similar to ChatGPT
-3. [Text to Image Playground](https://huggingface.co/spaces/MisterProton/text-to-image-models-playground): COnvert text to image with free credits addition.
+2. [Text to Image Playground](https://huggingface.co/spaces/MisterProton/text-to-image-models-playground): COnvert text to image with free credits addition.
+
+</details>
 
 ---------------------
 
-# List of Robotics Conferences and Journals:
-1. **List of Top Robotics Conferences and Publications**: [[List on Google Scholar Webpage](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)]
-      1. *A few ASME Conferences and Journals*:
-            1. Journal of Mechanisms and Robots,
-            2. Journal of Dynamics Systems, Measurement and Control, and
-            3. Transaction on Mechatronics (IEEE/ASME) etc
-      2. *A few IEEE Conferences and Journals*:
-            1. International Conference on Robotics and Automation (ICRA),
-            2. International Conference on Intelligent Robots and Systems (IROS),
-            3. Robotics and Automation Letters (RAL),
-            4. Transaction on Robotics (T-RO) etc.
-        
-2. **IEEE publication recommender:** [[Link](https://publication-recommender.ieee.org/home)]
+## 4) Ecosystem
+<details><summary><b>Professors & Labs</b></summary>
 
-----------------------
----------------
-
-# Professors and Labs working in legged robotics
-## India
+#### India
 * **Shishir N Y**, Stochastic Robotics Lab, RBCCPS, IISc Bengaluru [[Personal Website](https://www.shishirny.com/)][[Lab website](https://www.stochlab.com/)]
 * **Mangal Kothari**, IIT Kanpur: [[Homepage](https://home.iitk.ac.in/~mangal/)]
 
-## USA
+#### USA
 * **Sangbae Kim**, Biomimetics Robotics Lab, MIT [[Lab Website](https://biomimetics.mit.edu/)]
 * **Pulkit Agarwal**, Improbable AI Lab, MIT [[Personal Website](https://people.csail.mit.edu/pulkitag/)]
 * **Deepak Pathak**, CMU [[Personal Website](https://www.cs.cmu.edu/~dpathak/)]
@@ -363,59 +395,92 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 * **Yanran Ding**, Robotics Department, University of Michigan [[Personal Website](https://sites.google.com/view/yanranding/home)]
 * **Xiaobin Xiong**, UW WELL Lab, University of Wisconsin-Madison [[Personal Website](https://www.xiaobinxiong.info/about)][[Lab Website](https://well.robotics.wisc.edu/team/)]
 
-## Europe
+#### Europe
 * **Marco Hutter**, Robotic Systems Lab, ETH Zurich, Switzerland [[Lab Website](https://rsl.ethz.ch/)]
 * **Serena Ivaldi**, Research Scientist, INRIA, France [[Personal Website](https://members.loria.fr/SIvaldi/)]
 * **Oliver Strasse**, French National Centre for Scientific Research, France [[Personal Website](https://homepages.laas.fr/ostasse/hugo/)]
 * **Carlos Mastalli**, Heriot-Watt University, Edinburgh, UK [[Personal Website](https://cmastalli.github.io/)]
 
-## South Korea
+#### South Korea
 * **Hae-Won Park**, DRDC Lab, KAIST [[Lab Website](https://www.dynamicrobot.kaist.ac.kr/)]
 * **Jemin Hwangbo**, RaiLab, KAIST [[Lab Website](https://www.railab.kaist.ac.kr/)]
 
-## Other Labs
+#### Other Labs
 * **Sony Quadruped Research** [Website](https://www.sony.com/en/SonyInfo/research/technologies/new_mobility/)
 
----------------
+</details>
 
-# Robotics Companies
+<details><summary><b> List of Robotics Conferences and Journals </b></summary>
+  
+1. **List of Top Robotics Conferences and Publications**: [[List on Google Scholar Webpage](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)]
+      1. *A few ASME Conferences and Journals*:
+            1. Journal of Mechanisms and Robots,
+            2. Journal of Dynamics Systems, Measurement and Control, and
+            3. Transaction on Mechatronics (IEEE/ASME) etc
+      2. *A few IEEE Conferences and Journals*:
+            1. International Conference on Robotics and Automation (ICRA),
+            2. International Conference on Intelligent Robots and Systems (IROS),
+            3. Robotics and Automation Letters (RAL),
+            4. Transaction on Robotics (T-RO) etc.
+        
+2. **IEEE publication recommender:** [[Link](https://publication-recommender.ieee.org/home)]
 
-## Legged Robots
-### India
+</details>
+
+<details><summary><b>Legged Robotics Companies</b></summary>
+  
+#### India
 * **Strider Robotics**, Quadruped Company, based in Bengaluru [[Website](https://www.strider-robotics.in/)]
 * **General Autonomy**, Humanoid and Quadruped Company, based in Bengaluru [[LinkedIn](https://www.linkedin.com/company/factoryofthefuture/posts/?feedView=all)]
 * **xTerra Robotics**, Quadruped robot company, based in Kanpur [[Website](https://xterrarobotics.com/)]
 * **Addverb**, Industrial mobile robots company with a division for legged robots, based in Delhi NCR [[Website](https://addverb.com/)]
 * **Ati Motors**, Industrial Mobile robots company with a division for upper body humanoid robots, based in Bengaluru [[Website](https://atimotors.com/)]
+* **NeoManav Robotics**: In stealth mode, in Bengaluru
 
-## Actuators
-### India
-* **Twara Robotics**, Harmonic Drive actuator manufacturers, based in Bengaluru [[Website](https://twararobotics.in/)]
+</details>
 
----------------
-# Accesories for Legged robots:
+---
 
-1. **Motors and Actuators**
-      1. [**TQ-Motors**](https://www.tq-group.com/de/produkte/tq-robodrive/): Used in Raibo Quadruped
-      2. [**Halodi Motors**](https://futurerobotix.com/?product=revo1-30): Used in Hound quadruped
-      3. [**Cube Mars**](https://store.cubemars.com/?rs_ref=rbz3SHCJ): Different kind of actuators available
-      4. [**Robstride Dynamics**](https://robstride.com/): Actuators of different kinds, one of the most cost effective ones
-      
-2. **Drivers**
-      1. **Mjbots**: [Moteus-n1](https://mjbots.com/products/moteus-n1), [Moteus-r4.xx](https://mjbots.com/products/moteus-n1) \
+
+## 6) Buying Hardware & Parts
+<details><summary><b>Motors</b></summary>
+  
+1. [**TQ-Motors**](https://www.tq-group.com/de/produkte/tq-robodrive/): Used in Raibo Quadruped
+2. [**Halodi Motors**](https://futurerobotix.com/?product=revo1-30): Used in Hound quadruped
+3. [**Cube Mars**](https://store.cubemars.com/?rs_ref=rbz3SHCJ): Different kind of actuators available
+4. [**Robstride Dynamics**](https://robstride.com/): Actuators of different kinds, one of the most cost effective ones
+
+</details>
+
+<details><summary><b>Drivers</b></summary>
+
+1. **Mjbots**: [Moteus-n1](https://mjbots.com/products/moteus-n1), [Moteus-r4.xx](https://mjbots.com/products/moteus-n1) \
                         It also provide several other accesories for legged robots. It is like a one stop shop.
-      2. **O-drives**: [Buying-Link](https://odriverobotics.com/?srsltid=AfmBOor5dbEx1yK3nqDN6iZG3vK3uxDh5Z1SSTte0VuJgffkIhFrC24q)
+2. **O-drives**: [Buying-Link](https://odriverobotics.com/?srsltid=AfmBOor5dbEx1yK3nqDN6iZG3vK3uxDh5Z1SSTte0VuJgffkIhFrC24q)
 
-3. **Stators**
-      1. **8110 Stator**: you can order single stator here [[Ebay-Link](https://www.ebay.com/itm/314132711015)] \
-      2. **BLDC Stators**: You can order bulk stators here [[Made-in-china link](https://yuhuidg.en.made-in-china.com/)]
+</details>
 
-4. **Permanent Magnets**
-      1. **N52 Neodymium magnets**: [[Digikey India Link](https://www.digikey.in/en/products/detail/radial-magnets-inc/8110/5400478?gclsrc=aw.ds&gad_source=1&gad_campaignid=23291937036&gbraid=0AAAAADrbLlgJjB_1CELFK0V2KPXLLOrOW&gclid=Cj0KCQiA1czLBhDhARIsAIEc7uh_KnAzMXl7b3tJNi5YqIt6ON5xnd7i2C60bHppvT43sNw2f19od5EaAlQPEALw_wcB)]
+<details><summary><b>Stators</b></summary>
+
+1. **8110 Stator**: you can order single stator here [[Ebay-Link](https://www.ebay.com/itm/314132711015)] \
+2. **BLDC Stators**: You can order bulk stators here [[Made-in-china link](https://yuhuidg.en.made-in-china.com/)]
+
+
+</details>
+
+<details><summary><b>Permanent Magnets</b></summary>
+
+1. **N52 Neodymium magnets**: [[Digikey India Link](https://www.digikey.in/en/products/detail/radial-magnets-inc/8110/5400478?gclsrc=aw.ds&gad_source=1&gad_campaignid=23291937036&gbraid=0AAAAADrbLlgJjB_1CELFK0V2KPXLLOrOW&gclid=Cj0KCQiA1czLBhDhARIsAIEc7uh_KnAzMXl7b3tJNi5YqIt6ON5xnd7i2C60bHppvT43sNw2f19od5EaAlQPEALw_wcB)]
  
-3. **Motor Winding Machines**:
-      1. **HONEST**(Shenzen Honest Intelligent Equipments): Chinese Company, [[Website-Link](https://www.honest-hls.com/products)] \
+</details>
+
+<details><summary><b>Manufacturing Tools</b></summary>
+
+1. **HONEST**(Shenzen Honest Intelligent Equipments): Chinese Company, sells Motor Winding Machines [[Website-Link](https://www.honest-hls.com/products)] \
                         Has a center in Kanchipuram, near Chennai, India as well
+</details>
+
+---
 
 ## Star History
 
