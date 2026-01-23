@@ -20,14 +20,16 @@ A curated collection of papers, videos, tools, and references for legged robotic
 ---
 
 ## Start Here
-Use this repo as a quick “index” depending on what you are currently working on:
+Use this repo as a quick index depending on what you are currently working on:
 
-- **New to legged robotics?**: Start with 
-- **Working on actuators?**: Go to **2.1 Actuators & Transmissions** → *Planetary / Cycloidal* + *Motor Theory & Dyno*
-- **Working on control or RL?**: Go to **2.2 Legged Robot Control** → *Model-based* + *Learning-based*
-- **Looking for implementations / code / builds?**: Go to **3) Hands-on Resources**
-- **Looking for people / labs / companies?**: Go to **4) Ecosystem**
-- **Buying parts for a build?**: Go to **5) Buying Hardware & Parts**
+| If you are… | Go to | What you’ll find |
+|---|---|---|
+| **New to legged robotics** | **2.3 Mechanical Design & Co-Design** + **3) Hands-on Resources → YouTube Projects / Videos** | *Design Principles* + key *Quadruped/Humanoid design papers* + beginner-friendly quadruped build videos|
+| **Working on actuators** | **2.1 Actuators & Transmissions** | *Planetary / Cycloidal* + *Non-conventional actuators* + *Motor theory & dyno/testing* |
+| **Working on control or RL** | **2.2 Legged Robot Control** | *Model-based control* + *Learning-based locomotion* |
+| **Looking for implementations / code / builds** | **3) Hands-on Resources** | YouTube builds + GitHub repos + workshops + lectures |
+| **Looking for people / labs / companies** | **4) Ecosystem** | Professors & labs + conferences/journals + companies |
+| **Buying parts for a build** | **5) Buying Hardware & Parts** | Motors + drivers + stators + magnets + manufacturing tools |
 
 ---
 
