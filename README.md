@@ -343,6 +343,9 @@ A gearbox visualizer tool build on Manim
 #### Miscellaneous:
 1. [List-of-Science-and-Math-courses](https://github.com/Developer-Y/math-science-video-lectures)
 
+#### Informative videos
+1. **Materials**: Neodymium magnets [[Video](https://youtu.be/XZZDy_R2h7E?si=wOG1tuobcxuZ3By6)]
+
 </details>
 
 <details><summary><b>Books</b></summary>
