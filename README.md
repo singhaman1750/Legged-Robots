@@ -80,6 +80,8 @@ Use this repo as a quick index depending on what you are currently working on:
   <summary><b>Cycloidal Gearboxes</b></summary>
 
 1. **Berkely Humanoid Lite**: *Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot* [[Paper](https://arxiv.org/abs/2504.17249)] [[Documentation](https://berkeley-humanoid-lite.gitbook.io/docs)] [[Github](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite)]
+2. **Wesley Roozing's Paper**: *Experimental comparison of pinwheel and non-pinwheel designs of 3D-printed cycloidal gearing for robotics* [[Paper](https://ieeexplore.ieee.org/abstract/document/10610250/)]
+3. **RaM (Uni of Twente)**: *Anti-Backlash Mechanisms for Cycloidal Drive Robotic Actuators: Design and Evaluation* [[Paper](https://ieeexplore.ieee.org/abstract/document/11197911/)]
 
 </details>
 
@@ -98,6 +100,7 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 5. **Alexandre Girard's paper, Hamburg, Germany IROS(2015)**: A Two-Speed Actuator for Robotics with Fast Seamless Gear Shifting [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7354047)]
 6. **Hoyul Lee's Paper, ASME/IEEE Transactions on mechatronics(2012)**: A New Actuator System Using Dual-Motors and a Planetary Gear [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6022796)]
 7. **Jung Jun Park' paper, ASME/IEEE Transactions on mechatronics(2010)**: A Serial-Type Dual Actuator Unit With Planetary Gear Train: Basic Design and Applications [[Paper](https://dspace.mit.edu/bitstream/handle/1721.1/127152/1191839946-MIT.pdf?sequence=1&isAllowed=y)]
+8. **Brubotics VUB paper, IEEE Robotics and Automation Letters(2022)**: A Methodology for Designing a Lightweight and Energy-Efficient Kinematically Redundant Actuator [[Paper](https://ieeexplore.ieee.org/document/9834077)]
 
 </details>
 
