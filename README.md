@@ -87,6 +87,8 @@ Use this repo as a quick index depending on what you are currently working on:
 
 <details>
   <summary><b>Series Elastic Actuators (SEA)</b></summary>
+  
+1. **High-Performance Series Elastic Actuation**: Paine, Nicholas Arden: Thesis [[Thesis-PDf](https://sites.utexas.edu/hcrl/files/2016/01/nick-paine-thesis-dissertation-2014.pdf)] [[Thesis-webpage-link](https://repositories.lib.utexas.edu/items/383f9e7f-2213-4bca-bd46-3aabdee6fda5)]
 
 </details>
 
