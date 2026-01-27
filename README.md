@@ -83,6 +83,11 @@ Use this repo as a quick index depending on what you are currently working on:
 
 </details>
 
+<details>
+  <summary><b>Series Elastic Actuators (SEA)</b></summary>
+
+</details>
+
 <details><summary><b> Non-Conventional Actuators</b></summary>
 
 1. **KAIST, Actuator Design**: DRPD, Dual Reduction Ratio Planetary Drive for Articulated Robot Actuators [[Paper](https://ieeexplore.ieee.org/abstract/document/9981201)]
@@ -93,6 +98,11 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 5. **Alexandre Girard's paper, Hamburg, Germany IROS(2015)**: A Two-Speed Actuator for Robotics with Fast Seamless Gear Shifting [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7354047)]
 6. **Hoyul Lee's Paper, ASME/IEEE Transactions on mechatronics(2012)**: A New Actuator System Using Dual-Motors and a Planetary Gear [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6022796)]
 7. **Jung Jun Park' paper, ASME/IEEE Transactions on mechatronics(2010)**: A Serial-Type Dual Actuator Unit With Planetary Gear Train: Basic Design and Applications [[Paper](https://dspace.mit.edu/bitstream/handle/1721.1/127152/1191839946-MIT.pdf?sequence=1&isAllowed=y)]
+
+</details>
+
+<details>
+  <summary><b>Modelling actuator dynamics</b></summary>
 
 </details>
 
