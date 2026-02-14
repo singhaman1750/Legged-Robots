@@ -254,6 +254,10 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 8. **NovaSM3** by Chris Locke: [[Video-Link](https://youtu.be/0YpnKmXtMKQ?si=SBpXyaCsK51mGO5T)]
 9. **XGO-Mini**: [[Video-Link](https://youtu.be/ZYeSgKPc02M?si=sQOHm0S0N6sVicel)]
 
+#### Robotics Tools Tutorials
+
+1. Convert Solidworks CAD to URDF: [[YouTube-Playlist](https://youtube.com/playlist?list=PL5HnE_lHbcojyFJsQueN4xUTp5Iss5Mr7&si=TJT_1j2EFLc93PGW)]
+
 </details>
 
 <details><summary><b>Useful GitHub Repositories</b></summary>
