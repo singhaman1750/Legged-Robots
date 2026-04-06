@@ -474,15 +474,25 @@ A gearbox visualizer tool build on Manim
 
 </details>
 
-<details><summary><b>Legged Robotics Companies</b></summary>
+<details><summary><b>Robotics Companies</b></summary>
   
-#### India
+### India
+#### Legged robotics
 * **Strider Robotics**, Quadruped Company, based in Bengaluru [[Website](https://www.strider-robotics.in/)]
 * **General Autonomy**, Humanoid and Quadruped Company, based in Bengaluru [[LinkedIn](https://www.linkedin.com/company/factoryofthefuture/posts/?feedView=all)]
 * **xTerra Robotics**, Quadruped robot company, based in Kanpur [[Website](https://xterrarobotics.com/)]
+* **NeoManav Robotics**: In stealth mode, in Bengaluru
+
+#### Warehouse automation (wheeled robots)
 * **Addverb**, Industrial mobile robots company with a division for legged robots, based in Delhi NCR [[Website](https://addverb.com/)]
 * **Ati Motors**, Industrial Mobile robots company with a division for upper body humanoid robots, based in Bengaluru [[Website](https://atimotors.com/)]
-* **NeoManav Robotics**: In stealth mode, in Bengaluru
+* **Unbox Robotics**, [[Website](https://unboxrobotics.com)]
+* **Anscer Robotics**, [[Website](https://www.anscer.com/)]
+* **Peer Robotics**, [[Website](https://www.peerrobotics.ai/)]
+* **Greyorange Robotics**, More of an automation companies than robotics [[Website](https://www.greyorange.com/)]
+
+#### Actuators and Manipulators
+* **Twara Robotics**, [[Website](https://twararobotics.in/)] [[LinkedIn](https://www.linkedin.com/company/twara-robotics/)]
 
 </details>
 
