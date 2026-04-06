@@ -115,6 +115,8 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 
 <details>
   <summary><b>Modelling actuator dynamics</b></summary>
+  
+1. **Motor dynamics in RL, KAIST Hound**: Actuator-Constrained Reinforcement Learning for High-Speed Quadrupedal Locomotion [[Paper](https://arxiv.org/abs/2312.17507)]
 
 </details>
 
