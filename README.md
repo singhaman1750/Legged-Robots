@@ -417,6 +417,9 @@ A gearbox visualizer tool build on Manim
 1. [InstantID](https://huggingface.co/spaces/InstantX/InstantID) : Merges your picture with text description and an optional pose photo
 2. [Text to Image Playground](https://huggingface.co/spaces/MisterProton/text-to-image-models-playground): COnvert text to image with free credits addition.
 
+#### Useful Softwares:
+1. [WinDirStat](https://windirstat.net/download.html): Used to find large files in the system. Helpfull in cleaning up the system.
+
 </details>
 
 ---------------------
