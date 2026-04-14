@@ -511,6 +511,7 @@ A gearbox visualizer tool build on Manim
 2. [**Halodi Motors**](https://futurerobotix.com/?product=revo1-30): Used in Hound quadruped
 3. [**Cube Mars**](https://store.cubemars.com/?rs_ref=rbz3SHCJ): Different kind of actuators available
 4. [**Robstride Dynamics**](https://robstride.com/): Actuators of different kinds, one of the most cost effective ones
+5. [**Myactuators**](https://www.myactuator.com/): Actuators for legged robots
 
 </details>
 
