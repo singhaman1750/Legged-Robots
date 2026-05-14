@@ -449,6 +449,7 @@ A gearbox visualizer tool build on Manim
 
 #### Europe
 * **Marco Hutter**, Robotic Systems Lab, ETH Zurich, Switzerland [[Lab Website](https://rsl.ethz.ch/)]
+* **Claudio Semini**, Dynamic Legged Systems, IIT Italy, Italy [[Lab-website](https://dls.iit.it/)]
 * **Serena Ivaldi**, Research Scientist, INRIA, France [[Personal Website](https://members.loria.fr/SIvaldi/)]
 * **Oliver Strasse**, French National Centre for Scientific Research, France [[Personal Website](https://homepages.laas.fr/ostasse/hugo/)]
 * **Carlos Mastalli**, Heriot-Watt University, Edinburgh, UK [[Personal Website](https://cmastalli.github.io/)]
