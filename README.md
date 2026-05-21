@@ -208,8 +208,9 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 11. **Stoch, IISc**: Design, Development and Experimental Realization of A Quadrupedal Research Platform: Stoch [[Paper](https://ieeexplore.ieee.org/document/8813480)]
 12. **Tachyon, Sony**: Tachyon: Design and Control of High Payload, Robust, and Dynamic Quadruped Robot with Series-Parallel Elastic Actuators [[Paper](https://ieeexplore.ieee.org/document/9636196)]
 13. **Raibo Robot, KAIST**: RaiBo: A versatile robo-dog that runs through a sandy beach at 3 meters per second [[News-Article](https://techxplore.com/news/2023-01-raibo-versatile-robo-dog-sandy-beach.html)] [[Video](https://www.youtube.com/watch?v=ATvFSwkneu4)]
-14. **Stoch-3, IISc, Bengaluru**: A Chain-Driven, Sandwich-Legged Quadruped Robot: Design and Experimental Analysis [[Arxiv-Paper](https://arxiv.org/abs/2503.14255)][[Video](https://youtu.be/ygSMCPcFnP8?feature=shared)]
-15. **PADWQ**: Design and Control of a Open-Source, Low Cost, 3D Printed Dynamic Quadruped Robot [[Paper](https://www.mdpi.com/2076-3417/11/9/3762)]
+14. **Raibo2 Robot, KAIST**: RAIBO2: Highly efficient quadruped robot completing full marathon with a single battery charge [[Paper](https://www.researchsquare.com/article/rs-6040970/v1)]
+15. **Stoch-3, IISc, Bengaluru**: A Chain-Driven, Sandwich-Legged Quadruped Robot: Design and Experimental Analysis [[Arxiv-Paper](https://arxiv.org/abs/2503.14255)][[Video](https://youtu.be/ygSMCPcFnP8?feature=shared)]
+16. **PADWQ**: Design and Control of a Open-Source, Low Cost, 3D Printed Dynamic Quadruped Robot [[Paper](https://www.mdpi.com/2076-3417/11/9/3762)]
 
 </details>
 
