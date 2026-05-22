@@ -283,6 +283,11 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 3. [HIMLoco:](https://github.com/OpenRobotLab/HIMLoco)
    Learning-based locomotion controller for rough terrain navigation using hybrid internal models
 
+4. [robot_lab:](https://github.com/fan-ziqi/robot_lab) 
+   RL Extension Library for Robots, Based on IsaacLab.
+   [[IsaacLabAPI Doc](https://isaac-sim.github.io/IsaacLab/main/source/api/index.html#isaaclab-tasks-extension)]
+   
+
 #### Controls for Humanoids and Biped robots
 
 1. [VI_discretized_TO:](https://github.com/DRCL-USC/VI_discretized_TO)
