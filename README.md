@@ -56,6 +56,14 @@ Use this repo as a quick index depending on what you are currently working on:
 1. **Humanoids 2025**: [[Official IEEE List](https://ieeexplore.ieee.org/xpl/conhome/11202977/proceeding)]
 </details>
 
+<details><summary><b>Transaction on Robotics (T-RO)</b></summary>
+
+1. **T-RO All Issues**: [[T-RO All Issues Link](https://ieeexplore.ieee.org/xpl/issues?punumber=8860&isnumber=11297026)]
+2. **T-RO 2026**: [[T-RO 2026 Issue Link](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=11297026&punumber=8860)]
+3. **T-RO 2025**: [[T-RO 2025 Issue Link](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10778592&punumber=8860)]
+4. **T-RO 2024**: [[T-RO 2024 Issue Link](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10365208&punumber=8860)]
+</details>
+
 **[Paper Copilot](https://papercopilot.com/)**: A centralized tool for accessing conference paper lists and related statistics, all in one place.
 
 ---
