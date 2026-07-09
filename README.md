@@ -221,6 +221,7 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 14. **Raibo2 Robot, KAIST**: RAIBO2: Highly efficient quadruped robot completing full marathon with a single battery charge [[Paper](https://www.researchsquare.com/article/rs-6040970/v1)]
 15. **Stoch-3, IISc, Bengaluru**: A Chain-Driven, Sandwich-Legged Quadruped Robot: Design and Experimental Analysis [[Arxiv-Paper](https://arxiv.org/abs/2503.14255)][[Video](https://youtu.be/ygSMCPcFnP8?feature=shared)]
 16. **PADWQ**: Design and Control of a Open-Source, Low Cost, 3D Printed Dynamic Quadruped Robot [[Paper](https://www.mdpi.com/2076-3417/11/9/3762)]
+17. **LIGHTDOG**: Design of LIGHTDOG: A high payload-to-weight, hose-less hydraulic quadrupedal robot [[Paper](https://journals.sagepub.com/doi/full/10.1177/02783649251349225)]
 
 </details>
 
