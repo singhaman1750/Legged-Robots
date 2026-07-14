@@ -285,14 +285,11 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 
 #### Mujoco Repositories
 
-1. [MJLab:](https://github.com/mujocolab/mjlab)
-mjlab combines Isaac Lab's manager-based API with MuJoCo Warp, a GPU-accelerated version of MuJoCo. The framework provides composable building blocks for environment design, with minimal dependencies and direct access to native MuJoCo data structures.
+1. [MJLab:](https://github.com/mujocolab/mjlab) Isaac Lab-style environment design using GPU-accelerated MuJoCo Warp.
 
-2. [MUJOCO MPC:](https://github.com/google-deepmind/mujoco_mpc)
-MuJoCo MPC (MJPC) is an interactive application and software framework for real-time predictive control with MuJoCo, developed by Google DeepMind.
+2. [MUJOCO MPC:](https://github.com/google-deepmind/mujoco_mpc) A MuJoCo framework for real-time model predictive control.
 
-3. [MuJoCo-Playground:](https://github.com/google-deepmind/mujoco_playground)
-A comprehensive suite of GPU-accelerated environments for robot learning research and sim-to-real, built with MuJoCo MJX.
+3. [MuJoCo-Playground:](https://github.com/google-deepmind/mujoco_playground) A collection of GPU-ready robot learning environments built on MJX.
 
 #### Control of quadruped robots
 
