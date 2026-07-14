@@ -291,6 +291,9 @@ mjlab combines Isaac Lab's manager-based API with MuJoCo Warp, a GPU-accelerated
 2. [MUJOCO MPC:](https://github.com/google-deepmind/mujoco_mpc)
 MuJoCo MPC (MJPC) is an interactive application and software framework for real-time predictive control with MuJoCo, developed by Google DeepMind.
 
+3. [MuJoCo-Playground:](https://github.com/google-deepmind/mujoco_playground)
+A comprehensive suite of GPU-accelerated environments for robot learning research and sim-to-real, built with MuJoCo MJX.
+
 #### Control of quadruped robots
 
 1. [motion_imitation:](https://github.com/erwincoumans/motion_imitation/tree/master)
