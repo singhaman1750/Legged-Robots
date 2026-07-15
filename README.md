@@ -102,6 +102,7 @@ Use this repo as a quick index depending on what you are currently working on:
 
 </details>
 
+
 <details><summary><b> Non-Conventional Actuators</b></summary>
 
 1. **Brubotics VUB paper, IEEE Robotics and Automation Letters(2022)**: A Methodology for Designing a Lightweight and Energy-Efficient Kinematically Redundant Actuator [[Paper](https://ieeexplore.ieee.org/document/9834077)]
@@ -530,7 +531,7 @@ A gearbox visualizer tool build on Manim
 ---
 
 
-## 5) Buying Hardware & Parts
+## 5) Buying Hardware & Parts [[Buying Hardware Parts]]
 <details><summary><b>Motors</b></summary>
   
 1. [**TQ-Motors**](https://www.tq-group.com/de/produkte/tq-robodrive/): Used in Raibo Quadruped
