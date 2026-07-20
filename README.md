@@ -212,7 +212,7 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 5. **KAIST, HOUND design**: Design of KAIST HOUND, a Quadruped Robot Platform for Fast and Efficient Locomotion with Mixed-Integer Nonlinear Optimization of a Gear Train [[Paper](https://ieeexplore.ieee.org/abstract/document/9811755)]
 6. **Barry Robot**: Barry: A High-Payload and Agile Quadruped Robot [[Paper](https://ieeexplore.ieee.org/document/10246325)]
 7. **UIUC, Panther**: Design and experimental implementation of a quasi-direct-drive leg for optimized jumping [[Paper](https://ieeexplore.ieee.org/document/8202172)]
-8. **Stanford Doggo**: Stanford Doggo, an open source quasi-direct drive quadruped [[Paper](https://github.com/Nate711/StanfordDoggoProject)] [[Github](https://github.com/Nate711/StanfordDoggoProject)]
+8. **Stanford Doggo**: Stanford Doggo, an open source quasi-direct drive quadruped [[Paper](https://arxiv.org/abs/1905.04254)] [[Github](https://github.com/Nate711/StanfordDoggoProject)]
 9. **Solo Robot**: An Open Torque-Controlled Modular Robot Architecture for Legged Locomotion Research [[Paper](https://ieeexplore.ieee.org/document/9015985)]
 10. **MiniTaur**: Design Principles for a Family of Direct-Drive Legged Robots [[Paper](https://ieeexplore.ieee.org/document/7403902)]
 11. **Stoch, IISc**: Design, Development and Experimental Realization of A Quadrupedal Research Platform: Stoch [[Paper](https://ieeexplore.ieee.org/document/8813480)]
