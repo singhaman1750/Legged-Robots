@@ -2,7 +2,7 @@
 
 [← Back to Dashboard](../README.md)
 
-<details><summary><b>Youtube Project / Videos </b></summary>
+## Youtube Project / Videos
 
 #### Quadruped Robot projects
 
@@ -25,9 +25,7 @@
 
 1. Convert Solidworks CAD to URDF: [[YouTube-Playlist](https://youtube.com/playlist?list=PL5HnE_lHbcojyFJsQueN4xUTp5Iss5Mr7&si=TJT_1j2EFLc93PGW)]
 
-</details>
-
-<details><summary><b>Useful GitHub Repositories</b></summary>
+## Useful GitHub Repositories
 
 #### Mujoco Repositories
 
@@ -58,7 +56,6 @@
 1. [VI_discretized_TO:](https://github.com/DRCL-USC/VI_discretized_TO)
    Code for the Backflips of biped and quadruped robots using Traj_Opt using Variational Integration
 
-
 #### Mechanical Design
 
 1. [COMPAct:](https://github.com/singhaman1750/COMPAct-Actuator_design_framework.git)
@@ -75,16 +72,12 @@ A gearbox visualizer tool build on Manim
 2. [Pinocchio:](https://github.com/stack-of-tasks/pinocchio?tab=readme-ov-file#examples)
    Efficient and Versatile Rigid Body Dynamics Algorithms
 
-</details>
-
-<details><summary><b>Workshops</b></summary>
+## Workshops
 
 1. **ICRA 2024 Workshop on Co-design in Robotics: Theory, Practice, and Challenges**: [[Webpage](https://www.robotmechanisms.org/activities/icra-2024-codesign)]
 2. **ICRA 2024 Advancements in Trajectory Optimisation and Model Predictive Control for Legged Systems**: [[Webpage](https://atompc-workshop.github.io/)]
 
-</details>
-
-<details><summary><b>Video Lectures</b></summary>
+## Video Lectures
 
 #### Robotics and Controls:
 1. Robotics Fall 2023, by Pranav Bhounsule: [[Videos](https://youtube.com/playlist?list=PLc7bpbeTIk77plTksRXAe1JPJZVmBNk8_&feature=shared)][[Notes](https://pab47.github.io/robotics/robotics23.html)]
@@ -133,16 +126,12 @@ A gearbox visualizer tool build on Manim
 #### Informative videos
 1. **Materials**: Neodymium magnets [[Video-1: Brief history and use](https://youtu.be/XZZDy_R2h7E?si=wOG1tuobcxuZ3By6)] [[Video-2: Manufacturing_process](https://youtu.be/Egmi22VONS0?si=1Y3Cl43SdpTtWEuQ)]
 
-</details>
-
-<details><summary><b>Books</b></summary>
+## Books
 
 #### Mechanical Engineering
 1. [Statics and Dynamics: Andy Ruina](http://ruina.tam.cornell.edu/Book/RuinaPratap-July-12-2019.pdf)
 
-</details>
-
-<details><summary><b>Articles (Installs / Study / Technical)</b></summary>
+## Articles (Installs / Study / Technical)
 
 #### Technical topics:
 1. [DDP](http://www.imgeorgiev.com/2023-02-01-ddp/): A good read for DDP
@@ -175,9 +164,8 @@ A gearbox visualizer tool build on Manim
 #### Software installations:
 1. [Installing Anaconda on Ubuntu 22.04](https://linuxhint.com/install-anaconda-ubuntu-22-04/)
 2. [Installing Anaconda on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart)
-</details>
 
-<details><summary><b>Random Cool Stuff</b></summary>
+## Random Cool Stuff
 
 #### Mathematics
 1. **Lean**: Programming Language for Theorem prover [[Link](https://lean-lang.org/)] \
@@ -191,5 +179,4 @@ A gearbox visualizer tool build on Manim
 #### Useful Softwares:
 1. [WinDirStat](https://windirstat.net/download.html): Used to find large files in the system. Helpfull in cleaning up the system.
 
-</details>
 </content>

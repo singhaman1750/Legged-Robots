@@ -2,8 +2,7 @@
 
 [← Back to Dashboard](../README.md)
 
-<details>
-  <summary><b>Planetary Gearboxes</b></summary>
+## Planetary Gearboxes
 
   1. **MIT Mini Cheetah Actuator**: *Mini Cheetah: A Platform for Pushing the Limits of Dynamic Quadruped Control* [[Paper](https://ieeexplore.ieee.org/document/8793865)] [[Blog](https://build-its.blogspot.com/2019/12/the-mini-cheetah-robot.html)]
   2. **MIT Humanoid Actuator (Alex Hattori, Thesis)**: *Design of a High Torque Density Modular Actuator for Dynamic Robots* [[Thesis-Webpage](https://dspace.mit.edu/handle/1721.1/127165?show=full)]
@@ -12,10 +11,7 @@
   5. **Quasi-Direct Drive Actuator (ICRA 2024)**: *Design and Experimental Characterisation of a Novel Quasi-Direct Drive Actuator for Highly Dynamic Robotic Applications* [[Paper](https://ieeexplore.ieee.org/document/10611567)]
   6. **3D-Printed Open-Source Actuators (EmBiR Lab, Univ. of Michigan)**: *Design and Characterization of 3D Printed, Open-Source Actuators for Legged Locomotion* [[Paper](https://ieeexplore.ieee.org/document/9981940)] [[Open-Source Designs](https://www.embirlab.com/3dpactuator)]
 
-</details>
-
-<details>
-  <summary><b>Cycloidal Gearboxes</b></summary>
+## Cycloidal Gearboxes
 
 1. **Berkely Humanoid Lite**: *Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot* [[Paper](https://arxiv.org/abs/2504.17249)] [[Documentation](https://berkeley-humanoid-lite.gitbook.io/docs)] [[Github](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite)]
 2. **Wesley Roozing's Paper**: *Experimental comparison of pinwheel and non-pinwheel designs of 3D-printed cycloidal gearing for robotics* [[Paper](https://ieeexplore.ieee.org/abstract/document/10610250/)]
@@ -23,17 +19,12 @@
 4. **RoMeLa (UCLA)**: *Cycloidal Quasi-Direct Drive Actuator Designs with Learning-based Torque Estimation for Legged Robotics* [[Paper](https://arxiv.org/abs/2410.16591v2)]
 5. **Jun Ho Oh (KAIST)**: *Development of a Lightweight and High-efficiency Compact Cycloidal Reducer for Legged Robots* [[Paper](https://link.springer.com/article/10.1007/s12541-019-00215-9)]
 6. **Riccardo Bezzini (Sant'Anna School of Advanced Studies, Pisa, Italy)**: *Design and Validation of a Novel Quadruple-Disk CYcloidal Compact-cam Reducer for Robotic Applications: Q-CYC* [[Paper](https://www.researchgate.net/publication/405985179_Design_and_Validation_of_a_Novel_Quadruple-Disk_CYcloidal_Compact-cam_Reducer_for_Robotic_Applications_Q-CYC)]
-</details>
 
-<details>
-  <summary><b>Series Elastic Actuators (SEA)</b></summary>
+## Series Elastic Actuators (SEA)
   
 1. **High-Performance Series Elastic Actuation**: Paine, Nicholas Arden: Thesis [[Thesis-PDf](https://sites.utexas.edu/hcrl/files/2016/01/nick-paine-thesis-dissertation-2014.pdf)] [[Thesis-webpage-link](https://repositories.lib.utexas.edu/items/383f9e7f-2213-4bca-bd46-3aabdee6fda5)]
 
-</details>
-
-
-<details><summary><b>Non-Conventional Actuators</b></summary>
+## Non-Conventional Actuators
 
 1. **Brubotics VUB paper, IEEE Robotics and Automation Letters(2022)**: A Methodology for Designing a Lightweight and Energy-Efficient Kinematically Redundant Actuator [[Paper](https://ieeexplore.ieee.org/document/9834077)]
 2. **KAIST, Actuator Design**: DRPD, Dual Reduction Ratio Planetary Drive for Articulated Robot Actuators, IROS 2022 [[Paper](https://ieeexplore.ieee.org/abstract/document/9981201)]
@@ -52,16 +43,11 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 14. Double Actuator Unit with Planetary Gear Train for a Safe Manipulator, ICRA 2007. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4209243)]
 15. Improved Manipulation Efficiency Using a Serial-type Dual Actuator Unit, 2007. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4406874)]
 
-</details>
-
-<details>
-  <summary><b>Modelling actuator dynamics</b></summary>
+## Modelling actuator dynamics
   
 1. **Motor dynamics in RL, KAIST Hound**: Actuator-Constrained Reinforcement Learning for High-Speed Quadrupedal Locomotion [[Paper](https://arxiv.org/abs/2312.17507)]
 
-</details>
-
-<details><summary><b>Motor Theory & Dyno / Testing</b></summary>
+## Motor Theory & Dyno / Testing
   
 #### Motor Theory and Design
 1. Master's Thesis: James Mevey [[Thesis-Link](https://krex.k-state.edu/server/api/core/bitstreams/e3f7aa0b-4833-44e4-9ef0-af09f411baa1/content)]
@@ -82,5 +68,4 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 
 1. 3D Printed QDD Robotic Actuator (MIT Mini Cheetah Clone) : By nachumtwersky [[Blog-Link](https://www.instructables.com/3D-Printed-QDD-Robotic-Actuator-MIT-Mini-Cheetah-C/)]
 
-</details>
 </content>

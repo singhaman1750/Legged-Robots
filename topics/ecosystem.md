@@ -2,7 +2,7 @@
 
 [← Back to Dashboard](../README.md)
 
-<details><summary><b>Professors & Labs</b></summary>
+## Professors & Labs
 
 #### India
 * **Shishir N Y**, Stochastic Robotics Lab, RBCCPS, IISc Bengaluru [[Personal Website](https://www.shishirny.com/)][[Lab website](https://www.stochlab.com/)]
@@ -38,9 +38,7 @@
 #### Other Labs
 * **Sony Quadruped Research** [Website](https://www.sony.com/en/SonyInfo/research/technologies/new_mobility/)
 
-</details>
-
-<details><summary><b>List of Robotics Conferences and Journals</b></summary>
+## List of Robotics Conferences and Journals
   
 1. **List of Top Robotics Conferences and Publications**: [[List on Google Scholar Webpage](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)]
       1. *A few ASME Conferences and Journals*:
@@ -55,9 +53,7 @@
         
 2. **IEEE publication recommender:** [[Link](https://publication-recommender.ieee.org/home)]
 
-</details>
-
-<details><summary><b>Robotics Companies</b></summary>
+## Robotics Companies
   
 ### India
 #### Legged robotics
@@ -77,5 +73,4 @@
 #### Actuators and Manipulators
 * **Twara Robotics**, [[Website](https://twararobotics.in/)] [[LinkedIn](https://www.linkedin.com/company/twara-robotics/)]
 
-</details>
 </content>
