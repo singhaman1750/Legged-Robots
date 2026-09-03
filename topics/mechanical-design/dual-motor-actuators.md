@@ -15,6 +15,6 @@ planetary differential and holding brakes [[Paper](https://reader.elsevier.com/r
 10. **Alexandre Girard's paper, Hamburg, Germany IROS(2015)**: A Two-Speed Actuator for Robotics with Fast Seamless Gear Shifting [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7354047)]
 11. A Dual-Motor Robot Joint Mechanism with Epicyclic Gear Train, IROS 2014 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6942601)]
 12. **Hoyul Lee's Paper, ASME/IEEE Transactions on mechatronics(2012)**: A New Actuator System Using Dual-Motors and a Planetary Gear [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6022796)]
-13. **Jung Jun Park' paper, ASME/IEEE Transactions on mechatronics(2010)**: A Serial-Type Dual Actuator Unit With Planetary Gear Train: Basic Design and Applications [[Paper — ⚠ link currently points to the same document as John Harry Bell's thesis above, needs verification](https://dspace.mit.edu/bitstream/handle/1721.1/127152/1191839946-MIT.pdf?sequence=1&isAllowed=y)]
+13. **Jung Jun Park' paper, ASME/IEEE Transactions on mechatronics(2010)**: A Serial-Type Dual Actuator Unit With Planetary Gear Train: Basic Design and Applications [[Paper](https://ieeexplore.ieee.org/document/4840358)]
 14. Double Actuator Unit with Planetary Gear Train for a Safe Manipulator, ICRA 2007. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4209243)]
 15. Improved Manipulation Efficiency Using a Serial-type Dual Actuator Unit, 2007. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4406874)]
