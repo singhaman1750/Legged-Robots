@@ -1,5 +1,7 @@
 # Ecosystem
 
+[← Back to Dashboard](../README.md)
+
 <details><summary><b>Professors & Labs</b></summary>
 
 #### India

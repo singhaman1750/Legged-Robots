@@ -1,5 +1,7 @@
 # Legged Robot Control
 
+[← Back to Dashboard](../README.md)
+
 <details><summary><b>Model based Control: Quadrupeds </b></summary>
   
 1. **Survey Paper**: Optimization-Based Control for Dynamic Legged Robots [[Paper](https://arxiv.org/abs/2211.11644)]

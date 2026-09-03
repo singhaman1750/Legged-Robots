@@ -1,5 +1,7 @@
 # Actuators & Transmissions
 
+[← Back to Dashboard](../README.md)
+
 <details>
   <summary><b>Planetary Gearboxes</b></summary>
 

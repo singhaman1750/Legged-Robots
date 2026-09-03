@@ -1,5 +1,7 @@
 # Legged Robot Mechanical Design & Co-Design
 
+[← Back to Dashboard](../README.md)
+
 <details><summary><b>Design Principles for legged robots:</b></summary>
   
 1. **MIT, Design Principles**: Design principles for highly efficient quadrupeds and implementation on the MIT Cheetah robot [[Paper](https://ieeexplore.ieee.org/document/6631038)]

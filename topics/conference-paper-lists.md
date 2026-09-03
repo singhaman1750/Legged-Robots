@@ -1,5 +1,7 @@
 # Full Conference Paper Lists
 
+[← Back to Dashboard](../README.md)
+
 <details><summary><b>ICRA</b></summary>
   
   1. **ICRA 2025:** [[Github](https://github.com/DoongLi/ICRA2025-Paper-List)]

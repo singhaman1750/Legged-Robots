@@ -1,5 +1,7 @@
 # Hands-on Resources
 
+[← Back to Dashboard](../README.md)
+
 <details><summary><b>Youtube Project / Videos </b></summary>
 
 #### Quadruped Robot projects

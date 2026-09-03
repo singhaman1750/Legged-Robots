@@ -1,5 +1,7 @@
 # Buying Hardware & Parts
 
+[← Back to Dashboard](../README.md)
+
 <details><summary><b>Motors</b></summary>
   
 1. [**TQ-Motors**](https://www.tq-group.com/de/produkte/tq-robodrive/): Used in Raibo Quadruped
