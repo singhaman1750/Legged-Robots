@@ -1,10 +1,11 @@
 # Legged-Robots
+
+A curated collection of papers, videos, tools, and references for legged robotics (actuators, control, design).
+
 [![GitHub stars](https://img.shields.io/github/stars/singhaman1750/Legged-Robots?style=social)](https://github.com/singhaman1750/Legged-Robots/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/singhaman1750/Legged-Robots?style=social)](https://github.com/singhaman1750/Legged-Robots/network/members)
 [![Last commit](https://img.shields.io/github/last-commit/singhaman1750/Legged-Robots)](https://github.com/singhaman1750/Legged-Robots/commits)
 [![Contributors](https://img.shields.io/github/contributors/singhaman1750/Legged-Robots)](https://github.com/singhaman1750/Legged-Robots/graphs/contributors)
-
-A curated collection of papers, videos, tools, and references for legged robotics (actuators, control, design).
 
 ---
 
