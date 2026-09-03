@@ -5,8 +5,8 @@ A curated collection of papers, videos, tools, and references for legged robotic
 
 ## Table of Contents
 - [Start Here](#start-here)
-- [1) Full Conference Paper Lists](topics/conference-paper-lists.md)
-- 2) Curated Papers by Topic
+- [Full Conference Paper Lists](topics/conference-paper-lists.md)
+- Curated Papers by Topic
   - [2.1 Actuators & Transmissions](topics/actuators-and-transmissions.md)
   - [2.2 Legged Robot Control](topics/legged-robot-control.md)
   - [2.3 Legged Robot Mechanical Design & Co-Design](topics/mechanical-design-and-codesign.md)
