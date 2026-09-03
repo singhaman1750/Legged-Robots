@@ -24,7 +24,7 @@
   
 1. **High-Performance Series Elastic Actuation**: Paine, Nicholas Arden: Thesis [[Thesis-PDf](https://sites.utexas.edu/hcrl/files/2016/01/nick-paine-thesis-dissertation-2014.pdf)] [[Thesis-webpage-link](https://repositories.lib.utexas.edu/items/383f9e7f-2213-4bca-bd46-3aabdee6fda5)]
 
-## Non-Conventional Actuators
+## Dual-Motor Actuators
 
 1. **Brubotics VUB paper, IEEE Robotics and Automation Letters(2022)**: A Methodology for Designing a Lightweight and Energy-Efficient Kinematically Redundant Actuator [[Paper](https://ieeexplore.ieee.org/document/9834077)]
 2. **KAIST, Actuator Design**: DRPD, Dual Reduction Ratio Planetary Drive for Articulated Robot Actuators, IROS 2022 [[Paper](https://ieeexplore.ieee.org/abstract/document/9981201)]
