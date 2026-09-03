@@ -35,9 +35,7 @@ A curated collection of papers, videos, tools, and references for legged robotic
 ### Co-design Optimization of Legged Robots
 - [Design Optimization and Co-Design Optimization](topics/design-and-codesign-optimization.md)
 
-## Community & Resources
-
-### Hands-on Resources
+## Hands-on Resources
 - [YouTube Projects and Videos](topics/youtube-projects-and-videos.md)
 - [Useful GitHub Repositories](topics/useful-github-repositories.md)
 - [Workshops](topics/workshops.md)
@@ -46,6 +44,7 @@ A curated collection of papers, videos, tools, and references for legged robotic
 - [Articles](topics/articles.md)
 - [Random Cool Stuff](topics/random-cool-stuff.md)
 
+## Community
 - [Professors & Labs](topics/professors-and-labs.md) — researchers and labs working on legged robots, by region
 - [Conferences & Journals](topics/conferences-and-journals.md) — venues, deadlines, and dates for robotics and space robotics, plus yearly ICRA/IROS/Humanoids paper lists
 - [Robotics Companies](topics/robotics-companies.md) — India-focused directory across legged/humanoid, AMR, actuators, drones, and more
