@@ -1,4 +1,4 @@
-# Marine Robotics – ROV / AUV / USV
+# Marine Robotics - ROV / AUV / USV
 
 [← Back to Dashboard](../../README.md) · [← Back to Robotics Companies](../robotics-companies.md)
 
