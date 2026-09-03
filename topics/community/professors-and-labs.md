@@ -37,7 +37,6 @@
 #### China
 
 * **Qiuguo Zhu**, Zhejiang University: Humanoid robots, biomimetic robots and machine intelligence [[Personal Page](https://person.zju.edu.cn/en/0011353)]
-* **Yong Liu**, APRIL Lab, Zhejiang University: Quadruped locomotion, robot perception, navigation and learning [[Personal Page](https://april.zju.edu.cn/team/dr-yong-liu/)][[Lab Website](https://april.zju.edu.cn/)]
 * **Qiang Zhang**, University of Science and Technology of China (USTC): Humanoid robots, reinforcement learning, perception, planning and control [[Personal Website](https://jonyzhang2023.github.io/)]
 * **Qiqiang Hu**, Institute of Humanoid Robots, University of Science and Technology of China (USTC): Humanoid robotics, robot structure design, actuation, perception and control [[Personal Page](https://faculty.ustc.edu.cn/huqiqiang/en/index.htm)]
 * **Gao Feng**, Shanghai Jiao Tong University: Quadruped robot mechanisms, mechanical design and high-performance legged robotic systems [[Personal Page](https://me.sjtu.edu.cn/en/FullTimeTeacher/gaofeng.html)]
