@@ -38,7 +38,6 @@
 
 * **Qiuguo Zhu**, Zhejiang University: Humanoid robots, biomimetic robots and machine intelligence [[Personal Page](https://person.zju.edu.cn/en/0011353)]
 * **Qiang Zhang**, University of Science and Technology of China (USTC): Humanoid robots, reinforcement learning, perception, planning and control [[Personal Website](https://jonyzhang2023.github.io/)]
-* **Qiqiang Hu**, Institute of Humanoid Robots, University of Science and Technology of China (USTC): Humanoid robotics, robot structure design, actuation, perception and control [[Personal Page](https://faculty.ustc.edu.cn/huqiqiang/en/index.htm)]
 * **Gao Feng**, Shanghai Jiao Tong University: Quadruped robot mechanisms, mechanical design and high-performance legged robotic systems [[Personal Page](https://me.sjtu.edu.cn/en/FullTimeTeacher/gaofeng.html)]
 * **Yang Gao**, Vision and Robotics Lab, Tsinghua University: Humanoid robot control, reinforcement learning and embodied intelligence [[Lab Website](https://iiis.tsinghua.edu.cn/en/Research/Research_Groups/Vision_and_Robotics_Lab.htm)]
 * **Yi Li**, Laboratory of 3D Vision Computing and Machine Intelligence, Tsinghua University: Humanoid robot learning, 3D perception and embodied intelligence [[Lab Website](https://iiis.tsinghua.edu.cn/en/Research/Research_Groups/Laboratory_of_3D_Vision_Computing_and_Machine_Inte.htm)]
