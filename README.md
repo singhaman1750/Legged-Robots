@@ -11,11 +11,6 @@ A curated collection of papers, videos, tools, and references for legged robotic
 ## Topics
 Click a topic to see the full list.
 
-### Papers
-- [Conference Paper Lists](topics/conference-paper-lists.md) — ICRA, IROS, Humanoids, T-RO
-- [Legged Robot Control](topics/legged-robot-control.md) — model-based (MPC/WBC) and learning-based (RL) control
-- [Mechanical Design & Co-Design](topics/mechanical-design-and-codesign.md) — quadruped/humanoid design papers, co-design optimization, patents
-
 ### Actuators & Transmissions
 - [Planetary Gearboxes](topics/planetary-gearboxes.md)
 - [Cycloidal Gearboxes](topics/cycloidal-gearboxes.md)
@@ -24,10 +19,23 @@ Click a topic to see the full list.
 - [Modelling Actuator Dynamics](topics/modelling-actuator-dynamics.md)
 - [Motor Theory & Dyno / Testing](topics/motor-theory-and-dyno-testing.md)
 
+### Legged Robot Control
+- [Model-based Control: Quadrupeds](topics/model-based-control-quadrupeds.md)
+- [Learning-based Control: Quadrupeds](topics/learning-based-control-quadrupeds.md)
+- [Interesting Behaviors in Quadrupeds](topics/interesting-behaviors-in-quadrupeds.md)
+- [Learning-based Control: Humanoids](topics/learning-based-control-humanoids.md)
+
+### Mechanical Design & Co-Design
+- [Design Principles for Legged Robots](topics/design-principles.md)
+- [Quadruped Robot Design Papers](topics/quadruped-robot-design.md)
+- [Humanoid Robot Design](topics/humanoid-robot-design.md)
+- [Design Optimization and Co-Design Optimization](topics/design-and-codesign-optimization.md)
+- [Design Patents](topics/design-patents.md)
+
 ### Community & Resources
 - [Hands-on Resources](topics/hands-on-resources.md) — YouTube builds, GitHub repos, workshops, lectures, books
 - [Professors & Labs](topics/professors-and-labs.md) — researchers and labs working on legged robots, by region
-- [Conferences & Journals](topics/conferences-and-journals.md) — venues, deadlines, and dates for robotics and space robotics
+- [Conferences & Journals](topics/conferences-and-journals.md) — venues, deadlines, and dates for robotics and space robotics, plus yearly ICRA/IROS/Humanoids paper lists
 - [Robotics Companies](topics/robotics-companies.md) — India-focused directory across legged/humanoid, AMR, actuators, drones, and more
 
 ### Hardware
