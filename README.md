@@ -13,9 +13,16 @@ Click a topic to see the full list.
 
 ### Papers
 - [Conference Paper Lists](topics/conference-paper-lists.md) — ICRA, IROS, Humanoids, T-RO
-- [Actuators & Transmissions](topics/actuators-and-transmissions.md) — gearboxes, SEAs, dual-motor designs, motor theory & dyno testing
 - [Legged Robot Control](topics/legged-robot-control.md) — model-based (MPC/WBC) and learning-based (RL) control
 - [Mechanical Design & Co-Design](topics/mechanical-design-and-codesign.md) — quadruped/humanoid design papers, co-design optimization, patents
+
+### Actuators & Transmissions
+- [Planetary Gearboxes](topics/planetary-gearboxes.md)
+- [Cycloidal Gearboxes](topics/cycloidal-gearboxes.md)
+- [Series Elastic Actuators (SEA)](topics/series-elastic-actuators.md)
+- [Dual-Motor Actuators](topics/dual-motor-actuators.md)
+- [Modelling Actuator Dynamics](topics/modelling-actuator-dynamics.md)
+- [Motor Theory & Dyno / Testing](topics/motor-theory-and-dyno-testing.md)
 
 ### Community & Resources
 - [Hands-on Resources](topics/hands-on-resources.md) — YouTube builds, GitHub repos, workshops, lectures, books
