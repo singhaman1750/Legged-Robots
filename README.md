@@ -19,7 +19,9 @@ Click a topic to see the full list.
 
 ### Community & Resources
 - [Hands-on Resources](topics/hands-on-resources.md) — YouTube builds, GitHub repos, workshops, lectures, books
-- [Ecosystem](topics/ecosystem.md) — professors & labs, conferences/journals, companies
+- [Professors & Labs](topics/professors-and-labs.md) — researchers and labs working on legged robots, by region
+- [Conferences & Journals](topics/conferences-and-journals.md) — venues, deadlines, and dates for robotics and space robotics
+- [Robotics Companies](topics/robotics-companies.md) — India-focused directory across legged/humanoid, AMR, actuators, drones, and more
 
 ### Hardware
 - [Buying Hardware & Parts](topics/buying-hardware-and-parts.md) — motors, drivers, stators, magnets, manufacturing tools
