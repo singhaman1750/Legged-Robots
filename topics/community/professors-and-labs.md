@@ -68,6 +68,10 @@
 * **Kenji Hashimoto**, Waseda University: Humanoid robot design and biped locomotion [[Lab Website](https://www.humanoid.waseda.ac.jp/)]
 * **Masayuki Inaba**, JSK Robotics Laboratory, University of Tokyo: Humanoid robot design, musculoskeletal robots and whole-body robotics [[JSK Website](https://www.jsk.t.u-tokyo.ac.jp/)]
 
+#### China 
+
+* List is huge coming soon
+
 #### Other Relevant Research Groups
 
 * **Sony AI / Sony Robotics**: Quadruped locomotion and robot learning [[Website](https://ai.sony/)]
