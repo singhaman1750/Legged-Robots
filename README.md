@@ -13,42 +13,42 @@ A curated collection of papers, videos, tools, and references for legged robotic
 ### Legged Robot Mechanical Design
 
 #### Actuators, Gearboxes and Motors
-- [Planetary Gearboxes](topics/planetary-gearboxes.md)
-- [Cycloidal Gearboxes](topics/cycloidal-gearboxes.md)
-- [Series Elastic Actuators (SEA)](topics/series-elastic-actuators.md)
-- [Dual-Motor Actuators](topics/dual-motor-actuators.md)
-- [Modelling Actuator Dynamics](topics/modelling-actuator-dynamics.md)
-- [Motor Theory & Dyno / Testing](topics/motor-theory-and-dyno-testing.md)
+- [Planetary Gearboxes](topics/mechanical-design/planetary-gearboxes.md)
+- [Cycloidal Gearboxes](topics/mechanical-design/cycloidal-gearboxes.md)
+- [Series Elastic Actuators (SEA)](topics/mechanical-design/series-elastic-actuators.md)
+- [Dual-Motor Actuators](topics/mechanical-design/dual-motor-actuators.md)
+- [Modelling Actuator Dynamics](topics/mechanical-design/modelling-actuator-dynamics.md)
+- [Motor Theory & Dyno / Testing](topics/mechanical-design/motor-theory-and-dyno-testing.md)
 
 #### Robot Design
-- [Design Principles for Legged Robots](topics/design-principles.md)
-- [Quadruped Robot Design Papers](topics/quadruped-robot-design.md)
-- [Humanoid Robot Design](topics/humanoid-robot-design.md)
-- [Design Patents](topics/design-patents.md)
+- [Design Principles for Legged Robots](topics/mechanical-design/design-principles.md)
+- [Quadruped Robot Design Papers](topics/mechanical-design/quadruped-robot-design.md)
+- [Humanoid Robot Design](topics/mechanical-design/humanoid-robot-design.md)
+- [Design Patents](topics/mechanical-design/design-patents.md)
 
 ### Legged Robot Control
-- [Model-based Control: Quadrupeds](topics/model-based-control-quadrupeds.md)
-- [Learning-based Control: Quadrupeds](topics/learning-based-control-quadrupeds.md)
-- [Interesting Behaviors in Quadrupeds](topics/interesting-behaviors-in-quadrupeds.md)
-- [Learning-based Control: Humanoids](topics/learning-based-control-humanoids.md)
+- [Model-based Control: Quadrupeds](topics/control/model-based-control-quadrupeds.md)
+- [Learning-based Control: Quadrupeds](topics/control/learning-based-control-quadrupeds.md)
+- [Interesting Behaviors in Quadrupeds](topics/control/interesting-behaviors-in-quadrupeds.md)
+- [Learning-based Control: Humanoids](topics/control/learning-based-control-humanoids.md)
 
 ### Co-design Optimization of Legged Robots
-- [Design Optimization and Co-Design Optimization](topics/design-and-codesign-optimization.md)
+- [Design Optimization and Co-Design Optimization](topics/co-design/design-and-codesign-optimization.md)
 
 ## Hands-on Resources
-- [YouTube Projects and Videos](topics/youtube-projects-and-videos.md)
-- [Useful GitHub Repositories](topics/useful-github-repositories.md)
-- [Workshops](topics/workshops.md)
-- [Video Lectures](topics/video-lectures.md)
-- [Books](topics/books.md)
-- [Articles](topics/articles.md)
-- [Random Cool Stuff](topics/random-cool-stuff.md)
+- [YouTube Projects and Videos](topics/hands-on/youtube-projects-and-videos.md)
+- [Useful GitHub Repositories](topics/hands-on/useful-github-repositories.md)
+- [Workshops](topics/hands-on/workshops.md)
+- [Video Lectures](topics/hands-on/video-lectures.md)
+- [Books](topics/hands-on/books.md)
+- [Articles](topics/hands-on/articles.md)
+- [Random Cool Stuff](topics/hands-on/random-cool-stuff.md)
 
 ## Community
-- [Professors & Labs](topics/professors-and-labs.md) — researchers and labs working on legged robots, by region
-- [Conferences & Journals](topics/conferences-and-journals.md) — venues, deadlines, and dates for robotics and space robotics, plus yearly ICRA/IROS/Humanoids paper lists
-- [Robotics Companies](topics/robotics-companies.md) — India-focused directory across legged/humanoid, AMR, actuators, drones, and more
+- [Professors & Labs](topics/community/professors-and-labs.md) — researchers and labs working on legged robots, by region
+- [Conferences & Journals](topics/community/conferences-and-journals.md) — venues, deadlines, and dates for robotics and space robotics, plus yearly ICRA/IROS/Humanoids paper lists
+- [Robotics Companies](topics/community/robotics-companies.md) — India-focused directory across legged/humanoid, AMR, actuators, drones, and more
 
 ## Hardware
-- [Buying Hardware & Parts](topics/buying-hardware-and-parts.md) — motors, drivers, stators, magnets, manufacturing tools
+- [Buying Hardware & Parts](topics/hardware/buying-hardware-and-parts.md) — motors, drivers, stators, magnets, manufacturing tools
 </content>
