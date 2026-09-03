@@ -52,6 +52,11 @@
             4. Transaction on Robotics (T-RO) etc.
         
 2. **IEEE publication recommender:** [[Link](https://publication-recommender.ieee.org/home)]
+3. **Transactions on Robotics (T-RO)**:
+      - **All Issues**: [[Link](https://ieeexplore.ieee.org/xpl/issues?punumber=8860&isnumber=11297026)]
+      - **2026**: [[Link](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=11297026&punumber=8860)]
+      - **2025**: [[Link](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10778592&punumber=8860)]
+      - **2024**: [[Link](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10365208&punumber=8860)]
 
 ## Robotics Companies
   
