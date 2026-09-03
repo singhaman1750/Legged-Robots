@@ -11,7 +11,9 @@ A curated collection of papers, videos, tools, and references for legged robotic
 ## Topics
 Click a topic to see the full list.
 
-### Actuators & Transmissions
+### Research Papers
+
+#### Actuators & Transmissions
 - [Planetary Gearboxes](topics/planetary-gearboxes.md)
 - [Cycloidal Gearboxes](topics/cycloidal-gearboxes.md)
 - [Series Elastic Actuators (SEA)](topics/series-elastic-actuators.md)
@@ -19,13 +21,13 @@ Click a topic to see the full list.
 - [Modelling Actuator Dynamics](topics/modelling-actuator-dynamics.md)
 - [Motor Theory & Dyno / Testing](topics/motor-theory-and-dyno-testing.md)
 
-### Legged Robot Control
+#### Legged Robot Control
 - [Model-based Control: Quadrupeds](topics/model-based-control-quadrupeds.md)
 - [Learning-based Control: Quadrupeds](topics/learning-based-control-quadrupeds.md)
 - [Interesting Behaviors in Quadrupeds](topics/interesting-behaviors-in-quadrupeds.md)
 - [Learning-based Control: Humanoids](topics/learning-based-control-humanoids.md)
 
-### Mechanical Design & Co-Design
+#### Mechanical Design & Co-Design
 - [Design Principles for Legged Robots](topics/design-principles.md)
 - [Quadruped Robot Design Papers](topics/quadruped-robot-design.md)
 - [Humanoid Robot Design](topics/humanoid-robot-design.md)
