@@ -34,6 +34,16 @@
 * **Katie Byl**, University of California Santa Barbara: Legged locomotion, rough-terrain walking and dynamics/control [[Personal Page](https://engineering.ucsb.edu/people/katie-byl)]
 * **Jonathan Hurst**, Dynamic Robotics Laboratory, Oregon State University: Legged robot hardware, actuators, dynamics and locomotion [[Lab Website](https://mime.oregonstate.edu/research/drl)]
 
+#### China
+
+* **Qiuguo Zhu**, Zhejiang University: Humanoid robots, biomimetic robots and machine intelligence [[Personal Page](https://person.zju.edu.cn/en/0011353)]
+* **Yong Liu**, APRIL Lab, Zhejiang University: Quadruped locomotion, robot perception, navigation and learning [[Personal Page](https://april.zju.edu.cn/team/dr-yong-liu/)][[Lab Website](https://april.zju.edu.cn/)]
+* **Qiang Zhang**, University of Science and Technology of China (USTC): Humanoid robots, reinforcement learning, perception, planning and control [[Personal Website](https://jonyzhang2023.github.io/)]
+* **Qiqiang Hu**, Institute of Humanoid Robots, University of Science and Technology of China (USTC): Humanoid robotics, robot structure design, actuation, perception and control [[Personal Page](https://faculty.ustc.edu.cn/huqiqiang/en/index.htm)]
+* **Gao Feng**, Shanghai Jiao Tong University: Quadruped robot mechanisms, mechanical design and high-performance legged robotic systems [[Personal Page](https://me.sjtu.edu.cn/en/FullTimeTeacher/gaofeng.html)]
+* **Yang Gao**, Vision and Robotics Lab, Tsinghua University: Humanoid robot control, reinforcement learning and embodied intelligence [[Lab Website](https://iiis.tsinghua.edu.cn/en/Research/Research_Groups/Vision_and_Robotics_Lab.htm)]
+* **Yi Li**, Laboratory of 3D Vision Computing and Machine Intelligence, Tsinghua University: Humanoid robot learning, 3D perception and embodied intelligence [[Lab Website](https://iiis.tsinghua.edu.cn/en/Research/Research_Groups/Laboratory_of_3D_Vision_Computing_and_Machine_Inte.htm)]
+
 #### Europe
 
 ##### Switzerland
@@ -67,10 +77,6 @@
 
 * **Kenji Hashimoto**, Waseda University: Humanoid robot design and biped locomotion [[Lab Website](https://www.humanoid.waseda.ac.jp/)]
 * **Masayuki Inaba**, JSK Robotics Laboratory, University of Tokyo: Humanoid robot design, musculoskeletal robots and whole-body robotics [[JSK Website](https://www.jsk.t.u-tokyo.ac.jp/)]
-
-#### China 
-
-* List is huge coming soon
 
 #### Other Relevant Research Groups
 
