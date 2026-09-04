@@ -50,5 +50,5 @@ A curated collection of papers, videos, tools, and references for legged robotic
 - [Robotics Companies](topics/community/robotics-companies.md): India-focused directory across legged/humanoid, AMR, actuators, drones, and more
 
 ## Hardware
-- [Buying Hardware & Parts](topics/hardware/buying-hardware-and-parts.md) — motors, drivers, stators, magnets, manufacturing tools
+- [Buying Hardware & Parts](topics/hardware/buying-hardware-and-parts.md): Motors, drivers, stators, magnets, manufacturing tools
 </content>
