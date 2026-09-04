@@ -45,9 +45,9 @@ A curated collection of papers, videos, tools, and references for legged robotic
 - [Random Cool Stuff](topics/hands-on/random-cool-stuff.md)
 
 ## Community
-- [Professors & Labs](topics/community/professors-and-labs.md) — researchers and labs working on legged robots, by region
-- [Conferences & Journals](topics/community/conferences-and-journals.md) — venues, deadlines, and dates for robotics and space robotics, plus yearly ICRA/IROS/Humanoids paper lists
-- [Robotics Companies](topics/community/robotics-companies.md) — India-focused directory across legged/humanoid, AMR, actuators, drones, and more
+- [Professors & Labs](topics/community/professors-and-labs.md): Researchers and labs working on legged robots, by region
+- [Conferences & Journals](topics/community/conferences-and-journals.md): Venues, deadlines, and dates for robotics and space robotics, plus yearly ICRA/IROS/Humanoids paper lists
+- [Robotics Companies](topics/community/robotics-companies.md): India-focused directory across legged/humanoid, AMR, actuators, drones, and more
 
 ## Hardware
 - [Buying Hardware & Parts](topics/hardware/buying-hardware-and-parts.md) — motors, drivers, stators, magnets, manufacturing tools
