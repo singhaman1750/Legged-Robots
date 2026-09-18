@@ -45,3 +45,5 @@
 20. **ToddlerBot, Stanford** (2025, CoRL 2025): ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation [[Paper](https://proceedings.mlr.press/v305/shi25a.html)] [[Website](https://toddlerbot.github.io/)] [[Github](https://github.com/hshi74/toddlerbot)] [[Videos](https://toddlerbot.github.io/)]
 
 21. **AGILOped, University of Bonn / NimbRo** (2025, IEEE ICARM): AGILOped: Agile Open-Source Humanoid Robot for Research [[Paper](https://arxiv.org/abs/2509.09364)] [[Website](https://ais.uni-bonn.de/nimbro/Humanoid/AGILOped/)] [[Github / CAD](https://github.com/gficht/AGILOped_model)]
+
+22. **KAIST Humanoid, KAIST University, South Korea** (2025, IEEE Humanoids): Design of a 3-DOF Hopping Robot with an Optimized Gearbox: An Intermediate Platform Toward Bipedal Robots [[Paper](https://arxiv.org/abs/2505.12231)] [[Video1](https://www.youtube.com/watch?v=9qZcTMARvpk)] [[Video2](https://www.youtube.com/watch?v=ytWO7lldN4c)]
