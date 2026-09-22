@@ -13,8 +13,8 @@ A curated collection of papers, videos, tools, and references for legged robotic
 ### Legged Robot Mechanical Design
 
 #### Robot Design
+- [Humanoid Robot Design Papers](topics/mechanical-design/humanoid-robot-design.md)
 - [Quadruped Robot Design Papers](topics/mechanical-design/quadruped-robot-design.md)
-- [Humanoid Robot Design](topics/mechanical-design/humanoid-robot-design.md)
 - [Design Principles for Legged Robots](topics/mechanical-design/design-principles.md)
 - [Design Patents](topics/mechanical-design/design-patents.md)
 
