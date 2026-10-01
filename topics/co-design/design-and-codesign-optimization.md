@@ -8,16 +8,17 @@
 
 ### Quadruped: Model-Based Control and Trajectory Optimization
 
-1. A Versatile Co-Design Approach for Dynamic Legged Robots [[Paper](https://arxiv.org/abs/2103.04660)]
-2. Co-designing Versatile Quadruped Robots for Dynamic and Energy-Efficient Motions [[Paper](https://www.cambridge.org/core/journals/robotica/article/codesigning-versatile-quadruped-robots-for-dynamic-and-energyefficient-motions/4BB90A9CB0BCBC185613E0DC7D0D88B0)]
-3. Control-Aware Design Optimization for Bio-Inspired Quadruped Robots [[Paper](https://crl.ethz.ch/papers/controlAwareDesign.pdf)]
-4. Vitruvio: An Open-Source Leg Design Optimization Toolbox for Walking Robots [[Paper](https://doi.org/10.1109/LRA.2020.3010208)]
-5. Task-Based Limb Optimization for Legged Robots [[Paper](https://alexalspach.com/assets/files/papers/2016-Ha_Coros_Alspach_Kim_Yamane-Task_based_Limb_Optimization_for_Legged_Robots.pdf)]
-6. Computational Co-Optimization of Design Parameters and Motion Trajectories for Robotic Systems [[Paper](https://doi.org/10.1177/0278364918771172)]
-7. One Robot for Many Tasks: Versatile Co-Design Through Stochastic Programming [[Paper](https://doi.org/10.1109/LRA.2020.2969948)]
-8. Engineering Compliance in Legged Robots via Robust Co-Design [[Paper](https://doi.org/10.1109/TMECH.2024.3382305)]
-9. Computational design of energy-efficient legged robots:  Optimizing for size and actuators [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9560988)]
-10. Computational design towards energy efficient optimization in over-constrained robotic limbs [[Paper](https://www.semanticscholar.org/paper/Computational-design-towards-energy-efficient-in-Gu-Wang/6f950cb1d8fc31b72cffca80c89761e65a3bed81)]
+1. Concurrent Optimization of Mechanical Design and Locomotion Control of a Legged Robot [[Paper](https://studios.disneyresearch.com/wp-content/uploads/2019/03/Concurrent-Optimization-of-Mechanical-Design-and-Locomotion-Control-of-a-Legged-Robot-Paper.pdf)]
+2. A Versatile Co-Design Approach for Dynamic Legged Robots [[Paper](https://arxiv.org/abs/2103.04660)]
+3. Co-designing Versatile Quadruped Robots for Dynamic and Energy-Efficient Motions [[Paper](https://www.cambridge.org/core/journals/robotica/article/codesigning-versatile-quadruped-robots-for-dynamic-and-energyefficient-motions/4BB90A9CB0BCBC185613E0DC7D0D88B0)]
+4. Control-Aware Design Optimization for Bio-Inspired Quadruped Robots [[Paper](https://crl.ethz.ch/papers/controlAwareDesign.pdf)]
+5. Vitruvio: An Open-Source Leg Design Optimization Toolbox for Walking Robots [[Paper](https://doi.org/10.1109/LRA.2020.3010208)]
+6. Task-Based Limb Optimization for Legged Robots [[Paper](https://alexalspach.com/assets/files/papers/2016-Ha_Coros_Alspach_Kim_Yamane-Task_based_Limb_Optimization_for_Legged_Robots.pdf)]
+7. Computational Co-Optimization of Design Parameters and Motion Trajectories for Robotic Systems [[Paper](https://doi.org/10.1177/0278364918771172)]
+8. One Robot for Many Tasks: Versatile Co-Design Through Stochastic Programming [[Paper](https://doi.org/10.1109/LRA.2020.2969948)]
+9. Engineering Compliance in Legged Robots via Robust Co-Design [[Paper](https://doi.org/10.1109/TMECH.2024.3382305)]
+10. Computational design of energy-efficient legged robots:  Optimizing for size and actuators [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9560988)]
+11. Computational design towards energy efficient optimization in over-constrained robotic limbs [[Paper](https://www.semanticscholar.org/paper/Computational-design-towards-energy-efficient-in-Gu-Wang/6f950cb1d8fc31b72cffca80c89761e65a3bed81)]
 
 ### Quadruped: Reinforcement Learning-Based Control
 
