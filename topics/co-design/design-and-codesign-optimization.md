@@ -16,6 +16,7 @@
 6. Computational Co-Optimization of Design Parameters and Motion Trajectories for Robotic Systems [[Paper](https://doi.org/10.1177/0278364918771172)]
 7. One Robot for Many Tasks: Versatile Co-Design Through Stochastic Programming [[Paper](https://doi.org/10.1109/LRA.2020.2969948)]
 8. Engineering Compliance in Legged Robots via Robust Co-Design [[Paper](https://doi.org/10.1109/TMECH.2024.3382305)]
+9. Computational design of energy-efficient legged robots:  Optimizing for size and actuators [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9560988)]
 
 ### Quadruped: Reinforcement Learning-Based Control
 
