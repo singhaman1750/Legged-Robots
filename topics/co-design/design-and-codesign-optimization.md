@@ -33,16 +33,20 @@ Papers are arranged from newest to oldest within each section.
 
 ### Biped and Humanoid: Model-Based Control
 
-1. **Toward a Co-Design Framework for Bipedal Robots**: *IEEE Access, 2026* [[Paper](https://doi.org/10.1109/ACCESS.2026.3694586)]
-2. **Task-Aware Actuator Parameter Allocation for Multibody Robots**: *IEEE Robotics and Automation Letters, 2026* [[Paper](https://doi.org/10.1109/LRA.2026.3674006)]
-3. **Maximising Tolerance to Disturbances via Combined Control-Actuation Optimisation for Robust Humanoid Robot Walking**: *IEEE Robotics and Automation Letters, 2025* [[Paper](https://doi.org/10.1109/LRA.2025.3549660)]
-4. **Humanoid Robot Co-Design: Coupling Hardware Design with Gait Generation via Hybrid Zero Dynamics**: *IEEE Conference on Decision and Control (CDC), 2023* [[Paper](https://arxiv.org/abs/2308.10962)]
-5. **Control- & Task-Aware Optimal Design of Actuation System for Legged Robots Using Binary Integer Linear Programming**: *IEEE-RAS International Conference on Humanoid Robots (Humanoids), 2023* [[Paper](https://arxiv.org/abs/2307.11573)]
+1. **Draft: A Parametric Tool for Robot Design Exploration**: Sep 2026, arXiv preprint [[Paper](https://arxiv.org/pdf/2609.38405)]
+2. **Toward a Co-Design Framework for Bipedal Robots**: *IEEE Access, 2026* [[Paper](https://doi.org/10.1109/ACCESS.2026.3694586)]
+3. **Task-Aware Actuator Parameter Allocation for Multibody Robots**: *IEEE Robotics and Automation Letters, 2026* [[Paper](https://doi.org/10.1109/LRA.2026.3674006)]
+4. **Maximising Tolerance to Disturbances via Combined Control-Actuation Optimisation for Robust Humanoid Robot Walking**: *IEEE Robotics and Automation Letters, 2025* [[Paper](https://doi.org/10.1109/LRA.2025.3549660)]
+5. **Humanoid Robot Co-Design: Coupling Hardware Design with Gait Generation via Hybrid Zero Dynamics**: *IEEE Conference on Decision and Control (CDC), 2023* [[Paper](https://arxiv.org/abs/2308.10962)]
+6. **Control- & Task-Aware Optimal Design of Actuation System for Legged Robots Using Binary Integer Linear Programming**: *IEEE-RAS International Conference on Humanoid Robots (Humanoids), 2023* [[Paper](https://arxiv.org/abs/2307.11573)]
 
 ### Biped and Humanoid: Reinforcement Learning-Based Control
 
-1. **Efficient Co-Adaptation of Humanoid Robot Design and Locomotion Control Using Surrogate-Guided Optimization**: *Biomimetic Intelligence and Robotics, 2025* [[Paper](https://doi.org/10.1016/j.birob.2025.100255)]
-2. **Structural Optimization of Lightweight Bipedal Robot via SERL**: *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024* [[Paper](https://arxiv.org/abs/2408.15632)]
+1. **BRIDGE: An Open-Source Humanoid Platform via Morphology-Control Co-Design for Physical AI**: 2026, arXiv preprint [[Paper](https://arxiv.org/pdf/2609.03497)]
+2. **Efficient Co-Adaptation of Humanoid Robot Design and Locomotion Control Using Surrogate-Guided Optimization**: *Biomimetic Intelligence and Robotics, 2025* [[Paper](https://doi.org/10.1016/j.birob.2025.100255)]
+3. **Toward Humanoid Brain-Body Co-Design: Joint Optimization of Control and Morphology for Fall Recovery**: Nov 2025, arXiv preprint [[Paper](https://arxiv.org/pdf/2510.22336)]
+4. **Evolutionary Continuous Adaptive RL-Powered Co-Design for Enhanced Humanoid Performance**: 2025, arXiv preprint [[Paper](https://arxiv.org/abs/2509.26082)]
+5. **Structural Optimization of Lightweight Bipedal Robot via SERL**: *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024* [[Paper](https://arxiv.org/abs/2408.15632)]
 
 ### Monoped Jumping
 
@@ -53,8 +57,10 @@ Papers are arranged from newest to oldest within each section.
 ### RL-Based Design Generation and Neural Design Policies
 
 1. **Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design**: *arXiv preprint, 2026* [[Paper](https://arxiv.org/abs/2607.25798)] [[Project Page](https://transformer-transformer.github.io/)]
-2. **Transform2Act: Learning a Transform-and-Control Policy for Efficient Agent Design**: *International Conference on Learning Representations (ICLR), 2022* [[Paper](https://arxiv.org/abs/2110.03659)]
-3. **Hardware as Policy: Mechanical and Computational Co-Optimization Using Deep Reinforcement Learning**: *Conference on Robot Learning (CoRL), 2020; proceedings published in PMLR, 2021* [[Paper](https://arxiv.org/abs/2008.04460)]
+2. **RoboMorph: Evolving Robot Morphology Using Large Language Models**: *2026, IEEE ICRA* [[Paper](https://arxiv.org/pdf/2407.08626)]
+3. **Transform2Act: Learning a Transform-and-Control Policy for Efficient Agent Design**: *International Conference on Learning Representations (ICLR), 2022* [[Paper](https://arxiv.org/abs/2110.03659)]
+4. **Hardware as Policy: Mechanical and Computational Co-Optimization Using Deep Reinforcement Learning**: *Conference on Robot Learning (CoRL), 2020; proceedings published in PMLR, 2021* [[Paper](https://arxiv.org/abs/2008.04460)]
+5. **RoboGrammar: Graph Grammar for Terrain-Optimized Robot Design**: *2020, ACM Transactions on Graphics / SIGGRAPH Asia* [[Paper](https://dl.acm.org/doi/10.1145/3414685.3417831)]
 
 ### Other Learning-Based and General Co-Design Methods
 
