@@ -32,6 +32,7 @@
 
 1. Humanoid Robot Co-Design: Coupling Hardware Design with Gait Generation via Hybrid Zero Dynamics [[Paper](https://arxiv.org/abs/2308.10962)]
 2. Toward a Co-Design Framework for Bipedal Robots [[Paper](https://doi.org/10.1109/ACCESS.2026.3694586)]
+3. Maximising Tolerance to Disturbances via Combined Control-Actuation Optimisation for Robust Humanoid Robot Walking [[Paper](https://ieeexplore.ieee.org/document/10918820)]
 
 ### Biped and Humanoid: Reinforcement Learning-Based Control
 
