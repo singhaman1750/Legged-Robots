@@ -34,6 +34,14 @@ A curated collection of papers, videos, tools, and references for legged robotic
 
 ### Co-design Optimization of Legged Robots
 - [Design Optimization and Co-Design Optimization](topics/co-design/design-and-codesign-optimization.md)
+  - [Surveys](topics/co-design/surveys.md)
+  - [Quadruped: Model-Based Control](topics/co-design/quadruped-model-based.md)
+  - [Quadruped: Reinforcement Learning](topics/co-design/quadruped-rl.md)
+  - [Biped and Humanoid: Model-Based Control](topics/co-design/biped-humanoid-model-based.md)
+  - [Biped and Humanoid: Reinforcement Learning](topics/co-design/biped-humanoid-rl.md)
+  - [Monoped Jumping](topics/co-design/monoped-jumping.md)
+  - [RL-Based Design Generation and Neural Design Policies](topics/co-design/design-generation-neural-policies.md)
+  - [Other Learning-Based and General Methods](topics/co-design/other-methods.md)
 
 ## Hands-on Resources
 - [YouTube Projects and Videos](topics/hands-on/youtube-projects-and-videos.md)
