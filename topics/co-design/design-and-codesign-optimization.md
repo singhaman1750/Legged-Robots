@@ -21,7 +21,6 @@
 11. Computational design towards energy efficient optimization in over-constrained robotic limbs [[Paper](https://www.semanticscholar.org/paper/Computational-design-towards-energy-efficient-in-Gu-Wang/6f950cb1d8fc31b72cffca80c89761e65a3bed81)]
 12. Simulation aided co-design for robust robot optimization [[Paper](https://ieeexplore.ieee.org/document/9863656)]
 13. Codesign of a Differential Three-Segment Leg Enhancing Payload and Efficiency in Quadrupeds [[Paper](https://ieeexplore.ieee.org/abstract/document/11130397)]
-14. 
 
 ### Quadruped: Reinforcement Learning-Based Control
 
@@ -42,6 +41,11 @@
 
 1. Structural Optimization of Lightweight Bipedal Robot via SERL [[Paper](https://arxiv.org/abs/2408.15632)]
 2. Efficient Co-Adaptation of Humanoid Robot Design and Locomotion Control Using Surrogate-Guided Optimization [[Paper](https://doi.org/10.1016/j.birob.2025.100255)]
+
+### Monoped Jumping
+1. Task-Oriented Co-Design and Optimization of Geared Actuators for Robotic Applications [[Paper](https://arxiv.org/pdf/2609.22795)]
+2. A Co-Design Framework for Energy-Aware Monoped Jumping with Detailed Actuator Modeling [[Paper](https://arxiv.org/pdf/2510.05923)]
+3. A Co-Design Framework for High-Performance Jumping of a Five-Bar Monoped with Actuator Optimization [[Paper](https://arxiv.org/pdf/2604.06025)]
 
 ### RL-Based Design Generation and Neural Design Policies
 
