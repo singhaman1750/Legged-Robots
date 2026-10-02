@@ -20,6 +20,8 @@
 10. Computational design of energy-efficient legged robots:  Optimizing for size and actuators [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9560988)]
 11. Computational design towards energy efficient optimization in over-constrained robotic limbs [[Paper](https://www.semanticscholar.org/paper/Computational-design-towards-energy-efficient-in-Gu-Wang/6f950cb1d8fc31b72cffca80c89761e65a3bed81)]
 12. Simulation aided co-design for robust robot optimization [[Paper](https://ieeexplore.ieee.org/document/9863656)]
+13. Codesign of a Differential Three-Segment Leg Enhancing Payload and Efficiency in Quadrupeds [[Paper](https://ieeexplore.ieee.org/abstract/document/11130397)]
+14. 
 
 ### Quadruped: Reinforcement Learning-Based Control
 
@@ -34,6 +36,7 @@
 2. Toward a Co-Design Framework for Bipedal Robots [[Paper](https://doi.org/10.1109/ACCESS.2026.3694586)]
 3. Maximising Tolerance to Disturbances via Combined Control-Actuation Optimisation for Robust Humanoid Robot Walking [[Paper](https://ieeexplore.ieee.org/document/10918820)]
 4. Task-Aware Actuator Parameter Allocation for Multibody Robots [[Paper](https://ieeexplore.ieee.org/document/11433790)]
+5. Control- & Task-Aware Optimal Design of Actuation System for Legged Robots Using Binary Integer Linear Programming [[Paper](https://arxiv.org/abs/2307.11573)]
 
 ### Biped and Humanoid: Reinforcement Learning-Based Control
 
