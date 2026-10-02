@@ -19,6 +19,7 @@
 9. Engineering Compliance in Legged Robots via Robust Co-Design [[Paper](https://doi.org/10.1109/TMECH.2024.3382305)]
 10. Computational design of energy-efficient legged robots:  Optimizing for size and actuators [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9560988)]
 11. Computational design towards energy efficient optimization in over-constrained robotic limbs [[Paper](https://www.semanticscholar.org/paper/Computational-design-towards-energy-efficient-in-Gu-Wang/6f950cb1d8fc31b72cffca80c89761e65a3bed81)]
+12. Simulation aided co-design for robust robot optimization [[Paper](https://ieeexplore.ieee.org/document/9863656)]
 
 ### Quadruped: Reinforcement Learning-Based Control
 
