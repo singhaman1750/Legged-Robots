@@ -49,5 +49,5 @@
 2. Accelerated Co-Design of Robots Through Morphological Pretraining [[Paper](https://arxiv.org/abs/2502.10862)]
 3. Deep Reinforcement Learning Based Co-Optimization of Morphology and Gait for Small-Scale Legged Robot [[Paper](https://doi.org/10.1109/TMECH.2023.3330427)]
 4. Making Use of Design-Aware Policy Optimization in Legged-Robotics Co-Design [[Paper](https://openreview.net/pdf?id=utaVaqRVO4)]
-5. 4. **CACTO** (IEEE Access 2021): Exploring the Limits of a Redundant Actuation System Through Co-Design [[Paper](https://ieeexplore.ieee.org/document/9400808)]
+5. **CACTO** (IEEE Access 2021): Exploring the Limits of a Redundant Actuation System Through Co-Design [[Paper](https://ieeexplore.ieee.org/document/9400808)]
 
