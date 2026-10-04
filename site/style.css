@@ -1,6 +1,7 @@
 /* Matches the look of aman-singh.in (al-folio theme): Roboto, white / dark-grey
    background, purple (light) or cyan (dark) accent, bordered top navbar, grey footer bar. */
 :root {
+  --content-width:740px;
   --bg:#fff; --text:#000; --text-light:#828282; --theme:#b509ac; --divider:rgba(0,0,0,.1);
   --code-bg:rgba(181,9,172,.05); --footer-bg:#1c1c1d; --footer-text:#d1d1d1; --footer-link:#fff;
 }
@@ -15,7 +16,7 @@ html { font-size:16px; }
 body { margin:0; background:var(--bg); color:var(--text);
   font-family:Roboto,-apple-system,"Segoe UI",sans-serif; font-weight:400; line-height:1.5;
   padding:5rem 0 4rem; }
-.container { max-width:930px; margin:0 auto; padding:0 15px; }
+.container { max-width:var(--content-width); margin:0 auto; padding:0 15px; }
 
 /* navbar */
 .navbar { position:fixed; top:0; left:0; right:0; z-index:10; background:var(--bg); opacity:.95;
@@ -49,4 +50,10 @@ footer { position:fixed; bottom:0; left:0; right:0; background:var(--footer-bg);
   font-size:.75rem; text-align:center; padding:9px 0 8px; }
 footer a { color:var(--footer-link); }
 
-@media (max-width:576px) { .nav a { padding:.35rem .5rem; } h1 { font-size:1.9rem; } }
+@media (max-width:576px) {
+  body { padding-top:7rem; }
+  .navbar .container { display:block; }
+  .nav { flex-wrap:nowrap; overflow-x:auto; white-space:nowrap; }
+  .nav a { padding:.35rem .5rem; }
+  h1 { font-size:1.9rem; }
+}
