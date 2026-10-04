@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{title}}</title>
+<link rel="icon" href="https://aman-singh.in/assets/img/AMAN_logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap">
+<link rel="stylesheet" href="{{root}}style.css">
+</head>
+<body>
+<nav class="navbar">
+  <div class="container">
+    <a class="brand" href="https://aman-singh.in/">Aman Singh</a>
+    <ul class="nav">
+      <li><a href="https://aman-singh.in/">about</a></li>
+      <li><a href="https://aman-singh.in/projects/">research</a></li>
+      <li><a href="https://aman-singh.in/publications/">publications</a></li>
+      <li><a href="https://aman-singh.in/blog/">blog</a></li>
+      <li><a href="https://aman-singh.in/repositories/">repositories</a></li>
+      <li><a href="https://aman-singh.in/teaching/">teaching</a></li>
+      <li class="active"><a href="{{root}}index.html">resources</a></li>
+    </ul>
+  </div>
+</nav>
+<main class="container">
+{{content}}
+</main>
+<footer>
+  <div class="container">&copy; Copyright {{year}} Aman Singh. Last updated: {{updated}}.</div>
+</footer>
+</body>
+</html>
