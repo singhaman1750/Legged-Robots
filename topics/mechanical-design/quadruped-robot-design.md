@@ -29,6 +29,7 @@ Masses are as reported in each paper. Robots are sorted by year within each tabl
 | Minitaur | Design Principles for a Family of Direct-Drive Legged Robots | 2016 | 5 kg | IEEE RA-L 1(2) | [Paper](https://ieeexplore.ieee.org/document/7403902) · [Video / Article](https://spectrum.ieee.org/ghost-robotics-minitaur-demonstrates-impressive-new-skills) |
 | Stanford Doggo | Stanford Doggo, an open source quasi-direct drive quadruped | 2019 | 4.8 kg | ICRA 2019 | [Paper](https://arxiv.org/abs/1905.04254) · [Video](https://www.youtube.com/watch?v=2E82o2pP9Jo) · [GitHub](https://github.com/Nate711/StanfordDoggoProject) |
 | Stoch, IISc | Design, Development and Experimental Realization of A Quadrupedal Research Platform: Stoch | 2019 | 3.1 kg | ICRA 2019 | [Paper](https://ieeexplore.ieee.org/document/8813480) · [Video](https://youtu.be/Wxx9pwwTIL4) |
+| Stoch 2, IISc | Gait Library Synthesis for Quadruped Robots via Augmented Random Search | 2019 | ~4 kg | arXiv preprint | [Paper](https://arxiv.org/abs/1912.12907) |
 | Solo | An Open Torque-Controlled Modular Robot Architecture for Legged Locomotion Research | 2020 | 2.2 kg | ICRA 2020 | [Paper](https://ieeexplore.ieee.org/document/9015985) · [Project Page](https://is.mpg.de/ics/publications/an-open-force-controlled-modular-robot-architecture-for-legged-locomotion-research) |
 
 #### 2.2 Small-mid-sized (9–13 kg; Mini Cheetah class, highly dynamic)
