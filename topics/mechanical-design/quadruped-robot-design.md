@@ -36,6 +36,7 @@ Masses are as reported in each paper. Robots are sorted by year within each tabl
 
 | Robot | Title | Year | Mass | Venue | Links |
 |---|---|---|---|---|---|
+| UIUC Panther | Design and experimental implementation of a quasi-direct-drive leg for optimized jumping | 2017 | 5.5 kg | IROS 2017 | [Paper](https://ieeexplore.ieee.org/document/8202172) · [PhD Thesis (Yanran Ding)](https://www.ideals.illinois.edu/items/118331) |
 | MIT Mini Cheetah | Mini Cheetah: A Platform for Pushing the Limits of Dynamic Quadruped Control | 2019 | 9 kg | ICRA 2019 | [Paper](https://ieeexplore.ieee.org/document/8793865) · [Video](https://www.youtube.com/watch?v=G6fMV1UPzkg) · [Blog](https://build-its.blogspot.com/2019/12/the-mini-cheetah-robot.html) · [Gear-width-Calc](https://drivetrainhub.com/notebooks/gears/strength/Chapter%202%20-%20Root%20Stress.html) |
 | PADWQ | Design and Control of a Open-Source, Low Cost, 3D Printed Dynamic Quadruped Robot | 2021 | 12.7 kg | Applied Sciences 11(9) | [Paper](https://www.mdpi.com/2076-3417/11/9/3762) |
 
@@ -60,9 +61,3 @@ Masses are as reported in each paper. Robots are sorted by year within each tabl
 | Barry | Barry: A High-Payload and Agile Quadruped Robot | 2023 | ~48 kg | IEEE RA-L 8(11) | [Paper](https://ieeexplore.ieee.org/document/10246325) |
 | RAIBO, KAIST | RaiBo: A versatile robo-dog that runs through a sandy beach at 3 meters per second | 2023 | not published | News | [Article](https://techxplore.com/news/2023-01-raibo-versatile-robo-dog-sandy-beach.html) · [Video](https://www.youtube.com/watch?v=ATvFSwkneu4) |
 | RAIBO2, KAIST | RAIBO2: Highly efficient quadruped robot completing full marathon with a single battery charge | 2025 | 43–45 kg | Research Square preprint | [Paper](https://www.researchsquare.com/article/rs-6040970/v1) · [Video](https://youtu.be/P8Tu_BCYbEQ) |
-
-### 3. Single-leg Prototypes
-
-| Robot | Title | Year | Mass | Venue | Links |
-|---|---|---|---|---|---|
-| UIUC Panther (leg) | Design and experimental implementation of a quasi-direct-drive leg for optimized jumping | 2017 | 0.64 kg (single leg) | IROS 2017 | [Paper](https://ieeexplore.ieee.org/document/8202172) |
