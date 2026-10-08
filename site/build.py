@@ -37,6 +37,13 @@ def rewrite_links(body: str) -> str:
     )
 
 
+def td_class(m: re.Match) -> str:
+    # keep short values (years, masses) on one line; give long text room before it wraps
+    text = re.sub(r"<[^>]+>", "", m.group(1))
+    cls = " class=\"short\"" if len(text) <= 12 else " class=\"long\"" if len(text) > 50 else ""
+    return f"<td{cls}>{m.group(1)}</td>"
+
+
 def render(src: Path) -> None:
     rel = src.relative_to(ROOT)
     is_index = rel == Path("README.md")
@@ -47,6 +54,9 @@ def render(src: Path) -> None:
         clean(raw, is_index), extensions=["tables", "fenced_code", "sane_lists"]
     )
     body = rewrite_links(body)
+    # scroll wrapper so wide tables can break out of the text column (see style.css)
+    body = body.replace("<table>", '<div class="table-wrap"><table>').replace("</table>", "</table></div>")
+    body = re.sub(r"<td>(.*?)</td>", td_class, body)
 
     out = SITE / ("index.html" if is_index else rel.with_suffix(".html"))
     out.parent.mkdir(parents=True, exist_ok=True)

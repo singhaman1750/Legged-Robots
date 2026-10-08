@@ -1,14 +1,14 @@
 /* Matches the look of aman-singh.in (al-folio theme): Roboto, white / dark-grey
    background, purple (light) or cyan (dark) accent, bordered top navbar, grey footer bar. */
 :root {
-  --content-width:740px;
+  --content-width:740px; --table-width:1080px; --row-alt:rgba(0,0,0,.025);
   --bg:#fff; --text:#000; --text-light:#828282; --theme:#b509ac; --divider:rgba(0,0,0,.1);
   --code-bg:rgba(181,9,172,.05); --footer-bg:#1c1c1d; --footer-text:#d1d1d1; --footer-link:#fff;
 }
 @media (prefers-color-scheme: dark) {
   :root {
     --bg:#1c1c1d; --text:#d1d1d1; --text-light:#828282; --theme:#2698ba; --divider:#424246;
-    --code-bg:#2c3237; --footer-bg:#d1d1d1; --footer-text:#1c1c1d; --footer-link:#000;
+    --code-bg:#2c3237; --row-alt:rgba(255,255,255,.03); --footer-bg:#d1d1d1; --footer-text:#1c1c1d; --footer-link:#000;
   }
 }
 * { box-sizing:border-box; }
@@ -40,8 +40,18 @@ hr { border:0; border-top:1px solid var(--divider); margin:2rem 0; }
 code { background:var(--code-bg); padding:.1em .3em; border-radius:4px; font-size:.9em; }
 pre { background:var(--code-bg); padding:.8rem; border-radius:6px; overflow-x:auto; }
 pre code { padding:0; background:none; }
-table { display:block; overflow-x:auto; border-collapse:collapse; max-width:100%; }
-th,td { padding:1px 1rem 1px 0; text-align:left; } th { font-weight:bold; }
+/* tables: wider than the text column on big screens, scroll sideways on small ones */
+.table-wrap { --w:min(var(--table-width), calc(100vw - 2.5rem)); width:var(--w);
+  margin:1rem 0 1.75rem calc(50% - var(--w) / 2); overflow-x:auto;
+  border:1px solid var(--divider); border-radius:8px; }
+table { width:100%; border-collapse:collapse; font-size:.875rem; line-height:1.4; }
+th,td { padding:.55rem .75rem; text-align:left; vertical-align:top; border-bottom:1px solid var(--divider); }
+th { background:var(--code-bg); font-weight:600; white-space:nowrap; border-bottom:2px solid var(--theme); }
+tbody tr:last-child td { border-bottom:0; }
+tbody tr:nth-child(even) { background:var(--row-alt); }
+tbody tr:hover { background:var(--code-bg); }
+td a { overflow-wrap:normal; white-space:nowrap; }
+td.short { white-space:nowrap; } td.long { min-width:16rem; }
 blockquote { border-left:5px solid var(--theme); margin:1.5rem 0; padding:1rem; }
 img { max-width:100%; }
 
