@@ -25,6 +25,9 @@
 2. [Shuji Nakamura: Invention of Blue LED](https://youtu.be/AF8d72mA41M?feature=shared): Documentary about the invention of blue LED, which eventually led to a Nobel Prize in physics, one of the few for engineering efforts.
 3. [The Value of Science: Richard P. Feynman](https://calteches.library.caltech.edu/1575/1/Science.pdf): An article on why science and the scientific method are important, is it just a tool for the betterment of society or is it much more?
 
+#### Abstract Questions 
+1. [Wheels vs Legs](https://asianroboticsreview.com/home709-html): Comparison between legs and wheels
+
 #### Resource Websites:
 1. [List of useful resources: Aditya Mehrotra, MIT D-lab](https://www.adim.io/resources)
 2. [StePhane Caron](https://scaron.info/category/robotics.html)
