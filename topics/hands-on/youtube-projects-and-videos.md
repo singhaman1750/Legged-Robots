@@ -2,7 +2,7 @@
 
 [← Back to Dashboard](../../README.md)
 
-#### Quadruped Robot projects
+### Quadruped Robot projects
 
 1. **Stanley** by AheadIO: [[Video-Link](https://youtu.be/tIJMQKBBDtc?si=kkgVG_2jDeyVNn2C)][[Video-link-2](https://youtu.be/UTWGk3VrvQk?si=cYK-9lprQ1rbC0Ra)]
 2. **Open Robot Dog** by James Bruton: [[Video-Link](https://www.youtube.com/playlist?list=PLpwJoq86vov8uTgd8_WNgBHFpDYemO-OJ)]
@@ -19,11 +19,13 @@
 8. **NovaSM3** by Chris Locke: [[Video-Link](https://youtu.be/0YpnKmXtMKQ?si=SBpXyaCsK51mGO5T)]
 9. **XGO-Mini**: [[Video-Link](https://youtu.be/ZYeSgKPc02M?si=sQOHm0S0N6sVicel)]
 
-#### Actuators
+### Actuators
 
 1. **Osstrich Robot Actuator:** Inrunner motor Internal single stage planetary actuator [[YouTube-link](https://www.youtube.com/watch?v=ml7DTKx4ssc)]
 
-#### Robot Breakdown videos
+### Robot Breakdown videos 
+
+#### [Full Youtube Playlist of these videos](https://www.youtube.com/playlist?list=PLDDn5BE5TRjw)
 
 1. **Unitree G1**: [[Youtube-link](https://www.youtube.com/watch?v=CSJydnLzBAo)]
 2. **Unitree Go1**:
@@ -37,6 +39,6 @@
 4. **Mini Cheetah Commercial Actuator Teardown**: [[Youtube](https://youtu.be/Mhxz2Bj2RXA?si=vdz6QJi9MaRigHs1)]
 
 
-#### Robotics Tools Tutorials
+### Robotics Tools Tutorials
 
 1. Convert Solidworks CAD to URDF: [[YouTube-Playlist](https://youtube.com/playlist?list=PL5HnE_lHbcojyFJsQueN4xUTp5Iss5Mr7&si=TJT_1j2EFLc93PGW)]
