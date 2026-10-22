@@ -19,6 +19,10 @@
 8. **NovaSM3** by Chris Locke: [[Video-Link](https://youtu.be/0YpnKmXtMKQ?si=SBpXyaCsK51mGO5T)]
 9. **XGO-Mini**: [[Video-Link](https://youtu.be/ZYeSgKPc02M?si=sQOHm0S0N6sVicel)]
 
+#### Actuators
+
+1. **Osstrich Robot Actuator:** Inrunner motor Internal single stage planetary actuator [[YouTube-link](https://www.youtube.com/watch?v=ml7DTKx4ssc)]
+
 #### Robotics Tools Tutorials
 
 1. Convert Solidworks CAD to URDF: [[YouTube-Playlist](https://youtube.com/playlist?list=PL5HnE_lHbcojyFJsQueN4xUTp5Iss5Mr7&si=TJT_1j2EFLc93PGW)]
