@@ -23,6 +23,20 @@
 
 1. **Osstrich Robot Actuator:** Inrunner motor Internal single stage planetary actuator [[YouTube-link](https://www.youtube.com/watch?v=ml7DTKx4ssc)]
 
+#### Robot Breakdown videos
+
+1. **Unitree G1**: [[Youtube-link](https://www.youtube.com/watch?v=CSJydnLzBAo)]
+2. **Unitree Go1**:
+   a. Mechanical:
+      - Thigh mechanical transmission: [[Youtube-short](https://www.youtube.com/shorts/KVS0Xwg15Tc)]
+      - Thigh Link mechanical assembly: [[Youtube](https://www.youtube.com/watch?v=aVtfYlGhKig)]
+      - Leg assembly (long video ~1.5 hrs): [[Youtube](https://www.youtube.com/watch?v=ErYni1dtj8k)]
+   c. Electronics teardown: [[Video](https://www.youtube.com/shorts/KVS0Xwg15Tc)]
+3. **Unitree B1 Breakdown**
+   a. Thigh link transmission: [[YouTube](https://youtu.be/njWkAXVZtFg?si=vZ55LPKKPdcOBijX)]
+4. **Mini Cheetah Commercial Actuator Teardown**: [[Youtube](https://youtu.be/Mhxz2Bj2RXA?si=vdz6QJi9MaRigHs1)]
+
+
 #### Robotics Tools Tutorials
 
 1. Convert Solidworks CAD to URDF: [[YouTube-Playlist](https://youtube.com/playlist?list=PL5HnE_lHbcojyFJsQueN4xUTp5Iss5Mr7&si=TJT_1j2EFLc93PGW)]
